@@ -436,47 +436,7 @@ async def index():
       const formData = new FormData();
       formData.append('file', file);
       
-      try {{
-        console.log('Envoi de la requête à /api/convert...');
-        
-        const response = await fetch('/api/convert', {{
-          method: 'POST',
-          body: formData
-        }});
-        
-        console.log('Réponse reçue:', response.status, response.statusText);
-        
-        // Cache le loader
-        loader.classList.remove('show');
-        submitBtn.disabled = false;
-        
-        // Vérifie si la réponse est du JSON
-        const contentType = response.headers.get('content-type');
-        if (!contentType || !contentType.includes('application/json')) {{
-          const text = await response.text();
-          console.error('Réponse non-JSON:', text);
-          showError('Le serveur a retourné une réponse invalide (non-JSON)');
-          return;
-        }}
-        
-        const data = await response.json();
-        console.log('Données reçues:', data);
-        
-        if (!response.ok) {{
-          showError(data.detail || 'Erreur lors de la conversion');
-          return;
-        }}
-        
-        // Affiche les résultats
-        showResults(data);
-        
-      }} catch (error) {{
-        console.error('Erreur complète:', error);
-        loader.classList.remove('show');
-        submitBtn.disabled = false;
-        showError('Erreur réseau: ' + error.message + ' (voir console pour détails)');
-      }}
-    }});
+      }};
     
     function escapeHtml(text) {{
       const div = document.createElement('div');
