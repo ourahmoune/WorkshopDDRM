@@ -12,9 +12,11 @@ To divid into chunk md file
   - Traitement docling (docling_extractor.py)
 - Fichier MarkDown hierarchisé
   - Chunkerisation (chunkerer.py)
-  - Generation des questions
+  - Generation des questions (questions_generator.py)
 - Json des chunks & questions
-  - Embedding (qwen3-embedding)
+  - Embedding (qwen3-embedding) , (embedding.py)
+- Interface de chat-bot 
+  - ui.py 
 - Matrice
 
 ## Utilisation
