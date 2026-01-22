@@ -1,0 +1,2689 @@
+79
+
+## SOMMAIRE
+
+| Préface du Préfet                                         | Préface du Préfet                                                                                     | 3   |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --- |
+| 1. Généralités sur les risques naturels et technologiques | majeurs                                                                                               | 5   |
+| 2.                                                        | Les risques naturels                                                                                  | 15  |
+|                                                           | 2.1. Le risque inondation                                                                             | 17  |
+|                                                           | 2.2. Le risque mouvement de terrain                                                                   | 35  |
+|                                                           | 2.3. Le risque sismique                                                                               | 51  |
+|                                                           | 2.4. Le risque événements climatiques                                                                 | 63  |
+|                                                           | 2.5. Le risque radon                                                                                  | 77  |
+| 3.                                                        | Les risques technologiques                                                                            | 85  |
+|                                                           | 3.1. Le risque industriel                                                                             | 87  |
+|                                                           | 3.2. Le risque rupture de barrage                                                                     | 99  |
+|                                                           | 3.3. Le risque transport de matières dangereuses                                                      | 109 |
+|                                                           | 3.4. Le risque minier                                                                                 | 119 |
+| 4.                                                        | Les annexes                                                                                           |     |
+|                                                           | Annexe n°1 : Information sur le risque incendie des cultures (céréales à paille)                      | 132 |
+|                                                           | Annexe n°2 : Modèles réglementaires pour l'affichage des risques majeurs et des consignes de sécurité | 135 |
+|                                                           | Annexe n°3 : Tableau de synthèse des risques naturels et technologiques présents dans le département  | 141 |
+
+5
+
+## LemotduPrefet
+
+Laprotection despopulations,vis-a-visdesrisquesde toutes naturesparmi lesquels ceuxd'originenaturelleou technologique,faitpartie desmissionsessentielles des pouvoirspublics.L'exercicedecetteresponsabilitedepassedesormaislecadrede lacollectivitepubliquepourdevenirIaffairedechacun.Toutepersonnepeuten effetetreameneeaconcourir.parsoncomportementetdanslamesure deses possibilites,a lapreventiondesrisquesliesalenvironnementetalaprisedes premieresdispositionsnecessaires.
+
+Pour ce faire,Iinformation ef la sensibillisation des citoyens constituent des connaisse les reflexes de prevention.de protecfion,oinsi queles dispositifs de secourspreparesparlespouvoirspublics.
+
+C'estdanscetteperspectivequeleDossierDepartementaldesRisques Majeurs (DDRM).éditeprecedemmenten2013,vienld'etrereactualise.LeDDRM decrit les risquesmajeursnaturelsettechnologiquesidentifies dansle-departement,ainsique leurs consequencesprevisiblespourlespersonnes.les biensetI'environnement.l exposelesmesuresdeprevention,deprotectionetdesauvegardeprevuesparles autoritespubliquespourenlimiterleseffets.
+
+Cedocumentdoit servir dereferenceauxcollectivifeslocales,etplus particulierementauxmairesdescommunesdu departemenf.qui ontpour mission derelayercesinformationsaupresdeleursadministresa traverslesDocuments d'Information CommunauxsurlesRisques MajeursDlCRiM)et lesPlans Communaux deSauvegarde(PCS)-
+
+Jevousinvite doncaprendreconnaissancedecettenouvelleversionduDDRM. consultablealaprefecture.ensous-prefecture.danslesmairiesdu departement,et surlesiteinternetdesservicesdeIEtatdanslesDeux-Sevres:http://www.deux sevres.gouv.fr.
+
+Jeformelevceuque cedocument favorisela culturedurisque,etquilamene role.
+
+Faceauxrisquessoyonstousacteurdenotresecurite
+
+-Emmanuel AUBRY PrefetdesDeux-Sevres
+
+1. Généralités sur les risques naturels et technologiques majeurs
+
+## Le risque majeur
+
+## LE RISQUE MAJEUR
+
+## Qu'est-ce qu'un risque majeur ?
+
+Le risque majeur est la possibilité que survienne un événement d'origine naturelle ou anthropique (occasionné par l'homme), dont les effets peuvent mettre en jeu un grand nombre de personnes, occasionner des dommages importants et dépasser les capacités de réaction de la société.
+
+L'existence d'un risque majeur est liée :
+
+-  d'une part à la présence d'un événement, qui est la manifestation d'un phénomène naturel ou anthropique, caractérisé par l' aléa ;
+-  d'autre part à l'existence d' enjeux , qui représentent l'ensemble des personnes et des biens pouvant être affectés par un phénomène. Les conséquences d'un risque majeur sur les enjeux se mesurent en termes de vulnérabilité.
+
+Un risque majeur est caractérisé par sa faible fréquence et par sa gravité (nombreuses victimes, dommages importants aux biens et à l'environnement).
+
+Neuf risques naturels principaux sont prévisibles sur le territoire national : les inondations, les séismes, les éruptions volcaniques, les mouvements de terrain, les avalanches, les feux de forêt, les cyclones, les tempêtes et les tornades. Les risques technologiques, d'origine anthropique, sont au nombre de cinq : le risque nucléaire, le risque industriel, le risque de transport de matières dangereuses, le risque de rupture de barrage, ainsi que le risque minier.
+
+## La prévention des risques majeurs en France
+
+La prévention des risques regroupe l'ensemble des dispositions à mettre en oeuvre pour réduire l'impact d'un phénomène naturel ou anthropique prévisible sur les personnes et les biens. Elle s'inscrit dans une logique de développement durable, puisque, à la différence de la réparation post-crise, la prévention tente de réduire les conséquences économiques, sociales et environnementales d'un développement imprudent de notre société.
+
+## La connaissance des phénomènes, de l'aléa et du risque
+
+Depuis plusieurs années, des outils de recueil et de traitement des données collectées sur les phénomènes sont mis au point et utilisés, notamment par des établissements publics spécialisés (MétéoFrance par exemple). Les connaissances ainsi collectées se concrétisent à travers des bases de données (sismicité, climatologie, nivologie), des atlas (cartes des zones inondables, carte de localisation des phénomènes avalancheux), etc. Elles permettent d'identifier les enjeux et d'en déterminer la vulnérabilité face aux aléas auxquels ils sont exposés.
+
+Pour poursuivre vers une meilleure compréhension des aléas, il est donc primordial de développer ces axes de recherche, mais également de mettre l'ensemble de cette connaissance à disposition du plus grand nombre, notamment à travers l'internet.
+
+## La surveillance
+
+L'objectif de la surveillance est d'anticiper le phénomène et de pouvoir alerter les populations à temps. Elle nécessite pour cela l'utilisation de dispositifs d'analyses et de mesures (par exemple les services de prévision de crue), intégrés dans un système d'alerte des populations. Les mouvements de terrain de grande ampleur sont également surveillés en permanence, de même que le niveau de sismicité.
+
+## La vigilance météorologique
+
+Une carte de « vigilance météorologique » est élaborée 2 fois par jour à 6h00 et 16h00 et attire l'attention sur la possibilité d'occurrence d'un phénomène météorologique dangereux dans les 24 heures qui suivent son émission.
+
+Le niveau de vigilance vis-à-vis des conditions météorologiques à venir est présenté sous une échelle de 4 couleurs et qui figurent en légende sur la carte :
+
+Niveau 1 (Vert)  Risque faible : Pas de vigilance particulière .
+
+Niveau 2 (Jaune)  Risque moyen : Soyez attentifs si vous pratiquez des activités sensibles au risque météorologique ou à proximité d'un rivage ou d'un cours d'eau. Des phénomènes habituels dans la région mais occasionnellement et localement dangereux (ex. mistral, orage d'été, montée des eaux, fortes vagues submergeant le littoral) sont en effet prévus ; tenez-vous au courant de l'évolution de la situation.
+
+Niveau 3 (Orange)  Risque fort : Soyez très vigilant : des phénomènes dangereux sont prévus ; tenez-vous au courant de l'évolution de l'évolution de la situation et suivez les conseils de sécurité émis par les pouvoirs publics.
+
+Niveau 4 (Rouge)  Risque très fort : Une vigilance absolue s'impose : des phénomènes dangereux d'intensité exceptionnelle sont prévus ; tenez-vous régulièrement au courant de l'évolution de la situation et respectez impérativement les consignes de sécurité émises par les pouvoirs publics.
+
+Les divers phénomènes dangereux sont précisés sur la carte sous la forme de pictogrammes, associés à chaque zone concernée par une mise en vigilance de niveau 3 ou 4.
+
+Les phénomènes traités sont : VENT VIOLENT, PLUIE-INONDATION, ORAGES, NEIGE-VERGLAS, AVALANCHE, CANICULE (du 1 er juin au 30 septembre), GRAND FROID (du 1 er novembre au 31 mars), VAGUESSUBMERSION.
+
+Toutes ces informations sont accessibles sur le site internet de Météo-France : http://www.meteofrance.com
+
+## La mitigation (réduction de l'intensité des aléas et/ou de la vulnérabilité des enjeux)
+
+L'objectif de la mitigation est d'atténuer les dommages, en réduisant soit l'intensité de certains aléas (inondations, coulées de boue, avalanches, etc.), soit la vulnérabilité des enjeux. Cette notion concerne notamment les biens économiques et patrimoniaux : les constructions, les bâtiments industriels et commerciaux, ceux nécessaires à la gestion de crise, les réseaux de communication, d'électricité, d'eau, etc.
+
+La mitigation suppose notamment la formation des divers intervenants (architectes, ingénieurs en génie civil, entrepreneurs, etc.) en matière de conception et de prise en compte des phénomènes climatiques et géologiques, ainsi que la définition de règles de construction.
+
+La mitigation relève également d'une implication des particuliers, qui doivent agir personnellement afin de réduire la vulnérabilité de leurs propres biens.
+
+## La prise en compte des risques dans l'aménagement
+
+Afin de réduire les dommages lors des catastrophes naturelles, il est nécessaire de maîtriser l'aménagement du territoire, en évitant d'augmenter les enjeux dans les zones à risque et en diminuant la vulnérabilité des zones déjà urbanisées.
+
+Les plans de prévention des risques naturels prévisibles (PPRN), institués par la loi « Barnier » du 2 février 1995, les PPR Miniers (loi du 30 mars 1999) et les PPR technologiques (loi du 30 juillet 2003), ont cette vocation. Ils constituent l'instrument réglementaire essentiel de l'État en matière de prévention des risques naturels, technologiques et miniers. L'objectif de cette procédure est le contrôle du
+
+## Le risque majeur
+
+## Le risque majeur
+
+développement de l'urbanisation dans les zones exposées à un risque. Ces plans peuvent par ailleurs prescrire diverses mesures de protection et de sauvegarde, comme des travaux sur les bâtiments
+
+Les PPR sont décidés par les préfets et réalisés par les services déconcentrés de l'État en concertation avec les collectivités concernées.
+
+Après approbation, les PPR valent servitude d'utilité publique et sont annexés au Plan Local d'Urbanisme (PLU), qui doit s'y conformer. Dès lors, l'aménagement sur une commune ne pourra se faire qu'en prenant en compte ces documents. Cela signifie qu'aucune construction ne pourra être autorisée dans les zones présentant les aléas les plus forts (zones les plus dangereuses), ou uniquement sous certaines contraintes. Des nouvelles constructions pourront être admises dans les zones soumises aux aléas les plus faibles sous certaines conditions.
+
+Indépendamment de l'existence d'un PPR, le code de l'urbanisme impose aux collectivités la prise en compte des risques dans les documents d'urbanisme (SCOT : Schéma de Cohérence Territoriale et PLU : Plan Local d'Urbanisme).
+
+## Le retour d'expérience
+
+L'objectif est de permettre aux services et opérateurs institutionnels, mais également au grand public, de mieux comprendre la nature de l'événement et ses conséquences.
+
+Ainsi chaque événement majeur fait l'objet d'une collecte d'informations, telles que l'intensité du phénomène, l'étendue spatiale, le taux de remboursement par les assurances, etc. Ces bases de données permettent d'établir un bilan de chaque catastrophe, et bien qu'il soit difficile d'en tirer tous les enseignements, elles permettent néanmoins d'en faire une analyse globale destinée à améliorer les actions des services concernés, voire à préparer les évolutions législatives futures.
+
+## L'information préventive
+
+L'information préventive consiste à renseigner le citoyen sur les risques majeurs susceptibles de se développer sur les lieux de vie, de travail et de vacances. L'obligation d'assurer l'information du citoyen est instaurée dans le code de l'environnement à travers son article L.125-2 : « Les citoyens ont un droit à l'information sur les risques majeurs auxquels ils sont soumis dans certaines zones du territoire et sur les mesures de sauvegarde qui les concernent (…) ».
+
+L'article L.125-11 du code de l'environnement définit un partage de responsabilité entre le préfet et le maire pour l'élaboration et la diffusion des documents d'information.
+
+##  Le rôle du préfet
+
+Il doit réaliser les documents supports de l'information préventive. Il établit notamment le Dossier Départemental des Risques Majeurs (DDRM, objet du présent document), document d'information et de sensibilisation sur les risques naturels et technologiques présents sur le département. Le DDRM :
+
+- -recense la liste des communes soumises à risques majeurs ;
+- -énumère et décrit la nature des risques majeurs auxquels chaque commune est confrontée ;
+- -expose les conséquences prévisibles pour les personnes, les biens et l'environnement ;
+- -mentionne la chronologie des événements et des accidents connus et significatifs de l'existence des risques ;
+- -expose les mesures générales de prévention, de protection et de sauvegarde prévues par les autorités publiques pour en limiter les effets.
+
+Le DDRM est transmis aux mairies. Il est mis à jour tous les cinq ans. Il est librement consultable pour toute personne dans les mairies, à la préfecture et en sous-préfectures, ainsi que sur le site internet des services de l'Etat : http://www.deux-sevres.gouv.fr
+
+Les services de l'Etat portent également à la connaissance des maires à travers le dossier de Transmission d'Informations aux Maires (TIM) les risques concernant plus particulièrement leur commune.
+
+En outre, les services de la préfecture mettent à disposition de la population les documents et informations nécessaires afin de garantir l'Information Acquéreur-Locataire (IAL) dans la cadre des transactions immobilières.
+
+##  Le rôle du maire
+
+A partir des documents d'information transmis par les services de l'Etat et de la connaissance qu'il détient sur le territoire de sa commune, le maire doit établir le Document d'Information Communal sur les RIsques Majeurs (DICRIM). Le DICRIM, déclinaison du DDRM à l'échelle communale, indique les mesures de prévention, de protection et de sauvegarde répondant aux risques majeurs susceptibles d'affecter le territoire de la commune, ainsi que les consignes de comportement.
+
+Le maire doit faire connaître à la population l'existence du documents d'information sur les risques majeurs (bulletin municipal, plaquette d'information, brochures, réunion publique, etc …). En outre, il doit organiser les modalités d'affichage des risques et consignes de sécurité sur sa commune. Il doit aussi organiser des réunions publiques tous les deux ans si sa commune est concernée par un plan de prévention des risques naturel.
+
+En zone inondable, en application des articles R.563-11 à R.563-15 du code de l'environnement, le maire doit implanter des repères de crues indiquant le niveau atteint par les plus hautes eaux connues.
+
+##  Les autres acteurs (les industriels, les citoyens, etc…)
+
+Une information spécifique aux risques technologiques est également à disposition des citoyens. Au titre de la directive « Seveso II », les industriels ont l'obligation de réaliser pour les sites industriels à " hauts risques " classés « Seveso avec servitude », une action d'information des populations riveraines.
+
+Par ailleurs, le décret n°2012-189 du 7 février 2012 instaure les Commissions de Suivi de Site (CSS), en remplacement des Comités Locaux d'Information et de Concertation (CLIC), pour tout bassin industriel comprenant une ou plusieurs installations « SEVESO avec servitude » afin de permettre la concertation et la participation des différentes parties prenantes, notamment les riverains, à la prévention des risques d'accidents tout au long de la vie de ces installations.
+
+En complément de ces démarches réglementaires, les citoyens doivent également entreprendre une véritable démarche personnelle, visant à s'informer sur les risques qui les menacent individuellement et sur les mesures à adopter. Ainsi chacun doit engager une réflexion autonome, afin d'évaluer sa propre vulnérabilité, celle de son environnement (habitat, milieu, etc.) et de mettre en place les dispositions pour la minimiser.
+
+http://www.georisques.gouv.fr/
+
+Le site internet Géorisques, édité par le Ministère de la Transition Ecologique et Solidaire, permet de mieux connaître les risques naturels et technologiques sur le territoire.
+
+L'objectif de cette application nationale est de faciliter l'accès à l'information sur les risques pour tous les publics.
+
+## Le risque majeur
+
+## Le risque majeur
+
+##  L'Information Acquéreur-Locataire (IAL)
+
+Lors des transactions immobilières, en application des articles L.125-5 et R.125-23 à 27 du code de l'environnement, chaque vendeur ou bailleur d'un bien bâti ou non bâti, situé dans une zone à risque des communes dont le préfet arrête la liste, doit annexer au contrat de vente ou de location :
+
+- un « état des risques et pollutions » établi moins de 6 mois avant la date de conclusion du contrat de vente ou de location ;
+- la liste des sinistres subis par le bien ayant donné lieu à indemnisation au titre des effets d'une catastrophe naturelle.
+
+Sont concernés par cette double obligation à la charge des vendeurs et bailleurs, les biens immobiliers situés dans les communes concernées par une zone de sismicité, par une zone à potentiel radon de niveau 3 (voir annexe n°1), ou couvertes par un Plan de Prévention des Risques naturels, technologiques ou miniers, prescrit ou approuvé.
+
+Pour le département des Deux-Sèvres, le lien pour accéder à l'IAL est le suivant :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Amenagement-territoire-constructionlogement/Information-des-Acquereurs-et-desLocataires-IAL
+
+## L'éducation à la prévention des risques majeurs
+
+L'éducation à la prévention des risques majeurs est une composante de l'éducation à l'environnement en vue du développement durable mise en œuvre tant au niveau scolaire qu'à travers le monde associatif. Ce sujet est inscrit dans les programmes scolaires du primaire et du secondaire.
+
+En 2002, le ministère en charge de l'environnement a collaboré à l'élaboration du « Plan Particulier de Mise en Sûreté face aux risques majeurs », (B.O.E.N hors série n°3 du 30 mai 2002), destiné aux écoles, collèges, lycées et universités. Il a pour objectif de préparer les personnels, les élèves (et étudiants) et leurs parents à faire face à une crise. Il donne des informations nécessaires au montage de dispositifs préventifs permettant d'assurer au mieux la sécurité face à un accident majeur, en attendant l'arrivée des secours. Il recommande d'effectuer des exercices de simulation pour tester ces dispositifs.
+
+## Le Plan National d'Adaptation au Changement Climatique (PNACC)
+
+Les membres du groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) sont unanimes : « Le réchauffement du système climatique est sans équivoque ».
+
+Le changement climatique est déjà en cours et ses effets commencent à se manifester. Quels que soient les efforts de réduction des émissions de gaz à effet de serre qui pourraient être déployés, des changements profonds sont désormais inéluctables, du fait de l'inertie du système climatique. Ceux-ci affecteront de nombreux secteurs : agriculture, forêt, tourisme, pèche, aménagement du territoire, bâtiments et infrastructures, protection des populations.
+
+L'adaptation de notre territoire au changement climatique est devenue un enjeu majeur qui appelle une mobilisation nationale.
+
+Aussi, afin de mieux préparer la société française au changement climatique, le Ministère de la Transition Ecologique et Solidaire a lancé en décembre 2018 le deuxième Plan National d'Adaptation au Changement Climatique (PNACC), pour la période 2018-2022, en impliquant les principaux secteurs de l'économie (agriculture, industrie, tourisme…) et les territoires.
+
+Formulaire de l'état des risques et pollutions
+
+## Le risque majeur
+
+## La protection civile en France
+
+## Les systèmes d'alerte
+
+En cas de phénomène naturel ou technologique majeur, la population doit être avertie par un signal d'alerte diffusé par tous les moyens disponibles. Certains départements sont dotés d'un système d'alerte et d'information de la population (SAIP). Ce n'est pas encore le cas dans les Deux-Sèvres.
+
+Des essais de sirènes organisés par certaines collectivités territoriales ont lieu le premier mercredi de chaque mois à midi. L'alerte est par ailleurs donnée par les sirènes des établissements industriels classés SEVESO lorsqu'un problème survient dans ce type d'établissement.
+
+Dans le cas particulier des ruptures de barrage, le signal d'alerte est émis par des sirènes pneumatiques de type « corne de brume », installées par l'exploitant.
+
+Lorsque le signal d'alerte est diffusé, il est impératif que la population se mette à l'écoute de la radio sur laquelle seront communiquées les premières informations sur la catastrophe et les consignes à adopter. Dans le cas d'une évacuation décidée par les autorités, la population en sera avertie par la radio.
+
+Dans certaines situations, des messages d'alerte sont diffusés. Ils contiennent des informations relatives à l'étendue du phénomène (tout ou partie du territoire national) et indiquent la conduite à tenir. Ils sont diffusés par les radios et les télévisions. Lorsque tout risque est écarté pour les populations , le signal de fin d'alerte est déclenché. Ce signal consiste en une émission continue d'une durée de trente secondes d'un son à fréquence fixe.
+
+La fin de l'alerte est annoncée sous la forme de messages diffusés par les radios et les télévisions, dans les mêmes conditions que pour la diffusion des messages d'alerte. Si le signal national d'alerte n'a été suivi d'aucun message, la fin de l'alerte est signifiée à l'aide du même support que celui ayant servi à émettre ce signal.
+
+## L'organisation des secours
+
+Les pouvoirs publics ont le devoir, une fois l'évaluation des risques établie, d'organiser les moyens de secours pour faire face aux crises éventuelles. Cette organisation nécessite un partage équilibré des compétences entre l'État et les collectivités territoriales.
+
+##  Au niveau communal (PCS)
+
+Dans sa commune, le maire est responsable de l'organisation des secours de première urgence. Pour cela, il peut mettre en oeuvre un outil opérationnel, le Plan Communal de Sauvegarde (PCS), qui :
+
+- -détermine, en fonction des risques connus, les mesures immédiates de sauvegarde et de protection des personnes,
+- -fixe l'organisation nécessaire à la diffusion de l'alerte et des consignes de sécurité,
+- -recense les moyens disponibles,
+- -définit la mise en oeuvre des mesures d'accompagnement et de soutien de la population.
+
+Ce plan est obligatoire dans les communes dotées d'un Plan de Prévention des Risques naturels prévisibles approuvé ou comprises dans le champ d'application d'un Plan Particulier d'Intervention (PPI).
+
+##  Au niveau départemental et zonal (plan ORSEC)
+
+La loi de modernisation de la sécurité civile du 13 août 2004 a réorganisé l'architecture générale des plans de secours. Selon le principe général que lorsque l'organisation des secours revêt une ampleur ou une nature particulière, elle fait l'objet, dans chaque département, dans chaque zone de défense et en mer, d'un plan ORSEC.
+
+Le plan ORSEC départemental , arrêté par le préfet, détermine, compte tenu des risques existant dans le département, l'organisation générale des secours et recense l'ensemble des moyens publics et privés susceptibles d'être mis en œuvre. Il comprend des dispositions générales applicables en toute circonstance et des dispositions propres à certains risques. En particulier, dans le département des Deux-Sèvres, les risques « transport de matières dangereuses » et « inondation » font l'objet respectivement d'un dispositif ORSEC spécifique.
+
+En cas d'événement majeur ou de crise, le préfet prend la direction des opérations.
+
+Le plan ORSEC de zone est mis en œuvre en cas de catastrophe affectant deux départements au moins de la zone de défense ou rendant nécessaire la mise en œuvre de moyens dépassant le cadre départemental. Le plan ORSEC maritime décline ces principes aux risques existant en mer.
+
+Les dispositions spécifiques des plans ORSEC prévoient les mesures à prendre et les moyens de secours à mettre en œuvre pour faire face à des risques de nature particulière ou liés à l'existence et au fonctionnement d'installations ou d'ouvrages déterminés. Il peut définir un Plan Particulier d'Intervention (PPI), notamment pour des établissements classés Seveso, des barrages hydro-électriques ou des sites nucléaires.
+
+## Les exercices de sécurité civile
+
+Depuis la loi de modernisation de la sécurité civile et la directive de la défense nationale de 2004, l'entraînement est devenu une obligation permanente qui s'impose à tous, fonctionnaires civils ou militaires, industriels, opérateurs publics et privés, élus, médias ou simple citoyen.
+
+La préparation et l'entraînement interministériels, réguliers et réalistes, sont une nécessité impérative pour renforcer l'efficacité des dispositifs opérationnels et faire face, en tout temps, aux phénomènes susceptibles de mettre en crise la société. Ils sont une phase essentielle pour tester le réalisme et la pertinence des plans, vérifier les procédures et évaluer les équipes et les moyens.
+
+Les exercices liés aux risques industriels et plus particulièrement tous les établissements soumis à un Plan Particulier d'Intervention (PPI) représentent la majeure partie des exercices réalisés chaque année au niveau national.
+
+Les communes doivent également valider leur Plan Communal de Sauvegarde (PCS) au travers d'exercices réguliers réalisés seuls ou au sein d'un exercice départemental.
+
+## Les consignes individuelles de sécurité
+
+En cas de catastrophe naturelle ou technologique, et à partir du moment où le signal national d'alerte est déclenché, chaque citoyen doit respecter des consignes générales et adapter son comportement en conséquence.
+
+Cependant, si dans la majorité des cas ces consignes générales sont valables pour tout type de risque, certaines d'entre elles ne sont à adopter que dans des situations spécifiques. C'est le cas, par exemple, de la mise à l'abri : le confinement est nécessaire en cas d'accident nucléaire, de nuage toxique… et l'évacuation en cas de rupture de barrage. Il est donc nécessaire, en complément des consignes générales, de connaître également les consignes spécifiques à chaque risque.
+
+## Avant
+
+-  Prévoir les équipements minimums :
+
+- radio portable avec piles ;
+
+- lampe de poche ;
+- eau potable ;
+- papiers personnels ;
+- médicaments urgents ;
+- couvertures, vêtements de rechange ;
+- matériel de confinement.
+-  S'informer en mairie :
+- des risques encourus ;
+- des consignes de sauvegarde ;
+- du signal d'alerte ;
+- des plans d'intervention (PPI, PCS).
+
+##  Organiser :
+
+- le groupe dont on est responsable ;
+- discuter en famille des mesures à prendre si une catastrophe survient (protection, évacuation, points de ralliement).
+
+##  Simulations :
+
+- y participer ou les suivre ;
+- en tirer les conséquences et enseignements.
+
+## L'assurance en cas de catastrophe
+
+La loi n° 82-600 du 13 juillet 1982 modifiée, relative à l'indemnisation des victimes de catastrophes naturelles (article L.125-1 du code des assurances) a fixé pour objectif d'indemniser les victimes de catastrophes naturelles en se fondant sur le principe de mutualisation entre tous les assurés et la mise en place d'une garantie de l'État.
+
+Cependant, la couverture du sinistre au titre de la garantie « catastrophes naturelles » est soumise à certaines conditions :
+
+- l'agent naturel doit être la cause déterminante du sinistre et doit présenter une intensité anormale ;
+- les victimes doivent avoir souscrit un contrat d'assurance garantissant les dommages d'incendie ou les dommages aux biens ainsi que, le cas échéant, les dommages aux véhicules terrestres à moteur. Cette garantie est étendue aux pertes d'exploitation, si elles sont couvertes par le contrat de l'assuré ;
+- l'état de catastrophe naturelle, ouvrant droit à la garantie, doit être constaté par un arrêté interministériel (du ministère de l'Intérieur et de celui de l'Économie, des Finances et de l'Industrie). Il détermine les zones et les périodes où a eu lieu la catastrophe, ainsi que la nature des dommages résultant de celle-ci et couverts par la garantie (article L.125-1 du Code des assurances) ;
+- les feux de forêts et les tempêtes ne sont pas couverts par la garantie catastrophe naturelle et sont assurables au titre de la garantie de base.
+
+Depuis la loi du 30 juillet 2003 relative à la prévention des risques technologiques et naturels, en cas de survenance d'un accident industriel endommageant un grand nombre de biens immobiliers, l'état de catastrophe technologique est constaté. Un fonds de garantie a été créé afin d'indemniser les dommages sans devoir attendre un éventuel jugement sur leur responsabilité. En effet, l'exploitant engage sa responsabilité civile, voire pénale en cas d'atteinte à la personne, aux biens et mise en danger d'autrui.
+
+Par ailleurs, l'État peut voir engagée sa responsabilité administrative en cas d'insuffisance de la réglementation ou d'un manque de surveillance.
+
+## Le risque majeur
+
+## Pendant
+
+-  Évacuer ou se confiner en fonction de la nature du risque.
+-  S'informer : écouter la radio : les premières consignes seront données par Radio France et les stations locales.
+-  Informer le groupe dont on est responsable.
+-  Ne pas aller chercher les enfants à l'école.
+-  Ne pas téléphoner sauf en cas de danger vital.
+
+## Après
+
+-  S'informer : écouter la radio et respecter les consignes données par les autorités.
+-  Informer les autorités de tout danger observé.
+-  Apporter une première aide aux voisins ; penser aux personnes âgées et handicapées.
+-  Se mettre à la disposition des secours.
+-  Évaluer :
+- les dégâts ;
+- les points dangereux et s'en éloigner
+
+## 2. Les risques naturels
+
+Le risque inondation
+
+Le risque mouvement de terrain
+
+Le risque sismique
+
+Le risque événements climatiques
+
+Le risque radon
+
+## 2.1 Le risque inondation
+
+## Risque inondation
+
+## Risque inondation
+
+## GENERALITES
+
+## Qu'est-ce qu'une inondation ?
+
+Une inondation est une submersion, rapide ou lente, d'une zone habituellement hors d'eau. Le risque inondation est la conséquence de deux composantes : l'eau qui sort de son lit habituel d'écoulement et l'homme qui s'installe dans la zone inondable pour y implanter toutes sortes de constructions, d'équipements et d'activités.
+
+## Comment se manifeste-t-elle ?
+
+On distingue quatre types d'inondations :
+
+-  La montée lente des eaux en région de plaine par débordement d'un cours d'eau ou remontée de la nappe phréatique . La rivière sort de son lit mineur lentement et peut inonder la plaine pendant une période relativement longue. De nombreux cours d'eau parcourent le département des Deux-Sèvres pouvant être à l'origine de débordements plus ou moins importants.
+
+##  La formation rapide de crues torrentielles Lorsque des précipitations intenses tombent sur tout un bassin versant, les eaux ruissellent et se concentrent rapidement dans le cours d'eau, d'où des crues brutales et violentes dans les torrents et les rivières torrentielles. Le lit du cours d'eau est en général rapidement colmaté par le dépôt de sédiments et des bois morts peuvent former des barrages, appelés embâcles.
+
+Lorsqu'ils viennent à céder, ils libèrent une énorme vague.
+
+-  Le ruissellement pluvial renforcé par l'imperméabilisation des sols et les pratiques culturales limitant l'infiltration des précipitations.
+-  La submersion marine dans les zones littorales et les estuaires résultant de la conjonction de la crue du fleuve, de fortes marées et de situations dépressionnaires.
+
+Au sens large, les inondations comprennent également l'inondation par rupture d'ouvrages de protection comme une brèche dans une digue, la submersion marine dans les estuaires résultant de la conjonction de la crue du fleuve, de fortes marées et de situations dépressionnaires.
+
+## Les conséquences sur les personnes et les biens
+
+##  Les conséquences humaines
+
+D'une façon générale, la vulnérabilité d'une personne est provoquée par sa présence en zone inondable. Sa mise en danger survient surtout lorsque les délais d'alerte et d'évacuation sont trop courts ou inexistants pour des crues rapides ou torrentielles. Dans toute zone urbanisée, le danger est d'être emporté ou noyé, mais aussi d'être isolé sur des îlots coupés de tout accès.
+
+##  Les conséquences économiques
+
+L'interruption des communications peut avoir pour sa part de graves conséquences lorsqu'elle empêche l'intervention des secours. Si les dommages aux biens touchent essentiellement les biens mobiliers et immobiliers, on estime cependant que les dommages indirects (perte d'activité, chômage technique, etc) sont souvent plus importants que les dommages directs.
+
+## LE RISQUE INONDATION DANS LE DEPARTEMENT
+
+## Les inondations dans le département
+
+De nombreux cours d'eau parcourent le département et peuvent être à l'origine de débordements plus ou moins importants. Les principales rivières présentant des risques sont la Sèvre Niortaise, le Thouet, la Boutonne, la Sèvre Nantaise et l'Argenton. Il s'agit avant tout d'inondations de plaines à évolution lente, excepté pour le Thouet et l'Argenton qui peuvent connaître dans leur section plus en amont des crues relativement rapides.
+
+Pour la Sèvre Niortaise , la cure de 1936 constitue actuellement la référence en matière de Plus Hautes Eaux Connues (PHEC) à Niort avec 14,18 mNGF. Les débits atteints lors de la crue de décembre 1982 sont parmi les plus élevés connus, mais n'ont pas généré les cotes maximales à Niort (14,15 mNGF). La période de retour de cette crue est estimée à 30-40 ans. Les évènements de 1904, 1906 et 1961 sont aussi trois évènements importants. Quant à la crue de janvier 1995, sa période de retour est estimée à environ 10 ans (cote de 13,60 mNGF).
+
+Les principales cotes de crue connues pour la Sèvre Niortaise à Niort sont répertoriées dans le tableau suivant (extrait du rapport de présentation du Plan de Prévention des Risques inondation de Niort) :
+
+| Années | Cotes à Niort (en mNGF) |
+| ------ | ----------------------- |
+| 1936   | 14,18                   |
+| 1982   | 14,15                   |
+| 1906   | 13,93                   |
+| 1961   | 13,91                   |
+| 1995   | 13,60                   |
+| 1955   | 13,58                   |
+| 1962   | 13,58                   |
+| 1994   | 13,55                   |
+| 1983   | 13,52                   |
+| 1992   | 13,17                   |
+
+Principales cotes de crue connues à Niort
+
+Inondation de 1906 : rue Baugier à Niort Source : Archives Départementales 79
+
+Inondation de 1936 : rue Baugier à Niort Source : Archives Départementales 79
+
+Inondation de 1982 : rue Baugier à Niort Source : Archives Départementales 79
+
+## Risque inondation
+
+## Risque inondation
+
+Les quatre crues historiques de la Sèvre Niortaise à Saint-Maixent l'Ecole sont classées dans le tableau suivant :
+
+| Années | Cotes à Saint-Maixent l'Ecole (en mNGF) |
+| ------ | --------------------------------------- |
+| 1982   | 2,45                                    |
+| 1995   | 1,90                                    |
+| 1994   | 1,80                                    |
+| 1936   | 1,70                                    |
+
+Principales cotes de crue connues à Saint-Maixent l'Ecole
+
+Pour le Thouet , la plus forte crue historique connue est celle de 1911. Pour la partie la plus en aval du Pont de Saint-Martin de Sanzay et la limite du département des Deux-Sèvres, cette crue est considérée comme centennale.
+
+L'événement de janvier 1961 correspond à une crue historique connue sur la quasi-totalité du Thouet avec des périodes de retour estimées à 50 ou 60 ans sur la partie la plus en amont (secteur de Secondigny à La Peyratte) et à 40 ans sur la partie plus en aval (secteur de Gourgé à la limite du département).
+
+La crue de janvier 1995, de période de retour estimée à 10 ans, constitue également un événement très important.
+
+Inondation de 1982 : rue du 14 ième RI à Saint-Maixent l'Ecole Source : Commune de Saint-Maixent l'Ecole
+
+Inondation de 1995 : L'Orangerie à La Mothe Saint-Héray Source : Commune de La Mothe Saint-Héray
+
+Inondation du Thouet de janvier 1961 Repère de crue à Saint-Loup Lamairé
+
+|                    | Cotes (en mNGF) de la crue de janvier 1995 | Cotes (en mNGF) de la crue de janvier 1961 |
+| ------------------ | ------------------------------------------ | ------------------------------------------ |
+| Parthenay          | --                                         | 5,35                                       |
+| Saint-Loup Lamairé | 3,92                                       | 5,25                                       |
+| Thouars            | 4,75                                       | 5,42                                       |
+
+## Risque inondation
+
+La plus forte crue historique connue sur la quasi-totalité du bassin de la Boutonne est celle de décembre 1982 dont la période de retour avoisine les 100 ans.
+
+Pour la Sèvre Nantaise , l'événement de novembre 1960 constitue la plus forte crue historique connue avec une période de retour estimée à 100 ans. Les périodes de retour des crues d'avril 1983, de janvier 1995 et de décembre 1999 ont respectivement été estimées à 50, 25 et 5 ans.
+
+## Les actions préventives
+
+## La connaissance du risque
+
+Pour une prise en compte adaptée du risque inondation dans l'aménagement et une occupation des sols pertinente, ne mettant en danger, ni les personnes, ni les biens, ni l'équilibre naturel, il est nécessaire de développer la connaissance de ce risque, ceci étant un préalable à toute action.
+
+Les services de l'Etat ont fait réaliser plusieurs études qui ont permis de mieux connaître ce risque dans le département des Deux-Sèvres. Le département possède désormais une bonne couverture en cartographie du risque inondation dans la mesure où près de 1000 km de cours d'eau principaux et secondaires font l'objet d'un atlas des zones inondables (AZI).
+
+Selon l'importance des cours d'eau, cette connaissance est d'un niveau de précision variable, de la plus sommaire pour ce qui concerne l'atlas des zones inondables du département élaboré en 1994 à la plus aboutie pour les études ayant permis de caractériser l'aléa inondation (hauteurs d'eau et/ou vitesses d'écoulement).
+
+##  L'AZI du département des Deux-Sèvres de 1994 :
+
+Ce document est une synthèse à l'échelle du département des premiers éléments de connaissance obtenus suite aux crues de 1982 et 1994. Il a été élaboré à partir d'archives et d'un recueil d'observations de terrains effectuées au cours de l'hiver 1993-1994. Ces relevés de terrains, reportés à l'échelle du 1/50 000, sont parfois imprécis et ne permettent pas de connaître les hauteurs d'eau, mais simplement des enveloppes de secteurs inondés.
+
+##  L'AZI élaboré à partir de modélisations hydrauliques :
+
+Au fil du temps, plusieurs études précises (basées sur des modélisations hydrauliques) ont été produites sur les cours d'eau les plus importants dans le but d'affiner la connaissance, et notamment de caractériser l'aléa inondation pour la crue de référence centennale (Sèvre Niortaise, Thouet, bassin de la Boutonne).
+
+Cette méthode quantitative, basée sur la modélisation hydraulique et mathématique des écoulements, permet de caractériser l'aléa inondation et notamment d'obtenir des hauteurs d'eau pour différentes crues de référence (périodes de retour 10 ans, 100 ans, etc...). Elle a été utilisée pour les principaux cours d'eau du département afin de déterminer l'aléa inondation pour la crue de référence centennale. Les résultats de ces études ont servi de base à l'élaboration des Plans de Prévention des Risques inondation du Thouet et de la Sèvre Niortaise.
+
+Extrait cartographique de l'atlas des zones inondables de la Sèvre Niortaise
+
+## Risque inondation
+
+##  L'AZI élaboré par la méthode hydrogéomorphologique :
+
+En 2007 et 2008, cette connaissance a été largement complétée puisqu'un linéaire important de cours d'eau secondaires a été cartographié par la méthode hydrogéomorphologique.
+
+L'approche hydrogéomorphologique consiste en l'étude du fonctionnement naturel des cours d'eau par l'analyse des formes fluviales de la vallée suite aux crues qui se sont succédées au cours du temps. Les secteurs cartographiés par cette méthode représentent l'enveloppe maximale de la zone inondable de la crue morphogène, sachant qu'on entend par « crue morphogène » l'ensemble des crues les plus importantes depuis la dernière ère glaciaire qui ont façonné la plaine inondable du cours d'eau et marqué le relief.
+
+De ce fait, ces crues exceptionnelles peuvent avoir des périodes de retour bien supérieures aux crues historiques connues, y compris la crue centennale.
+
+Les atlas élaborés selon la méthode hydrogéomorpholoqique ont été mis en oeuvre pour compléter l'atlas départemental de 1994. Ils sont plus précis que ce dernier.
+
+La carte suivante synthétise la connaissance du risque inondation détenue par les services de l'Etat et acquise au fil du temps dans le département des Deux-Sèvres. Par ailleurs, certaines collectivités détiennent des éléments de connaissance sur leur territoire.
+
+## Risque inondation
+
+##  La mise en place de repères de crues
+
+Les repères de crues sont des marques matérialisant les crues historiques d'un cours d'eau. Témoins des grandes crues passées, ils permettent de faire vivre la mémoire des inondations que le temps ou les traumatismes peuvent parfois effacer. Ils font donc partie du patrimoine des connaissances sur les crues et représentent une source d'information indispensable au renforcement de la conscience du risque. On les trouve sur différents types de bâtiments et ouvrages (bâtiments publics ou privé, quais, piles de pont, etc).
+
+L'article L.563-3 du code de l'environnement mentionne que le maire, avec l'assistance des services de l'Etat compétents, procède à l'inventaire des repères de crues existant sur le territoire communal et établit les repères correspondant aux crues historiques, aux nouvelles crues exceptionnelles ou aux submersions marines. La commune ou le groupement de collectivités territoriales compétent matérialise, entretient et protège ces repères.
+
+L'arrêté du 16 mars 2006 a défini dans son annexe un modèle de repère de crues.
+
+Repère de crue à Saint-Maixent-l'Ecole
+
+Dans le département des Deux-Sèvres , sept repères de crues ont été posés sur le tronçon de la Sèvre Nantaise par l'Institut Interdépartemental du Bassin de la Sèvre Nantaise en collaboration avec les communes concernées. Dans le cadre de cette même opération, deux autres repères ont été posés à Mauléon sur l'Ouin, affluent de la Sèvre Nantaise. Les informations sont disponibles sur le site internet de l'Etablissement Public Territorial du Bassin de la Sèvre Nantaise : https://inondations.sevre-nantaise.com/
+
+Les communes de Niort et de Saint-Maixent l'Ecole, accompagnées par l'Institut Interdépartemental du Bassin de la Sèvre Niortaise, ont également fait implanter des repères de crues sur la Sèvre Niortaise.
+
+Enfin, le Syndicat Mixte du Bassin de la Boutonne (SYMBIO) en collaboration avec l'Etablissement Public Territorial de Bassin Charente ont implanté quinze repères de crue sur la partie du bassin de la Boutonne dans les Deux-Sèvres. Pour plus d'informations : https://www.fleuve-charente.net/
+
+## La surveillance et la prévision des phénomènes
+
+##  La vigilance météorologique
+
+Météo-France publie quotidiennement une carte de vigilance à 4 niveaux pour neuf catégories d'événement climatique, dont les phénomènes d' inondation et de pluie-inondation. Ces informations sont accessibles sur le site Internet http://www.meteofrance.com et reprises par les médias en cas de niveaux orange ou rouge.
+
+En cas de niveaux orange et rouge, un répondeur d'information météorologique (tel : 3250) est activé 24h/24h apportant un complément d'information pour une meilleure interprétation des niveaux de risques.
+
+##  La prévision des crues
+
+En Deux-Sèvres, seules la Sèvre Niortaise, le Thouet et la Sèvre Nantaise font l'objet d'un suivi par les services de prévision des crues (SPC) (SPC Vienne-CharenteAtlantique pour la Sèvre Niortaise et le Thouet, et SPC Maine-loire pour la Sèvre Nantaise).
+
+http://www.meteofrance.com
+
+Les SPC ont pour mission de surveiller en permanence la pluie et les écoulements des rivières alimentant les cours d'eau dont ils ont la charge.
+
+## Risque inondation
+
+Le site internet http://www.vigicrues.gouv.fr librement accessible à tout public, permet la lecture d'une carte en couleurs de vigilance crues, valable sur 24h00 et précise quatre niveaux de vigilance crue :
+
+- niveau 1, VERT : situation normale, pas de vigilance particulière ;
+- niveau 2, JAUNE : risque de crue ou de montée rapide des eaux n'entraînant pas de dommages significatifs mais nécessitant une vigilance particulière dans le cas d'activités saisonnières et/ou exposées ;
+- niveau 3, ORANGE : risque de crue génératrice de débordements importants susceptibles d'avoir un impact significatif sur la vie collective, la sécurité des biens et des personnes ;
+- niveau 4, ROUGE : risque de crue majeure. Menace directe et généralisée de la sécurité des personnes et des biens.
+
+L'information est réactualisée tous les jours à 10h00 et 16h00 (et plus si nécessaire).
+
+http://www.vigicrues.gouv.fr
+
+Pour plus d'informations, il est possible de consulter sur le même site internet, dès le niveau de vigilance jaune, des bulletins de suivis nationaux (produits par le Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations) et locaux (produits par les SPC) permettent de connaître le contexte météo, la situation actuelle, l'évolution prévue des risques hydrologiques et les conséquences possibles avec des conseils de comportement en fonction du niveau de vigilance.
+
+##  Le dispositif « vigicrues flash » et APIC (Avertissement de Pluies Intenses à l'échelle Communale)
+
+Ce dispositif est un service d'avertissement proposé aux services et communes du département via un abonnement gratuit. « Vigicrues Flash » permet d'être averti en temps réel d'un risque de crue sur certains cours d'eau du département non couverts par la vigilance crue. Dans les Deux-Sèvres, ce dispositif concerne l'Ouin, l'Argenton, le Dolo, le Thouaret, la Sèvre Nantaise (tronçon non suivi par le SPC), l'Autize, le Fenioux, le Saumort et la Miochette. Quant à APIC, il permet d'être averti lorsque les précipitations en cours revêtent un caractère exceptionnel.
+
+Lorsque le dispositif identifie un risque significatif (crues et/ou épisodes pluvieux) dans les prochaines heures, un message est envoyé automatiquement aux communes et services abonnés, en indiquant le niveau de précipitation et de risque. Les informations sont mises à jour toutes les 15 minutes par message vocal, SMS et courriel (site internet : https://apic.meteo.fr/).
+
+## Les travaux de réduction de la vulnérabilité
+
+##  Les mesures collectives
+
+Les travaux cités ci-dessous, du ressort du propriétaire, sont souvent réalisés par des associations syndicales regroupant les propriétaires, des syndicats intercommunaux ou des établissements publics territoriaux de bassins créés par la loi du 30 juillet 2003 :
+
+- l'entretien des cours d'eau pour limiter tout obstacle au libre écoulement des eaux (l'entretien global des rives et des ouvrages, l'élagage, le recépage de la végétation, l'enlèvement des embâcles et des débris, …) ;
+- la création de bassins de rétention, de puits d'infiltration, l'amélioration des collectes des eaux pluviales, la préservation d'espaces perméables ou d'expansion des eaux de crues, … ;
+- les travaux de corrections actives ou passives pour réduire le transport solide en provenance du lit de la rivière et du bassin versant (la restauration des terrains en montagne, la reforestation, la création de barrage seuil ou de plage de dépôt, …).
+
+## Risque inondation
+
+-  Les mesures individuelles : Le schéma suivant présente les différentes mesures pouvant être mises en œuvre dans une habitation, afin de minimiser les dégâts d'une inondation.
+
+## Techniques « sèches »
+
+L'objectif de ces techniques est de maintenir temporairement l'eau à l'extérieur de l'habitation. En complément de ces techniques, l'installation d'un pompage est généralement nécessaire :
+
+1. Ouverture : Les ouvertures de portes ou de fenêtres peuvent être closes par des dispositifs amovibles (batardeaux) en partie basse.
+2. Murs : L'étanchéité des murs extérieurs peut être augmentée en bouchant les fissures et en entretenant les joints.
+3. Barrières temporaires : Sacs de sable, parpaings... Des techniques alternatives ou complémentaires existent sur le marché : murs de batardeaux, boudins gonflés d'air ou d'eau...
+4. Réseaux : Un clapet anti-retour posé sur la canalisation de sortie des eaux usées permet d'éviter le refoulement de l'eau par l'intérieur. L'étanchéité autour des passages de réseau (gaz, eau potable) à travers les murs peut également être améliorée grâce à un simple mastic.
+
+## Techniques « en eau »
+
+Contrairement aux techniques précédentes, celles-ci cherchent à adapter de manière permanente l'intérieur du bâtiment à la présence occasionnelle d'eau :
+
+5. Ré-hausse étage : La ré-hausse du plancher ou la création d'une pièce « refuge » hors d'eau à l'étage permet de réduire la vulnérabilité humaine et matérielle aux inondations.
+6. Mobilier : Les meubles sensibles seront placés si possible hors d'eau.
+7. Murs : Il s'agit d'utiliser des matériaux qui ne s'imbibent pas. Sont privilégiés les murs pleins et si nécessaire un doublage intérieur démontable et hydrofugé.
+8. Électricité : Le relèvement des prises et interrupteurs à au moins 90 cm du sol est conseillé. Le réseau peut courir en haut des murs plutôt qu'au sol et être muni d'un tableau séparé pour le rez-de-chaussée inondable. La réhausse des compteurs (gaz, électricité) peut être effectuée avec l'accord du fournisseur.
+9. Chauffage : Une des priorités est de fixer la chaudière et la cuve à fioul. Beaucoup de dégâts sont provoqués par leur arrachement ou leur déplacement. Des vannes automatiques peuvent également être prévues pour couper automatiquement les arrivées et départs en cas de choc.
+10. Cloisons : Les cloisons plaines maçonnées (en brique) sont préférables à du placoplâtre.
+11. Sols : Les carrelages sur chape béton sont les moins sensibles à la présence d'eau. Pour un plancher en bois, on pourra privilégier des couvertures de sol facilement retirables pour le séchage (tapis, lino...).
+12. Vide sanitaire : Le rehaussement du rez-de-chaussée peut être l'occasion de créer un vide sanitaire.
+
+## Risque inondation
+
+## La prise en compte dans l'aménagement
+
+Les principes de gestion des zones inondables et d'aménagement de l'espace dans ces zones sont précisés par la loi sur l'eau du 2 janvier 1992 et la loi n°95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement (désormais ces deux lois sont codifiées dans le Code de l'Environnement). Les circulaires du 24 janvier 1994 et du 24 avril 1996 fixent les objectifs suivants en matière de prévention des inondations et de gestion des zones inondables :
+
+- -interdire les implantations humaines dans les zones les plus dangereuses où, quels que soient les aménagements, la sécurité des personnes ne peut être garantie intégralement, et les limiter dans les autres zones inondables ;
+- -préserver les capacités d'écoulement et d'expansion des crues pour ne pas aggraver les risques dans les zones situées en amont et en aval ;
+- -sauvegarder l'équilibre des milieux dépendant des petites crues et la qualité des paysages souvent remarquables du fait de la proximité de l'eau et du caractère encore naturel des vallées concernées.
+
+Ainsi, les circulaires précisent que ces objectifs doivent conduire à appliquer les principes forts suivants :
+
+- -interdire toute construction nouvelle et saisir toutes les opportunités pour diminuer le nombre des constructions exposées dans les zones soumises aux aléas les plus forts et réduire la vulnérabilité des constructions qui pourraient être autorisées dans les zones où les aléas sont moins importants ;
+- -contrôler strictement l'extension de l'urbanisation dans les zones d'expansion des crues ;
+- -éviter tout endiguement ou remblaiement nouveau qui ne serait pas justifié par la protection de lieux fortement urbanisés.
+
+Le décret n°2019-715 du 5 juillet 2019 relatif aux Plans de Prévention des Risques inondation (PPRi) vient compléter le cadre juridique existant sur les modalités de détermination, de qualification et de cartographie de l'aléa inondation de référence, ainsi que les principes généraux du zonage réglementaire et du règlement pour ce qui concerne les constructions nouvelles.
+
+La politique de prévention des risques s'exprime à travers les documents suivants :
+
+-  Les Plans de Gestion des Risques d'Inondation (PGRI) des bassins Loire-Bretagne et Adour-Garonne , approuvés en 2015, déterminent à l'échelle de leur bassin respectif les dispositions générales de gestion du risque d'inondation. Ils donnent une vision stratégique des actions à mettre en place pour réduire les conséquences négatives des inondations à venir, notamment en matière de prise en compte du risque dans l'aménagement du territoire.
+
+Les PGRI ont une portée sur les documents de planification urbaine, les programmes, les plans de prévention des risques et les décisions administratives dans le domaine de l'eau. En particulier, les documents d'urbanisme (Scot, PLU) doivent être compatibles ou rendus compatibles avec les PGRI.
+
+-  Le Code de l'Urbanisme impose la prise en compte des risques dans les documents d'urbanisme :
+- -Le Schéma de Cohérence Territoriale (SCoT) définit une stratégie d'aménagement à l'échelle d'un territoire intercommunal en cohérence avec les dispositions imposées dans les PGRI ;
+- -Les Plans Locaux d'Urbanisme permettent de maîtriser le développement de l'urbanisation en prenant en compte les zones à risque, et notamment en rendant inconstructibles les zones les plus dangereuses.
+
+ L'article R111-2 du Code de l'Urbanisme donne également la capacité aux maires de refuser ou d'accepter, sous réserve du respect de certaines prescriptions, un permis de construire ou d'aménager qui comporterait un risque pour la sécurité publique.
+
+## Risque inondation
+
+##  Les Programmes d'Actions de Prévention contre les Inondations (PAPI)
+
+Lancés en 2002, les Programmes d'Actions de Prévention des Inondations (PAPI) visent à promouvoir une gestion intégrée des risques d'inondation en vue de réduire les conséquences dommageables sur la santé humaine, les biens, les activités économiques et l'environnement.
+
+Outil de contractualisation entre l'État et les collectivités, le dispositif PAPI permet la mise en œuvre d'une politique globale de gestion du risque inondation, pensée à l'échelle du bassin de risque.
+
+Ce dispositif PAPI a été initié pour traiter le risque inondation de manière globale, à travers des actions combinant gestion de l'aléa (réhabilitation de zones d'expansion de crues, ralentissement dynamique, ouvrages de protection…) et réduction de la vulnérabilité des personnes, des biens et des territoires (limitation de l'urbanisation des zones inondables, réduction de la vulnérabilité des constructions, amélioration de la prévision et de la gestion des crises…), mais aussi la culture du risque (information préventive, pose de repères de crue, démarches de mise en sûreté et de sauvegarde … ).
+
+Le département des Deux-Sèvres est concerné par deux PAPI :
+
+- le PAPI Charente, à travers le bassin versant de la Boutonne, affluent de ce fleuve. Ce PAPI est porté par l'Etablissement Public Territorial du Bassin (EPTB) de la Charente;
+- le PAPI Sèvre Nantaise porté par l'EPTB de la Sèvre Nantaise.
+-  Le plan de prévention des risques inondation (PPRi) a été institué par la loi « Barnier » du 2 février 1995 sur la protection de l'environnement, codifiée désormais dans le code de l'environnement. Il constitue un outil réglementaire important pour la maîtrise du risque inondation dans les secteurs à forts enjeux. Ce document établi par les services de l'Etat, en concertation avec les collectivités locales, réglemente l'utilisation et l'exploitation des sols dans les zones inondables en tenant compte des niveaux de risques identifiés et de la nécessité de ne pas aggraver l'exposition aux risques des personnes et des biens. Il participe à la sauvegarde des zones agricoles et naturelles inondables qui jouent un rôle majeur pour le libre écoulement et l'expansion des crues. Il comporte par ailleurs des mesures de prévention et de sauvegarde visant à assurer la sécurité de la population, et en particulier à protéger les occupants d'un bien.
+
+Le PPRi comprend une note de présentation, un zonage réglementaire et un règlement associé qui définit les règles d'aménagement. Le zonage réglementaire est constitué :
+
+- de zones inconstructibles (habituellement représentées en rouge) au sein desquelles, d'une manière générale, toute construction est interdite du fait d'un risque trop important.
+- de zones constructibles (habituellement représentées en bleu) au sein desquelles il est possible de construire sous réserve de respecter certaines prescriptions, par exemple une cote de plancher à respecter au-dessus du niveau de la crue de référence.
+
+Le PPRi une fois approuvé doit être annexé aux Plans Locaux d'Urbanisme en tant que servitude d'utilité publique. Aussi, les règles du PPRi s'imposent à celles du Plan Local d'Urbanisme.
+
+PPRi de Niort : zonage réglementaire
+
+## Risque inondation
+
+## Liste des communes concernées par un PPRI
+
+## Le Thouet :
+
+Beugnon-Thireuil Secondigny Allonne Azay-sur-Thouet Le Tallud Parthenay Châtillon-sur-Thouet La Peyratte Lhoumois Gourgé Saint-Loup-Lamairé Airvault Louin Arvailles-Thouarsais Saint-Généroux Plaine-et-Vallées Thouars Saint-Jean-de-Thouars St-Jacques-de-Thouars Sainte-Verge Loretz-d'Argenton Saint-Martin-de-Sanzay
+
+## La Sèvre Niortaise amont :
+
+Exoudun La Mothe Saint-Héray Souvigné Sainte-Eanne Nanteuil St-Martin de St-Maixent Exireuil Saint-Maixent l'Ecole Azay-le-Brûlé Sainte-Neomaye La Crèche François Saint-Gelais Chauray Echiré Saint-Maxire Sciecq
+
+## La Sèvre Niortaise, Le
+
+Lambon et le Ruisseau de
+
+## Romagné :
+
+Niort
+
+La prise en compte du risque inondation dans l'aménagement du territoire dépend avant tout du niveau de risque, mais aussi de l'importance des enjeux confrontés à ce risque.
+
+Ainsi, pour les cours d'eau les plus importants avec des enjeux forts, l'élaboration de PPRi est privilégiée. En l'absence de PPRi, la prise en compte du risque doit se faire à travers le document d'urbanisme, notamment le Plan Local d'Urbanisme (PLU) (voir schéma cicontre).
+
+Dans le département des Deux-Sèvres , à ce
+
+jour, 40 communes sont concernées par un
+
+PPRi :
+
+- -22 communes de la vallée du Thouet (PPRi approuvé en novembre 2008),
+- -17 communes de la vallée de la Sèvre Niortaise amont (PPRi approuvé en mars 2017),
+- -la commune de Niort (PPRi approuvé en décembre 2007).
+
+## RISQUEINONDATION
+
+## Risque inondation
+
+## Le dispositif spécifique ORSEC « inondation »
+
+Dans le département des Deux-Sèvres, il existe un plan ORSEC spécifique au risque inondation, approuvé par le préfet le 3 janvier 2020. Il a pour objectif d'organiser les secours pour protéger les populations, les biens et l'environnement en cas d'inondation de grande ampleur.
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+## Avant
+
+-  S'organiser et anticiper :
+- S'informer des risques, des modes d'alerte et des consignes en mairie ;
+- Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police) ;
+- S'organiser et élaborer les dispositions nécessaires à la mise en sûreté ;
+- se soucier des personnes proches (voisins et personnes vulnérables) ;
+- Prévoir le matériel nécessaire à l'obturation des ouvertures ;
+-  Et de façon plus spécifique :
+- Mettre hors d'eau les meubles, objets précieux (album de photos, papiers personnels, factures) ainsi que les matières et les produits dangereux ou polluants;
+- Couper l'eau, l'électricité, le gaz et le chauffage, laisser le téléphone branché ;
+- Protéger son habitation en obturant toutes les ouvertures basses du domicile. Face à une montée des eaux très importante, mieux vaut laisser pénétrer l'eau pour éviter la pression hydrostatique ;
+- Amarrer les cuves;
+- Repérer les stationnements hors zone inondable ;
+- Prévoir les équipements minimums (radio à piles, réserve d'eau potable et de produits alimentaires, papiers personnels, médicaments urgents, vêtements de rechange,
+- couvertures…)
+
+## Pendant
+
+-  S'informer de la montée des eaux dans les médias ou auprès de la mairie ;
+-  Et de façon plus spécifique :
+- N'entreprendre une évacuation que si vous en recevez l'ordre des autorités ou si vous êtes forcés par la crue ;
+- Ne pas s'engager sur une route inondée (à pied ou en voiture) ;
+- Ne pas descendre dans les soussols pour ne pas être piégé par la montée des eaux ;
+- Rester dans les étages supérieurs et s'installer en hauteur si cela est possible ;
+- Ne pas aller chercher les enfants à l'école, les enseignants s'occupent d'eux ;
+- Ne pas téléphoner de façon à libérer les lignes pour les secours ;
+- Ne pas utiliser les équipements électriques (ascenseurs, …) ;
+- Ne pas consommer l'eau du robinet sans l'avis de la mairie ;
+- En cas d'évacuation, préparer le strict minimum (papiers importants, médicaments) et se conformer aux directives des services de secours.
+
+## Après
+
+-  Respecter les consignes ;
+- Informer les autorités de tout danger ;
+- Aider les personnes sinistrées ou à besoins spécifiques ;
+-  Et de façon plus spécifique :
+- S'il y a eu évacuation, attendre les consignes des autorités avant de regagner son domicile ;
+- En cas de bien inondés :
+- . Nettoyer et désinfecter les lieux, aérer les lieux, chauffer les pièces de manière progressive dès que possible;
+- . Ne rétablir le courant électrique que si l'installation est sécurisée ;
+- . Contacter le plus rapidement possible l'assureur et les professionnels ;
+- Avant de boire l'eau du robinet, s'assurer auprès de la mairie qu'elle est potable ;
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT Cedex 9
+
+tél : 05.49.08.68.68
+
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9
+- ARS (Agence Régionale de Santé Délégation départementale des Deux-Sèvres) 6 rue de l'Abreuvoir - CS 18537 - 79025 NIORT Cedex
+- SDIS (Service Départemental d'Incendie et de Secours) 100 rue de la Gare - CS 40019 - 79185 CHAURAY
+- Mairies
+
+tél : 05.49.06.88.88
+
+tél : 09.69.37.00.33
+
+tél : 05.49.08.18.18
+
+## Risque inondation
+
+Pour en savoir plus
+
+-  Le risque inondation (généralités) :
+
+https://www.gouvernement.fr/risques/inondation http://www.mementodumaire.net/les-risquesnaturels/rn2-inondations/
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturels-ettechnologiques/Prevention-des-risques-naturelsmajeurs-et-technologiques
+
+-  Pour consulter la carte de vigilance Météo et la carte de vigilance crues et les bulletins associés :
+
+http://www.meteofrance.com http://www.vigicrues.gouv.fr
+
+34
+
+## 2.2 Le risque mouvement de terrain
+
+## Risque mouvement de terrain
+
+## GENERALITES
+
+## Qu'est-ce qu'un mouvement de terrain ?
+
+Les mouvements de terrain regroupent un ensemble de déplacements, plus ou moins brutaux, du sol ou du sous-sol, d'origine naturelle ou anthropique (causée par l'homme).
+
+Les mouvements, plus ou moins rapides, interviennent sous l'effet de facteurs naturels divers comme de fortes précipitations, une alternance de gel et dégel, des températures très élevées ou sous l'effet d'activités humaines touchant aux terrains comme le déboisement, l'exploitation de matériaux ou les travaux de terrassement.
+
+## Comment se manifeste-t-il ?
+
+On différencie :
+
+##  Les mouvements lents
+
+- -Les tassements et les affaissements de sols ;
+- Le phénomène de retrait-gonflement des argiles ;
+- Les glissements de terrain progressifs.
+
+##  Les mouvements rapides
+
+- Les effondrements de cavités souterraines naturelles ou artificielles ;
+- Les écroulements et les chutes de blocs ;
+- Les glissements de terrain rapides, les coulées boueuses et torrentielles.
+
+##  L'érosion littorale
+
+Glissement de terrain
+
+## Risque mouvement de terrain
+
+Retrait-gonflement des sols argileux
+
+Effondrement des cavités
+
+Ces différents mouvements de terrain peuvent être favorisés par le changement climatique avec son impact sur la pluviométrie, l'allongement de la sécheresse estivale, le mouvement des nappes phréatiques et l'évolution du niveau de la mer.
+
+## Les conséquences sur les personnes et les biens
+
+##  Les conséquences humaines, économiques et environnementales
+
+Les grands mouvements de terrain étant souvent peu rapides, les victimes sont, fort heureusement, peu nombreuses. En revanche, ces phénomènes sont souvent très destructeurs, car les aménagements humains y sont très sensibles et les dommages aux biens sont considérables et souvent irréversibles.
+
+Les effets du retrait-gonflement des sols argileux à l'occasion des sécheresse sont énormes sur le plan économique, ces dommages représentant le deuxième poste des demandes d'indemnisation au titre du régime des catastrophes naturelle au niveau national.
+
+Les mouvements de terrain rapides et discontinus (effondrement de cavités souterraines, écroulement et chutes de blocs, coulées boueuses), par leur caractère soudain, augmentent la vulnérabilité des personnes. Ces mouvements de terrain ont des conséquences sur les infrastructures (bâtiments, voies de communication …), les réseaux d'eau, d'énergie ou de télécommunications. Ils peuvent également entraîner des pollutions induites lorsqu'ils concernent une usine chimique, une station d'épuration…
+
+## LE RISQUE MOUVEMENT DE TERRAIN DANS LE DEPARTEMENT
+
+## Les mouvements de terrain dans le département
+
+Le département des Deux-Sèvres peut être concerné par l'ensemble des mouvements de terrain cités précédemment, excepté bien entendu l'érosion littorale.
+
+Les phénomènes de mouvements de terrain résultant de l'exploitation passée des anciennes mines ne sont pas présentés dans cette partie. Ils sont en effet traités dans la partie spécifique aux risques miniers.
+
+## Le phénomène de retrait-gonflement des sols argileux
+
+Le phénomène de retrait-gonflement des sols argileux est lié aux variations de teneur en eau des terrains argileux. Ces sols gonflent en hiver avec l'humidité et se rétractent en période estivale avec la sécheresse. Ceci se traduit par des mouvements différentiels du sol pouvant avoir des conséquences importantes sur les bâtiments à fondations superficielles, en particulier les maisons individuelles.
+
+Ce phénomène, qui constitue essentiellement un risque économique, est susceptibles de s'intensifier à l'avenir en raison du changement climatique.
+
+## Les désordres se manifestent par :
+
+- -des fissurations sur les murs, les soubassements, les cloisons ;
+- -une distorsion des fenêtres et des portes ;
+- -un décollement des bâtiments annexes ;
+- -une dislocation des dallages ;
+- -une rupture des canalisations enterrées …
+
+Maison fissurée
+
+## Risque mouvement de terrain
+
+Le département des Deux-Sèvres, avec près de 50 % de son territoire exposé et plus de la moitié des communes reconnues au moins une fois en catastrophe naturelle depuis 1981, est particulièrement concerné par ce risque. Pour la seule année 2017, 90 communes ont été reconnues CAT NAT.
+
+Ce phénomène génère des dommages nombreux et coûteux pour la collectivité. Il constitue la première cause d'indemnisation au titre des catastrophes naturelles dans le département.
+
+Le Thouarsais et l'Airvaudais sont naturellement très concernés par ce risque, de même que le Haut Val de Sèvre, le Mellois, ainsi qu'une partie importante du territoire de la Communauté d'Agglomération du Niortais (voir carte du phénomène de retrait-gonflement des argiles à la fin de ce chapitre).
+
+Les constructions les plus vulnérables sont les maisons individuelles, sans étage et avec des fondations de faibles profondeurs.
+
+S'il est techniquement possible de construire sur tout type de sol argileux, des mesures simples sont à respecter avant de construire une maison pour limiter par la suite le risque de retrait-gonflement.
+
+Le schéma suivant illustre les mesures à appliquer. Seule une étude de sol effectuée par un bureau d'étude spécialisé en géotechnique permet de préciser la nature des sols et de définir les mesures particulières à mettre en œuvre pour réaliser en toute sécurité son projet.
+
+Mesures préventives pour réduire les effets du retrait-gonflement sur les constructions
+
+## Les tassements, affaissements et effondrements du sol
+
+Les affaissements et les effondrements sont liés à la présence de cavités souterraines d'origine naturelle ou humaine. On ne traite pas ici les tassements, affaissements et effondrements résultants de l'exploitation des anciennes mines, phénomènes qui font l'objet d'une partie spécifique « risques miniers » au titre des risques technologiques.
+
+L'évolution des cavités souterraines naturelles ou artificielles peut entraîner l'effondrement du toit de la cavité et provoquer en surface une dépression généralement de forme circulaire. Certains sols compressibles peuvent se tasser sous l'effet de surcharges (constructions, remblais) ou en cas d'assèchement (drainage, pompage).
+
+## Risque mouvement de terrain
+
+Quelques évènements particuliers concernant le département des Deux-Sèvres sont présentés dans la suite de ce document :
+
+## L'exploitation du « tuffeau » sur le territoire de la commune de Tourtenay
+
+La commune de Tourtenay, située au nord du département, a fait l'objet d'une intense exploitation de « tuffeau » (calcaire crayeux) pour la construction de bâtiments depuis au moins le XII ème siècle.
+
+Cette exploitation qui s'est faite par carrières souterraines jusqu'au début du XX ème siècle, a engendré de nombreuses cavités. Elles sont réparties de manière aléatoire sous le sol communal et se sont dégradées progressivement au fil du temps, et ont pu engendrer des affaissements et des éboulements.
+
+Effondrement lié à une cavité dans une vigne à Tourtenay
+
+Aussi, pour mieux connaître ce risque, la commune de Tourtenay a fait l'objet d'un important travail d'inventaire et de cartographie des cavités par le Bureau Régional de la Géologie et des Mines (BRGM) entre 1998 et 2006. Près de 110 cavités ont été recensées sur le territoire communal. Des cartographies de l'aléa et des enjeux ont été élaborées dans le but d'évaluer et de hiérarchiser les risques, et de définir un programme prévisionnel de surveillance et de travaux de comblement et de confortement de certaines cavités pour protéger les bâtiments et les voiries les plus impactés. Certains de ces travaux ont d'ores et déjà été réalisés.
+
+## Effondrement sur la commune de Saint-Pardoux
+
+Un effondrement s'est produit, entre le 6 juin 2011 et le 15 août 2011, en bordure d'une habitation au lieu-dit « Les Bordes » dans la commune de Saint-Pardoux. Cet effondrement a mis à jour une cavité de plus de 10 m 2 d'emprise s'étendant en totalité sous une maison d'habitation. En septembre 2011, le BRGM a effectué une étude afin d'établir un état des lieux de la situation, d'effectuer une recherche des origines possibles de ce phénomène et de définir des mesures de sauvegarde à mettre en œuvre.
+
+Effondrement à Saint-Pardoux - Photos de l'effondrement depuis l'extérieur (à gauche : position par rapport à la maison - à droite : vue de l'intérieur de l'excavation) - Source BRGM septembre 2011
+
+## Risque mouvement de terrain
+
+## Cavités à Niort
+
+Plusieurs cavités ont été révélées, ces dernières années, sur le territoire de la commune, en particulier à l'occasion de travaux de voirie (cour de l'école Jean-Mermoz en 2012, route de Coulonges en 2016, cour de l'Ecole Jules Ferry en 2018, place Chanzy et autour de la place en 2018 et 2019).
+
+Il s'agit le plus souvent d'anciennes carrières de pierres exploitées par le passé pour le pavage des rues et la construction de bâtiments, abandonnées et oubliées depuis. Ces cavités se dégradent au fil de temps et leur stabilité n'est plus assurée.
+
+Le BRGM est intervenu pour faire part de son expertise, notamment pour évaluer les risques et définir les mesures de sauvegarde à mettre en œuvre afin de protéger les usagers. Des dispositions ont été prises pour assurer la sécurité des sites. Les cavités en question ont fait l'objet depuis de travaux de comblement et ne présentent plus de danger particulier.
+
+Cavités à Niort Source BRGM
+
+## Exemple sur le territoire de la commune de Celles-sur-Belle
+
+Un effondrement de voirie s'est produit dans le bourg de Celles-sur-Belle laissant apparaître une excavation de 35 m 3 environ, rue de la Treille, à l'intersection de la rue des Lilas.
+
+En décembre 1992, un premier affaissement ayant entraîné une rupture de canalisation a été observé. Il a justifié une intervention des services techniques qui ont comblé la dépression.
+
+Courant février 1993, des travaux d'urgence sont réalisés l'après-midi pour faire face à un affaissement qui a entraîné la rupture du tout à l'égout. Ce phénomène évolutif est donc sérieux.
+
+Des phénomènes similaires s'étaient déjà produits dans la commune mais de moindre ampleur. Ces mouvements de terrain sont le résultat d'un phénomène naturel de type karstique , caractérisé par un processus de dissolution des carbonates par les eaux de pluie, entraînant la formation de poches, de fissures et de cavités.
+
+## Risque mouvement de terrain
+
+## Les glissements de terrain et les coulées boueuses
+
+Ils se produisent généralement en situation de forte saturation des sols en eau. Ils peuvent mobiliser des volumes considérables de terrain, qui se déplacent le long d'une pente. Ils sont souvent associés aux coulées boueuses.
+
+Les coulées de boue sont caractérisées par un transport de matériaux sous forme plus ou moins fluide. Elles se produisent par dégénérescence de certains glissements avec un afflux d'eau conséquent. Dans le département des Deux-Sèvres, plusieurs évènements de ce type ont d'ores et déjà fait l'objet de la prise d'un arrêté de catastrophe naturelle.
+
+## Les éboulements et les chutes de pierres et de blocs
+
+L'évolution naturelle des falaises et des versants rocheux engendre des chutes de pierres, de blocs ou des éboulements en masse. Dans le cas des éboulements en masse, un volume important de roches s'écroule à grande vitesse sur une très grande distance. La forte interaction entre les éléments rend la prévision de leur trajectoire et rebond complexe.
+
+## Eboulement sur la commune de Thouars
+
+En février 2013, plusieurs désordres se produisent sur un coteau surplombant la vallée du Thouet à Thouars, dont un mouvement de terrain majeur survenu le 3 février avec effondrement d'un mur de soutènement (ancien rempart) entraînant une terrasse en endommageant les fondations d'une maison attenante.
+
+Ce mouvement de terrain est dû vraisemblablement à la trop forte augmentation de la poussée des terres à l'arrière du mur, en raison de l'infiltration des eaux de pluie particulièrement abondantes les jours précédents l'événement.
+
+Vue du mouvement de terrain Source BRGM avril 2013
+
+Suite à cet événement, la préfecture des Deux-Sèvres a sollicité le BRGM pour procéder à une expertise de ce mouvement de terrain, notamment dans le but d'identifier les causes de ce phénomènes et de définir les travaux de remise en état et de confortement à réaliser sur ce site.
+
+## Risque mouvement de terrain
+
+## Les actions préventives
+
+## La connaissance du risque
+
+Témoignages oraux, analyses d'archives, enquêtes terrain, études hydrogéologiques et géotechniques, sondages, photo-interprétation, etc… permettent de mieux connaître le risque et d'en dresser une cartographie précise.
+
+##  Le retrait-gonflement des argiles :
+
+Le département des Deux-Sèvres a été parmi les premiers départements à se doter de la cartographie de l'aléa retrait-gonflement des sols argileux, réalisé en 1998 par le BRGM.
+
+Depuis août 2019, l'ancienne carte d'aléa a été remplacée par la carte d'exposition au retrait-gonflement des sols argileux.
+
+Le décret du conseil d'Etat n°2019495 du 22 mai 2019 a créé une section du code de la construction et de l'habitation spécifiquement consacrée à la prévention du risque retrait-gonflement des argiles.
+
+## L'objectif de cette mesure législative
+
+est de réduire le nombre de sinistres liés à ce phénomène en imposant la réalisation d'études de sol préalablement à la construction dans les zones les plus exposées.
+
+La nouvelle carte d'exposition publiée sur Géorisques (présentée à la fin de ce chapitre) permet d'identifier les zones exposées au phénomène de retrait-gonflement des argiles où s'appliquent les nouvelles dispositions réglementaires depuis le 1 er janvier 2020 dans les zones d'exposition moyenne et forte.
+
+##  Les cavités souterraines
+
+Concernant le risque lié aux cavités souterraines, les services de l'État dans le département des DeuxSèvres disposent d'un inventaire départemental réalisé par le BRGM en 2014. Les cavités souterraines concernées par cet inventaire sont :
+
+- -les carrières souterraines abandonnées dont l'exploitation est arrêtée ;
+- -les cavités naturelles (grottes, gouffres…) ;
+- -les ouvrages civils tels que les tunnels, galeries, aqueducs, et les caves à usage industriel.
+
+Cet inventaire, non exhaustif, constitue une première démarche de recensement des cavités souterraines d'origine anthropique et naturelle à l'échelle du département. Les résultats de cet inventaire sont consultables sur le site Géorisques : http://www.georisques.gouv.fr/dossiers/cavitessouterraines#/
+
+Comme évoqué précédemment, la commune de Tourtenay, particulièrement concernée par ce risque avec près de 110 cavités répertoriées, a fait l'objet d'un programme d'études spécifiques qui a conduit à la mise en œuvre d'un programme de surveillance et de travaux de comblement de certaines cavités.
+
+##  Autres mouvements de terrain
+
+Dans le cadre de sa politique de prévention des risques naturels, le Ministère de l'Écologie a chargé le BRGM en 2009 de réaliser un inventaire des mouvements de terrain dans le département des DeuxSèvres concernant les glissements de terrain, les érosions de berge, les effondrements, les coulées de boue et les éboulements.
+
+http://www.georisques.gouv.fr/dossiers/exposition-au-retraitgonflement-des-argiles#/
+
+## Risque mouvement de terrain
+
+Au vu de ces premiers éléments d'inventaire, le département reste peu touché. La cartographie du résultat de cet inventaire non exhaustif figure à la fin de ce chapitre. Les inventaires sont aussi consultables sur le site Géorisques : http://www.georisques.gouv.fr/dossiers/mouvements-de-terrain#/
+
+## La surveillance et la prévision des phénomènes
+
+Pour les mouvements présentant de forts enjeux, des études peuvent être menées afin de tenter de prévoir l'évolution des phénomènes. La réalisation de campagnes géotechniques précise l'ampleur du phénomène.
+
+Lorsque cela est possible, la mise en place d'instruments de surveillance (inclinomètre, suivi topographique…), associée à la détermination de seuils critiques, permet de suivre l'évolution du phénomène, de détecter une aggravation avec accélération des déplacements et de donner l'alerte si nécessaire. La prévision de l'occurrence d'un mouvement limite le nombre de victimes, en permettant d'évacuer les habitations menacées, ou de fermer les voies de communication vulnérables.
+
+Néanmoins, la combinaison de différents mécanismes régissant la stabilité, ainsi que la possibilité de survenue d'un facteur déclencheur d'intensité inhabituelle rendent toute prévision précise difficile.
+
+## Les travaux de réduction de la vulnérabilité
+
+En matière de mouvements de terrain, des travaux de protection peuvent être mis en œuvre, mais ne sont réellement efficaces que contre un événement d'intensité limitée. La diversité des mouvements de terrain implique que des mesures spécifiques soient mises en œuvre au cas par cas lors de la construction ou de l'adaptation d'un bien. Afin de définir ces mesures, il est vivement recommandé de faire réaliser une étude géotechnique dans les zones susceptibles d'être affectées par un mouvement de terrain.
+
+- -Contre les éboulements et chutes de blocs : amarrage par câbles ou nappes de filets métalliques ; clouage des parois par des ancrages ou des tirants ; confortement des parois par massif bétonné ou béton projeté ; mise en place d'un écran de protection (merlon, digue pare-blocs, levée de terre) ou d'un filet pare-blocs associé à des systèmes de fixation à ressort et de boucles de freinage ; purge des parois.
+- -Dans le cas de glissement de terrain , réalisation d'un système de drainage (tranchée drainante …) pour limiter les infiltrations d'eau ; murs soutènement ;
+- -Contre le risque d'effondrement ou d'affaissement : après sondages de reconnaissance, renforcement par piliers en maçonnerie, comblement par coulis de remplissage, fondations profondes traversant la cavité, contrôle des infiltrations d'eau, suivi de l'état des cavités.
+- -Contre le retrait-gonflement : en cas de construction neuve, après étude de sol : fondations profondes, rigidification de la structure par chaînage … pour les bâtiments existants et les projets de construction : maîtrise des rejets d'eau, contrôle de la végétation en évitant de planter trop près et en élaguant les arbres.
+- -Coulées boueuses : drainage des sols, végétalisation des zones exposées au ravinement, correction torrentielle.
+
+Souvent, dans les cas de mouvements de grande ampleur, aucune mesure de protection ne peut être mise en place à un coût réaliste. La sécurité des personnes et des biens doit alors passer par l'adoption de mesures préventives.
+
+## La prise en compte dans l'aménagement
+
+Le Code de l'Urbanisme impose la prise en compte des risques dans les documents d'urbanisme :
+
+- -Le Schéma de Cohérence Territoriale (SCoT) définit une stratégie d'aménagement à l'échelle d'un territoire intercommunal ;
+- -Les Plans Locaux d'Urbanisme permettent de réglementer les projets d'aménagement et de construction dans les secteurs à risque en s'appuyant sur les études réalisées et les éléments de
+
+## Risque mouvement de terrain
+
+connaissance disponibles. Notamment, les nouvelles constructions doivent être interdites dans les zones les plus à risque.
+
+ L'article R111-2 du Code de l'Urbanisme donne également la capacité aux maires de refuser ou d'accepter sous réserve du respect de certaines prescriptions un permis de construire ou d'aménager qui comporterait un risque pour la sécurité publique.
+
+ Le plan de prévention des risques naturel (PPRN) constitue un outil réglementaire important pour la maîtrise du risque inondation dans les secteurs à forts enjeux. Ce document établi par les services de l'Etat, en concertation avec les collectivités locales, réglemente l'utilisation et l'exploitation des sols dans les zones à risques en tenant compte des niveaux de risques identifiés et de la nécessité de ne pas aggraver l'exposition aux risques des personnes et des biens. Il peut aussi agir sur les bâtiments existants en imposant des mesures pour protéger les occupants et préserver les biens
+
+Le PPRN comporte une note de présentation, un zonage réglementaire et un règlement associé qui définit les règles d'aménagement. Le zonage réglementaire comprend :
+
+- -des zones inconstructibles (habituellement représentée en rouge) au sein desquelles, d'une manière générale, toute construction est interdite parce que le risque est trop important.
+- -des zones constructibles avec prescription (habituellement représentée en bleu) au sein desquelles il est possible de construire sous réserve de respecter certaines prescriptions constructives.
+
+Le PPRN, une fois approuvé, doit être annexé aux Plans Locaux d'Urbanisme en tant que servitude d'utilité publique. Ainsi, les règles du PPRN s'imposent au Plan Local d'Urbanisme.
+
+Dans le département des Deux-Sèvres, aucun PPRN « mouvement de terrain » n'a été élaboré à ce jour.
+
+## Le nouveau dispositif réglementaire applicable à partir du 1 ier janvier 2020 concernant le risque retrait-gonflement des argiles
+
+Le décret du conseil d'Etat n°2019-495 du 22 mai 2019 a créé une section du code de la construction et de l'habitation spécifiquement consacrée à la prévention du risque retraitgonflement des argiles, afin de réduire le nombre de sinistres liés à ce phénomène.
+
+Depuis août 2019, l'ancienne carte d'aléa de ce risque a été remplacée par la carte d'exposition au retrait-gonflement des sols argileux (cf. page suivante).
+
+La nouvelle carte d'exposition publiée sur Géorisques permet d'identifier les zones d'exposition moyenne et forte au sein desquelles s'appliquent les nouvelles dispositions réglementaires depuis le 1 er janvier 2020 : http://www.georisques.gouv.fr/dossiers/exposition-au-retrait-gonflement-desargiles#/
+
+Toutefois, le nouveau dispositif réglementaire ne sera totalement applicable que lorsque tous les textes d'application relatifs aux techniques particulières de construction, au zonage des secteurs exposés et au contenu des études géotechniques, seront promulgués.
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+##  En cas d'éboulement, de chutes de pierre ou de glissement de terrain
+
+| Avant                                                                                                                                                       | Pendant                                                                                                                                                                                                 | Après                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| - S'informer des risques encourus et des consignes de sauvegarde - Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police) | - Fuir latéralement, ne pas revenir sur ses pas - Gagner un point en hauteur, ne pas entrer dans un bâtiment endommagé - Dans un bâtiment, s 'abriter sous un meuble solide en s'éloignant des fenêtres | - Évaluer les dégâts et les dangers - Informer les autorités |
+
+##  En cas d'effondrement du sol
+
+| Avant                                                                                                                                                       | Pendant                                                                                                                                                                                                                                                    | Après                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| - S'informer des risques encourus et des consignes de sauvegarde - Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police) |  Al'intérieur : - dès les premiers signes, évacuer le bâtiment et ne pas y retourner - ne pas prendre l'ascenseur  Al'extérieur : - s'éloigner de la zone dangereuse - respecter les consignes des autorités - rejoindre le lieu de regroupement indiqué | - Évaluer les dégâts et les dangers - Informer les autorités |
+
+## Risque mouvement de terrain
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+- DDT (Direction Départementale des Territoires)
+
+39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9
+
+tél : 05.49.06.88.88
+
+- BRGM (Bureau de Recherches Géologiques et Minières de Poitiers)
+
+5 rue de la Goélette - 86280 SAINT-BENOIT tél : 05.49.38.15.38
+
+- SDIS (Service Départemental d'Incendie et de Secours)
+- Mairies
+-  Le risque de terrain (généralités) :
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+
+Pour en savoir plus
+
+mouvements de
+
+https://www.gouvernement.fr/risques/mouvement -de-terrain
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturels-ettechnologiques/Prevention-des-risques-naturelsmajeurs-et-technologiques
+
+-  Le site du BRGM :
+
+http://www.brgm.fr
+
+-  Base de données sur le retrait-gonflement des sols argileux :
+
+http://www.georisques.gouv.fr/dossiers/exposition -au-retrait-gonflement-des-argiles#/
+
+-  Base de données sur les mouvements de terrain :
+
+http://www.georisques.gouv.fr/dossiers/mouveme nts-de-terrain#/
+
+-  Base de données sur les cavités souterraines :
+
+http://www.georisques.gouv.fr/dossiers/cavitessouterraines#/
+
+## 2.3 Le risque sismique
+
+## Risque sismique
+
+## GENERALITES
+
+## Qu'est-ce qu'un séisme ?
+
+Un séisme est une fracturation brutale des roches le long de failles en profondeur dans la croûte terrestre (rarement en surface). Le séisme génère des vibrations importantes du sol qui sont ensuite transmises aux fondations des bâtiments.
+
+Les séismes sont, avec le volcanisme, l'une des manifestations de la tectonique des plaques. L'activité sismique est concentrée le long de failles , en général à proximité des frontières entre ces plaques. Lorsque les frottements au niveau d'une de ces failles sont importants, le mouvement entre les deux plaques est bloqué. De l'énergie est alors stockée le long de la faille. La libération brutale de cette énergie permet de rattraper le retard du mouvement des plaques. Le déplacement instantané qui en résulte est la cause des séismes. Après la secousse principale, il y a des répliques, parfois meurtrières, qui correspondent à des petits réajustements des blocs au voisinage de la faille.
+
+## Comment se manifeste-t-il ?
+
+Un séisme est caractérisé par :
+
+-  Son foyer (ou hypocentre) : c'est la région de la faille où commence la rupture et d'où partent les ondes sismiques.
+-  Son épicentre : point situé à la surface terrestre à la verticale du foyer.
+-  Sa magnitude : intrinsèque à un séisme, elle traduit l'énergie libérée par le séisme. L'échelle de magnitude la plus connue est celle de Richter. Augmenter la magnitude d'un degré revient à multiplier l'énergie libérée par 30.
+-  Son intensité : elle traduit la sévérité de la secousse du sol en fonction des effets et dommages du séisme en un lieu donné. Elle est évaluée à partir de la perception du séisme par la population et des effets du séisme à la surface terrestre. L'échelle d'intensité de référence aujourd'hui en Europe est l'échelle EMS 98 (European Macroseismic Scale 1998). L'échelle comporte douze degrés. Le premier degré correspond à un séisme non perceptible, et le douzième à une catastrophe généralisée.
+-  La fréquence et la durée des vibrations : ces 2 paramètres ont une incidence fondamentale sur les effets en surface.
+
+## Risque sismique
+
+## Risque sismique
+
+## Les conséquences sur les personnes et les biens
+
+-  Les conséquences sur l'homme : le séisme est le risque naturel majeur le plus meurtrier, tant par ses effets directs (chutes d'objets, effondrements de bâtiments) que par les phénomènes induits (mouvements de terrain, tsunamis, etc). De plus, outre les victimes possibles, un très grand nombre de personnes peuvent se retrouver, suite à un séisme, sans abri et déplacées.
+-  Les conséquences économiques : si les impacts sociaux, psychologiques et politiques d'une possible catastrophe sismique en France sont difficiles à mesurer, les enjeux économiques, locaux et nationaux peuvent, en revanche, être appréhendés. Un séisme et ses éventuels phénomènes induits peuvent engendrer la destruction ou l'endommagement des habitations, des outils de production (usines, bâtiments d'entreprise, etc), des ouvrages (ponts, routes, voies ferrées, etc), des réseaux d'eau, d'énergie ou de télécommunications, du patrimoine, causant des pertes matérielles directes et des perturbations importantes de l'activité économique.
+-  Les conséquences environnementales : un séisme peut engendrer des pollutions importantes des milieux naturels et se traduire en surface par des modifications du paysage (décrochement, apparition ou tarissement de sources, glissements pouvant barrer une vallée, etc).
+
+## La carte d'aléa sismique
+
+La France dispose d'un zonage sismique divisant le territoire national en cinq zones de sismicité croissante (articles R.563-4 et D.563-8-1 du code de l'environnement). Le découpage du zonage est réalisé à l'échelle de la commune.
+
+| Zone 1                | Zone 2           | Zone 3            | Zone 4            | Zone 5          |
+| --------------------- | ---------------- | ----------------- | ----------------- | --------------- |
+| sismicité très faible | sismicité faible | sismicité modérée | sismicité moyenne | sismicité forte |
+
+L'analyse de la sismicité historique (à partir des témoignages et archives depuis 1000 ans), de la sismicité instrumentale (mesurée par des appareils) et l'identification des failles actives, permettent de définir l'aléa sismique d'une commune, c'est-àdire l'ampleur des mouvements sismiques attendus sur une période de temps donnée (aléa probabiliste).
+
+## LE RISQUE SISMIQUE DANS LES DEUX-SEVRES
+
+## La sismicité dans le département
+
+La région Poitou-Charentes n'est pas située dans une zone de confrontation de plaques. En revanche, elle est traversée par d'importantes failles profondes héritées d'une grande chaîne de montagnes (la chaîne hercynienne), qui occupait une grande partie de l'Europe il y a environ 300 Millions d'années.
+
+L'expansion océanique au niveau de la dorsale atlantique repousse les continents américains et européens. Sur la marge continentale « passive », qui caractérise le littoral atlantique de la France, les contraintes s'accumulent. Même si ces dernières ne présentent pas l'intensité des zones de confrontation de plaques, les accidents profonds, comme les failles hercyniennes qui courent de la Vendée jusqu'au Massif Central, peuvent jouer brutalement.
+
+La carte ci-dessous synthétise l'historique de la sismicité en France métropolitaine sur la période 19622018 et témoigne de l'importance de l'activité sismique en Poitou-Charentes.
+
+Carte de la sismicité instrumentale de la France métropolitaine sur la période 1962-2018. Source Bureau Central Sismologie Française (BCSF) http://www.franceseisme.fr/
+
+La base de données SisFrance, qui répertorie les séismes ressentis sur le territoire français à partir de données historiques, recense en Poitou-Charentes 87 évènements d'intensité comprise entre II (secousse à peine perceptible) et VII (dommages aux constructions) sur la période 1711-2001.
+
+Depuis 1950, plus de 70 séismes ont été ressentis en Poitou-Charentes, dont 20 présentaient des intensités épicentrales supérieures ou égales à V sur l'échelle EMS 98, ce qui correspond à une secousse forte largement ressentie qui réveille les dormeurs.
+
+## Risque sismique
+
+Le tableau ci-dessous récapitule les séismes ressentis dans au moins une commune du département des Deux-Sèvres avec une intensité macrosismique supérieure ou égale à V.
+
+Séismes ressentis comportant au moins une localité du département des Deux-Sèvres avec une intensité macrosismique minimum de V - Source SisFrance (BRGM, EDF, IRSN, MEDDE) http://www.sisfrance.net
+
+| Date              | Heure            |     |                                           | Choc Localisation epicentrale Region ou pays de I'epicentre | Intensite epicentrale |
+| ----------------- | ---------------- | --- | ----------------------------------------- | ----------------------------------------------------------- | --------------------- |
+| 14 Fevrier 2003   | 4h 49 min 17 sec |     | PLAINEVENDEENNE(S.S-O. FONTENAY-LE-COMTE) | PAYSNANTAISETVENDEEN                                        | 5                     |
+| 5Avril2001        | 17h 26min59sec   |     | MELLOIS(SEPVRET)                          | POITOU                                                      | 5                     |
+| 31 Aout 1981      | 2h 28min47sec    |     | VALLEEDU LAYON(CLERE)                     | ANJOU                                                       | 5                     |
+| 7 Septembre 1972  | 22 h 26min54sec  |     | ILED'OLERON                               | CHARENTES                                                   | 7                     |
+| 20Juillet 1958    | 19h 27min 15sec  |     | ILED'OLERON                               | CHARENTES                                                   | 6                     |
+| 10Septembre 1950  | 5h43min          |     | BOCAGEVENDEEN(CERISAY)                    | POITOU                                                      | 5                     |
+| 25 Fevrier 1949   | 20 h19min        |     | GATINE(CLESSE)                            | POITOU                                                      | 4                     |
+| 13 Decembre 1939  | 4h3min           |     | ANGOUMOIS(HIERSAC)                        | CHARENTES                                                   | 5                     |
+| 28 Septembre 1935 | 16h 17 min50 sec | E   | ANGOUMOIS(ROUILLAC)                       | CHARENTES                                                   | 7                     |
+| 13 Février 1904   | 22 h 30 min      |     | BOCAGEVENDEEN(LES AUBIERS)                | POITOU                                                      | 5                     |
+| 12 Aout 1889      | 2 h 40 min       |     | PLAINEVENDEENNE(S-E. FONTENAY-LE-COMTE)   | PAYSNANTAISETVENDEEN                                        | 5,5                   |
+| 1 Septembre 1866  | 20 h30 min       |     | GATINE(ST-MAIXENT-L'ECOLE)                | POITOU                                                      | 5,5                   |
+| 13 Mai 1836       | 5h3min           |     | GATINE(E.COULONGES- SUR-L'AUTIZE)         | POITOU                                                      |                       |
+| 31AoUt1810        | 7 h 55min        |     | PLAINEDENIORTW. CHAMPDENIERS?)            | POITOU                                                      |                       |
+| 25 Janvier 1799   | 3h45min          | Z   | MARAISBRETON(BOUIN)                       | PAYSNANTAISETVENDEEN                                        | 7,5                   |
+| 9 Janvier 1772    | 7h               |     | GATINE(PARTHENAY)                         | POITOU                                                      | 7,5                   |
+| 2 Janvier 1772    | 6h               | P   | GATINE(PARTHENAY)                         | POITOU                                                      |                       |
+| 6 Octobre 1711    | 19h              |     | LOUDUNOIS(LOUDUN)                         | POITOU                                                      | 7,5                   |
+| 27 Octobre 1658   | 23 h 55 min      |     | PLAINESDUHAUT-POITOU (THOUARS)            | POITOU                                                      |                       |
+
+## Le séisme du 6 octobre 1711 (Anjou, Poitou et Touraine) :
+
+Il constitue un événement majeur avec une intensité épicentrale voisine de VIII. Plusieurs villages ont été gravement endommagés en Vienne, particulièrement Loudun où plusieurs bâtiments ont été détruits. Ce séisme a été ressenti jusqu'à La Rochelle.
+
+## Le séisme du 25 janvier 1799 (Vendée) :
+
+Il représente par son ampleur et son intensité (VII-VIII) le séisme le plus important actuellement connu dans l'Ouest de la France. Son épicentre a été localisé en mer, entre Noirmoutier et Bouin, village dans lequel une centaine de maisons ont été détruites.
+
+## Le séisme du 7 septembre 1972 (Ile d'Oléron) :
+
+Plus récemment, un séisme majeur de l'ensemble du massif Armoricain d'intensité VII s'est produit à l'Ile d'Oléron en Charente-Maritime, et a été ressenti jusqu'en région parisienne. Il a provoqué des dégâts importants, notamment une quinzaine de maisons lézardées et la destruction d'environ 400 cheminées, sans qu'il y ait de victime à déplorer.
+
+## Risque sismique
+
+Dans le département des Deux-Sèvres, toutes les communes sont classées en zone de sismicité 3, correspondant à un niveau d'aléa modéré.
+
+.
+
+Zones de sismicité en Poitou-Charentes
+
+## Les actions préventives
+
+## La connaissance du risque
+
+L'analyse de la sismicité historique (base SisFrance) et les enquêtes macrosismiques après séisme réalisées par le Bureau Central de la Sismicité Française (BCSF) permettent une analyse statistique du risque sismique et d'identifier les effets de site.
+
+## La surveillance et prévision des phénomènes
+
+##  La prévision à court terme
+
+Il n'existe malheureusement à l'heure actuelle aucun moyen fiable de prévoir où, quand et avec quelle puissance se produira un séisme. En effet, les signes précurseurs d'un séisme ne sont pas toujours identifiables. Des recherches mondiales sont cependant entreprises afin de mieux comprendre les séismes et de les prévoir.
+
+##  La prévision à long terme
+
+A défaut de prévision à court terme, la prévision des séismes se fonde sur l'analyse probabiliste et statistique. Elle se base sur l'étude des événements passés à partir desquels on calcule la probabilité d'occurrence d'un phénomène donné (méthode probabiliste) sur une période de temps donnée. En d'autres termes, le passé est la clé du futur.
+
+##  La surveillance sismique
+
+Le suivi de la sismicité en temps réel se fait à partir de stations sismologiques réparties sur l'ensemble du territoire national, regroupées sous forme de réseaux gérés par divers organismes. Ce suivi de la sismicité française permet d'améliorer la connaissance de l'aléa régional, voire local, en appréciant notamment les effets de site.
+
+La surveillance sismique permet également de fournir rapidement des informations précieuses (localisation, magnitude d'un séisme) pour aider les autorités et les particuliers à la gestion de crise. Cependant, elle ne permet pas d'alerter les populations assez tôt pour leur évacuation avant la survenue d'un séisme. L'alerte sismique nationale est assurée par le Laboratoire de Détection et de Géophysique (LDG) du CEA au moyen de son réseau national de surveillance sismique.
+
+## Les travaux de réduction de la vulnérabilité
+
+Puisqu'il est impossible de prévoir la date, le lieu et l'intensité d'un séisme, et donc d'évacuer les bâtiments avant qu'il ne survienne, le moyen de prévention le plus efficace contre le risque sismique est la construction parasismique et la réduction de la vulnérabilité des constructions existantes.
+
+##  La construction parasismique
+
+Le zonage sismique de la France impose l'application de règles parasismiques pour les constructions neuves et pour les bâtiments existants dans le cas de certains travaux d'extension. Ces règles ont pour but d'assurer la protection des personnes contre les effets des secousses sismiques.
+
+En cas de secousse « nominale », c'est-à-dire avec une ampleur théorique maximale fixée selon chaque zone, la construction peut subir des dommages irréparables, mais elle ne doit pas s'effondrer sur ses occupants.
+
+En cas de secousse plus modérée, l'application des dispositions définies dans les règles parasismiques doit aussi permettre de limiter les endommagements et, ainsi, les pertes économiques.
+
+Ces règles sont variables en fonction du niveau de sismicité et de la catégorie du bâtiment. En effet, les bâtiments à risque normal sont classés en quatre catégories d'importance croissante, de la catégorie I à faible enjeu à la catégorie IV qui regroupe les structures stratégiques et indispensables à la gestion de crise :
+
+- I : aucune activité humaine nécessitant un séjour de longue durée ;
+- II : habitations individuelles, établissements recevant du public (ERP) de niveau 4 et 5 ; habitations collectives de hauteur inférieure à 28 m ; bâtiments industriels pouvant accueillir au plus 300 personnes ; parcs de stationnement ouverts au public ;
+- III : établissements recevant du public (ERP) de niveau 1, 2 et 3 ; habitations collectives et bureaux de hauteur supérieure à 28 m ; bâtiments pouvant accueillir plus de 300 personnes ; établissements sanitaires et sociaux ; centres de production collective d'énergie ; établissements scolaires ;
+- IV : bâtiments indispensables à la sécurité civile, la défense nationale et le maintien de l'ordre public ; bâtiments assurant le maintien des communications, la production et le stockage d'eau potable, la distribution publique de l'énergie ; bâtiments assurant le contrôle de la sécurité aérienne ; établissements de santé nécessaires à la gestion de crise ; centres météorologiques.
+
+Il n'existe pas de prescription parasismique particulière pour les bâtiments à risque normal situés en zone de sismicité 1.
+
+Dans les zones de sismicité 2 à 5, donc pour l'ensemble du département des Deux-Sèvres, les exigences sur le bâtiment neuf dépendent de la catégorie d'importance du bâtiment. L'Eurocode 8, ensemble de normes et code applicables en Europe pour la résistance des bâtiments aux séismes, s'impose comme la règle de construction parasismique de référence.
+
+Dans le cas de certaines structures simples, comme par exemple les maisons individuelles, la réglementation offre la possibilité de recourir à des règles forfaitaires simplifiées dites PS-MI et qui dispensent de l'application de l'Eurocode 8.
+
+## Risque sismique
+
+## Risque sismique
+
+Règles de construction parasismique applicables aux bâtiments neufs selon leur zone de sismicité et leur catégorie d'importance
+
+- Applicanon possible (en dispense de Eurocode B) des PS-MI sous reserve du respect des condions de la nome PS-MI
+
+Application obligatoiredes reglesEurocode 8
+
+2Application possible du guide CP-MI sousreserve du respect des conditions du guide
+
+Il n'existe pas d'obligations réglementaires de mise aux normes parasismiques pour le bâtiment existant, excepté lorsque celui-ci fait l'objet de certaines typologies de travaux, notamment dans l'hypothèse de travaux lourds et/ou de création d'une extension relativement importante. Dans ces cas, les règles de construction parasismique applicables (Eurocode 8 ou PS-MI) à l'ensemble du bâtiment modifié dépendent de la zone sismique, de la catégorie du bâtiment, ainsi que du niveau de modification envisagé sur la structure.
+
+##  Les mesures constructives
+
+Pour toutes les catégories de bâtiments visées par cette réglementation, le respect des règles parasismiques incombe aux maîtres d'ouvrage, aux maîtres d'œuvre et concepteurs de projet, ainsi qu'aux entreprises qui exécutent les travaux.
+
+Construire « parasismique » suppose en premier lieu de bien connaître la nature du terrain. Bien que l'étude géotechnique ne soit pas obligatoire, elle est fortement conseillée, y compris pour les maisons individuelles, afin de connaître les caractéristiques du terrain et adapter les fondations et la configuration du bâtiment à la nature du sol.
+
+Mais construire « parasismique » passe avant tout par le respect des règles de conception, de calcul et d'exécution propres aux situations non sismiques. L'expérience montre que les ouvrages, lorsqu'ils sont de conception saine et que les règles normales de construction sont appliquées correctement et adaptées à la nature du sol, ont des chances non négligeables de supporter convenablement des secousses d'intensité modérée. Ce constat ne doit tout de même pas faire oublier le respect de la réglementation parasismique en vigueur.
+
+## Risque sismique
+
+##  Les grands principes de construction parasismique :
+
+- Fondations reliées entre elles,
+- Liaison fondations-bâtiments,
+- Chaînages verticaux et horizontaux avec liaison continue,
+- Encadrement des ouvertures (portes, fenêtres)
+- Murs de refend,
+- Panneaux rigides,
+- Fixation de la charpente aux chaînages,
+- Triangulation de la charpente,
+- Chaînage sur les rampants,
+- Toiture rigide.
+-  L'évaluation de vulnérabilité d'une maison déjà construite et son renforcement :
+- Déterminer le mode de construction (maçonnerie en pierre, béton, etc),
+- Examiner la conception de la structure,
+- Réunir le maximum de données relatives au sol et au site.
+
+##  L'adaptation des équipements de la maison au séisme :
+
+- Renforcer l'accroche de la cheminée et l'antenne de TV sur la toiture,
+- Accrocher les meubles lourds et volumineux aux murs,
+- Accrocher solidement miroirs, tableaux, etc,
+- Empêcher de glisser ou tomber du bureau
+- équipements lourds (ordinateurs, TV, hifi, imprimante …),
+- Ancrer solidement tout l'équipement de sa cuisine,
+- Accrocher solidement le chauffe-eau,
+- Enterrer au maximum ou accrocher solidement les
+- canalisations de gaz et les cuves ou réserves,
+- Installer des flexibles à la place des tuyaux d'arrivée d'eau et de gaz et d'évacuation.
+
+## La prise en compte dans l'aménagement
+
+##  L'application des règles de construction parasismique
+
+Lors de la demande du permis de construire pour les bâtiments où la mission PS (parasismique) est obligatoire, une attestation établie par le contrôleur technique doit être fournie. Elle spécifie que le contrôleur a bien fait connaître au maître d'ouvrage son avis sur la prise en compte des règles parasismiques au niveau de la conception du bâtiment.
+
+A l'issue de l'achèvement des travaux, le maître d'ouvrage doit fournir une nouvelle attestation stipulant qu'il a tenu compte des avis formulés par le contrôleur technique sur le respect des règles parasismiques.
+
+##  Le plan de prévention des risques
+
+Le plan de prévention des risques sismiques (PPR), établi par l'État, est un outil réglementaire important permettant de mieux contrôler le développement de l'urbanisation dans les secteurs à risques, et notamment à forts enjeux. Il permet aussi d'agir sur les bâtiments existants, et d'imposer des mesures pour protéger les occupants et préserver les biens.
+
+## Risque sismique
+
+Le PPR comporte une note de présentation, un zonage réglementaire et un règlement associé qui définit les règles d'aménagement. Les PPR, une fois approuvés, doivent être annexés aux Plans Locaux d'Urbanisme en tant que servitude d'utilité publique. Ainsi, les règles du PPR s'imposent au Plan Local d'Urbanisme.
+
+Dans le département des Deux-Sèvres, il n'est pas envisagé à ce jour d'élaborer de plan de prévention des risques sismiques.
+
+.j
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+| Avant                                                                                                                                                                                                                                                                                                    | Pendant                                                                                                                                                                                                                                                                                                                                                                                                                                | Après                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  S'informer sur les risques et les consignes de sécurité.  Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police).  Repérer les points de coupure du gaz, eau, électricité.  Fixer les appareils et les meubles lourds.  Préparer un plan de groupement familial. |  Rester où l'on est : - à l'intérieur : se mettre près d'un mur solide ou sous des meubles solides, s'éloigner des fenêtres ; - à l'extérieur : ne pas rester sous des fils électriques ou sous ce qui est susceptible de s'effondrer (cheminées, ponts, corniches, toitures, arbres ...) ; - en voiture : s'arrêter et ne pas descendre avant la fin des secousses.  Se protéger la tête avec les bras.  Ne pas allumer de flamme. |  Après la première secousse, se méfier des répliques, car d'autres secousses peuvent se produire.  Ne pas prendre les ascenseurs pour quitter un immeuble.  Vérifier l'eau et l'électricité : en cas de fuite de gaz ouvrir les fenêtres et les portes, se sauver et prévenir les autorités.  S'éloigner des zones côtières, même longtemps après la fin des secousses, en raison d'éventuels tsunamis.  Si l'on est bloqué sous des décombres, garder son calme et signaler sa présence en frappant sur l'objet le plus approprié (table, poutre, canalisation...).  Avant de boire l'eau du robinet, s'assurer auprès de la mairie qu'elle est potable. |
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile) 4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT tél : 05.49.06.88.88
+- BCSF (Bureau Central Sismologique Français) 5 rue René Descartes - 67084 STRASBOURG CEDEX Tél : 03.68.85.00.85
+- SDIS (Service Départemental d'Incendie et de Secours)
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY Tél : 05.49.08.18.18
+
+- Mairies
+
+## Risque sismique
+
+- Le risque sismique (généralités) :
+- 
+- https://www.gouvernement.fr/risques/seisme http://www.georisques.gouv.fr/dossiers/seisme
+-  Pour connaître les risques près de chez soi :
+- http://www.georisques.gouv.fr/
+-  Le plan séisme, programme national :
+- http://www.planseisme.fr
+-  Le Bureau Central Sismologique Français (BCSF)
+
+http://www.franceseisme.fr
+
+-  Le site du BRGM pour l'historique des séismes : http://www.sisfrance.net
+-  Le Commissariat à l'Energie Atomique (CEA) :
+- http://www-dase.cea.fr/default.php?lang=fr
+
+## 2.4 Le risque événements climatiques
+
+## GENERALITES
+
+## Que sont les événements climatiques ?
+
+On entend par événements climatiques l'ensemble des phénomènes traités par la vigilance météorologique à savoir : vent violent, pluie-inondation, orage, neige-verglas, inondation, avalanche, canicule (du 1 er juin au 30 septembre), grand froid (du 1 er novembre au 31 mars et vagues-submersion.
+
+Source Météo France
+
+Les phénomènes de pluie-inondation et inondation font l'objet d'un chapitre spécifique « risque inondation » et ne sont donc pas de nouveau présentés ici. Il en est de même pour les phénomènes d'avalanche et de submersion marine qui ne concernent pas le département des Deux-Sèvres.
+
+## Comment se manifestent-ils ?
+
+Vent violent et tempête :
+
+Un vent est estimé violent donc dangereux lorsque sa vitesse atteint 80 km/h en vent moyen et 100 km/h en rafale à l'intérieur des terres. Mais ce seuil varie selon les régions, il est par exemple plus élevé pour les régions littorales ou la région sud-est. L'appellation " tempête " est réservée aux vents atteignant 89 km/h.
+
+Une tempête correspond à l'évolution d'une perturbation atmosphérique, ou dépression, le long de laquelle s'affrontent deux masses d'air aux caractéristiques distinctes (température, teneur en eau).
+
+L'essentiel des tempêtes touchant la France se forme sur l'océan Atlantique, au cours des mois d'automne et d'hiver (on parle de " tempête d'hiver "), progressant à une vitesse moyenne de l'ordre de 50 km/h et pouvant concerner une largeur atteignant 2 000 km.
+
+Orage et phénomènes associés (foudre, grêle, bourrasques, tornades, pluies intenses) :
+
+L'orage est un phénomène météorologique caractérisé par la présence d'éclairs et de tonnerre, avec ou sans précipitations, liquides ou solides, éventuellement accompagné de rafales. Un orage est constitué par une formation nuageuse spécifique appelée cumulonimbus qui peut s'étendre sur plusieurs dizaines de kilomètres carrés et dont le sommet culmine à une altitude comprise entre 6 000 et 15 000 mètres. Un cumulonimbus peut contenir une centaine de milliers de tonnes d'eau, de grêlons et de cristaux de glace.
+
+Sous les climats tempérés, comme en France, les orages se produisent essentiellement durant la saison chaude qui s'étend de fin avril à fin octobre, mais exceptionnellement ils peuvent également se produire en hiver.
+
+L'orage est généralement un phénomène de courte durée, de quelques dizaines de minutes à quelques heures. Il peut être isolé (orage près des reliefs ou causé par le réchauffement du sol en été) ou organisés en ligne (dite " ligne de grains " par les météorologistes).
+
+## Chutes de neige et verglas :
+
+La neige est une précipitation solide qui tombe d'un nuage et atteint le sol lorsque la température de l'air est négative ou voisine de 0°C. On distingue trois types de neige selon la quantité d'eau liquide qu'elle contient : sèche, humide ou mouillée. Les neiges humide et mouillée sont les plus dangereuses.
+
+Un épisode neigeux peut-être qualifié d'exceptionnel pour une région donnée, lorsque la quantité ou la durée des précipitations est telle qu'elle provoque une accumulation non habituelle de neige au sol entraînant notamment des perturbations de la vie socio-économique.
+
+Le verglas est lié à une précipitation : c'est un dépôt de glace compacte provenant d'une pluie ou bruine qui se congèle en entrant en contact avec le sol.
+
+## Période de températures exceptionnelles :
+
+Il peut s'agir de phénomène de canicule ou au contraire de grand froid.
+
+On parle de canicule dans un secteur donné, lorsque la température reste élevée (température maximale dépassant 35°) avec une amplitude thermique faible entre le jour et la nuit. La nuit notamment, la température ne descend pas ou très peu, ne permettant pas un repos nocturne réparateur. Ce phénomène dure plusieurs jours voire plusieurs semaines.
+
+La période de grand froid se caractérise par sa persistance, son intensité et son étendue géographique. L'épisode dure au moins deux jours. Les températures atteignent des valeurs nettement inférieures aux normales saisonnières de la région concernée.
+
+## Les conséquences sur les personnes et les biens
+
+En fonction de la nature des aléas climatiques et de leur intensité, leurs conséquences peuvent être multiples. Pour les plus violents d'entre eux, les conséquences sur les personnes, les biens, l'économie et l'environnement peuvent être considérables.
+
+Leurs conséquences directes ou indirectes (chute d'arbre ou de toitures dans le cas de vents violents) peuvent être la cause de blessures ou de décès, et peuvent paralyser lourdement la vie économique et sociale d'une collectivité (rupture de voies de circulation, de télécommunication, de ravitaillement en eau ou électricité …).
+
+Les périodes de grand froid ou de canicule constituent un danger pour la santé de tous, et plus particulièrement pour les jeunes enfants, les personnes âgées et les sans-abri.
+
+Les destructions ou dommages portés aux édifices privés ou publics, aux infrastructures industrielles ou de transport, ainsi que l'interruption des trafics (routier, ferroviaire, aérien) peuvent se traduire par des coûts, des pertes ou des perturbations d'activités importantes. Par ailleurs, les réseaux d'eau, téléphonique et électrique subissent à chaque tempête, à des degrés divers, des dommages à l'origine d'une paralysie temporaire de la vie économique. Enfin, le milieu agricole paye régulièrement un lourd tribut aux tempêtes, du fait des pertes de revenus résultant des dommages au bétail, aux élevages et aux cultures. Il en est de même pour le monde de la conchyliculture.
+
+Parmi les atteintes portées à l'environnement (faune, flore, milieu terrestre et aquatique), on peut distinguer celles portées par effet direct des évènements (destruction de forêts par les vents, dommages résultant des inondations, etc.) et celles portées par effet indirect (pollution plus ou moins grave et étendue consécutive à un naufrage, pollution à l'intérieur des terres suite aux dégâts portés aux infrastructures de transport, etc).
+
+## LE RISQUE EVENEMENTS CLIMATIQUES DANS LE DEPARTEMENT
+
+## Les évènements climatiques dans le département
+
+Le département des Deux-Sèvres est situé dans une zone de climat tempéré à dominante océanique sous l'influence directe de l'Océan Atlantique. Ainsi, il arrive que les phénomènes météorologiques généralement « ordinaires » deviennent extrêmes, et donc dangereux et lourds de conséquences. Ces évènements peuvent survenir de façon diffuse sur l'ensemble du département.
+
+## Vent violent et tempête :
+
+Les deux tempêtes survenues en décembre 1999, respectivement dénommées Lothar et Martin, ont été les plus dramatiques de ces dernières dizaines d'années, avec 92 morts et plus de 15 milliards d'euros de dommages. La deuxième tempête, qui a davantage affectée le département des DeuxSèvres, est passée plus au sud en circulant au niveau de la Loire avec des rafales de vent qui ont soufflé jusqu'à 200 km/h sur l'île de Ré (144 km/h dans les Deux-Sèvres).
+
+Plus récemment la tempête Klaus du 24 janvier 2009 d'une ampleur exceptionnelle a balayé le Sud-Ouest de la France, dont le département des Deux-Sèvres. Au lendemain de la tempête, on dénombre 12 victimes en France, et plus d'un million et demi de foyers sont privés d'électricité, dont 20 000 dans la région Poitou-Charentes.
+
+Enfin, dans la nuit du samedi 27 au 28 février 2010, une des plus violentes tempêtes venant de l'Ouest du Portugal, dénommée Xynthia, a touché la France en faisant 59 victimes et des dégâts évalués à plus d'un milliard d'euros. Des vents de plus 150km/h ont été enregistrés en Charente-Maritime, voir plus de 200km/h dans les Pyrénées (161 km/h dans les DeuxSèvres).
+
+| Historique des principales tempêtes en Deux-Sèvres | Historique des principales tempêtes en Deux-Sèvres |
+| -------------------------------------------------- | -------------------------------------------------- |
+| Date                                               | Vent max en km/h                                   |
+| 24/03/1986                                         | 108                                                |
+| 02/01/1998                                         | 112                                                |
+| 08/08/1999                                         | 130                                                |
+| 25/12/1999                                         | 133                                                |
+| 26/12/1999                                         | 119                                                |
+| 27/12/1999                                         | 144                                                |
+| 13/05/2002                                         | 115                                                |
+| 27/02/2010                                         | 161                                                |
+
+Orage et phénomènes associés (foudre, grêle, bourrasques, tornades, pluies intenses) :
+
+De nombreux événements, de types orages violents ou tornades, se produisent régulièrement dans le département des Deux-Sèvres. Les évènements exceptionnels ont souvent des effets très localisés. On notera plus particulièrement deux événements de grande ampleur qui ont touché des secteurs plus vastes :
+
+- Le mardi 26 juillet 1983, dans l'après-midi et la nuit qui a suivi, la région Poitou-Charentes a connu de très violents orages. Le département des Deux-Sèvres a été particulièrement touché. Certaines communes ont été frappées par des tornades et fronts de rafales, notamment la ville de Niort et le Marais Poitevin. Ces orages ont dévasté le Marais Poitevin et la forêt de Chizé.
+
+- Dans la nuit du dimanche 16 juin 2013, un violent orage et une pluie de grêlons (de la taille de balles de ping-pong par endroit) ont balayé les Deux-Sèvres, placé en vigilance orange. Les pompiers ont effectué une trentaine d'interventions. Jardins et cultures dévastés, poubelles et vérandas éventrées, voitures cabossées, sous-sol inondés, chutes de câbles sur voirie : les dégâts matériels sont parfois importants sur le territoire de certaines communes, mais aucune victime n'est fort heureusement à déplorer.
+
+## Chutes de neige et verglas :
+
+Les épisodes de chutes de neige et de verglas sont plutôt rares dans le département des Deux-Sèvres. Aussi, le risque en est d'autant plus important que la population et les pouvoirs publics n'ont pas l'habitude d'être confrontés à ces situations. Février 1956, décembre 1967, janvier 1979 et janvier 1987 constituent des événements exceptionnels pour le département.
+
+## Période de températures exceptionnelles :
+
+De nombreux épisodes très froids ont été recensés en France depuis les années cinquante. Les 4 principales vagues de froid survenues depuis 1947 se sont produites, selon Météo France, en février 1956, janvier 1963, janvier 1985 et janvier 1987. L'épisode de 1956 est le plus significatif dans sa durée (du 1 er au 27 février) et dans son intensité.
+
+La France a connu, depuis 1947, selon Météo France, ses plus grosses canicules lors des étés de 1947, 1976, 1983, 1994, 2003, 2006, et plus récemment au cours de l'été 2019. La canicule de 2003 a été l'épisode le plus exceptionnel, tant dans sa durée que dans son intensité avec des températures de l'ordre de 40° (40,1° relevé à Niort le 9 août 2003 - source Météo France). Cet épisode particulièrement dramatique a été à l'origine d'environ 15 000 décès en France dus à la chaleur.
+
+## Les actions préventives
+
+Les aléas climatiques ne peuvent être maîtrisés, mais un certain nombre de mesures sont prises pour en réduire les effets. La principale prévention réside dans la surveillance des phénomènes climatiques mis en évidence par les cartes de vigilance météorologiques.
+
+## La surveillance et la prévision des phénomènes
+
+##  La prévision météorologique
+
+C'est une mission fondamentale confiée à Météo France. Elle s'appuie sur les observations des paramètres météorologiques et sur les conclusions qui en sont tirées par les modèles numériques, outils de base des prévisionnistes. Ces derniers permettent d'effectuer des prévisions à une échéance de plusieurs jours.
+
+## Risque événements climatiques
+
+##  La vigilance météorologique
+
+La vigilance météorologique a été mise en place le 1er octobre 2001. Elle est accessible en permanence sur le site internet de Météo-France. La carte de vigilance signale si un phénomène dangereux menace un ou plusieurs départements dans les prochaines 24 heures et renseigne sur les précautions à prendre pour se protéger. Elle est actualisée au moins deux fois par jour, à 6h00 et à 16h00. Elle a pour objectif d'informer la population et les pouvoirs publics en cas de phénomènes météorologiques dangereux en métropole. Elle est également destinée aux services de la sécurité civile et aux autorités sanitaires qui peuvent ainsi alerter et mobiliser respectivement les équipes d'intervention et les professionnels et structures de santé.
+
+Carte de vigilance du 27 février 2010 à 19h30 Source Météo France
+
+Le niveau de vigilance vis-à-vis des conditions météorologiques à venir est présenté sous une échelle de 4 couleurs et qui figurent en légende sur la carte.
+
+Une vigilance absolue s'impose : des phénomènes dangereux d'intensité exceptionnelle sont prévus ; tenez-vous régulièrement au courant de l'évolution de la situation et respectez impérativement les consignes de sécurité émises par les pouvoirs publics.
+
+Soyez très vigilant : des phénomènes dangereux sont prévus ; tenez-vous au courant de l'évolution de l'évolution de la situation et suivez les conseils de sécurité émis par les pouvoirs publics.
+
+Soyez attentifs : si vous pratiquez des activités sensibles au risque météorologique ou à proximité d'un rivage ou d'un cours d'eau ; des phénomènes habituels dans la région mais occasionnellement et localement dangereux (ex. mistral, orage d'été, montée des eaux, fortes vagues submergeant le littoral) sont en effet prévus ; tenez-vous au courant de l'évolution de la situation.
+
+Pas de vigilance particulière
+
+Source Météo France
+
+En vigilance orange ou rouge, la carte est accompagnée de bulletins de vigilance, actualisés aussi souvent que nécessaire. Ils précisent l'évolution du phénomène, sa trajectoire, son intensité et sa fin, ainsi que les conséquences possibles de ce phénomène et les conseils de comportement définis par les pouvoirs publics. La carte et les bulletins de vigilance sont consultables en permanence sur meteofrance.com , et repris par les médias locaux ou nationaux
+
+## L'organisation des secours
+
+ Au niveau départemental, lorsqu'une d'urgence requiert l'intervention de l'Etat, le préfet peut déclencher et mettre en œuvre le dispositif ORSEC. Ce dispositif permet d'organiser la direction des opérations et mobiliser les moyen publics et privés nécessaires à l'intervention. En cas d'insuffisance des moyens départementaux, il fait appel aux moyens zonaux ou nationaux par l'intermédiaire du préfet de la zone de défense et de sécurité dont il dépend.
+
+ Au niveau communal, le maire, par ses pouvoirs de police, est chargé d'assurer la sécurité de ses administrés. Il prend les dispositions lui permettant de gérer une situation d'urgence, en particulier il peut être amené à déclencher le Plan Communal de Sauvegarde. En cas d'insuffisance des moyens communaux face à la crise, il fait appel au préfet qui prend la direction des opérations.
+
+##  En période de grand froid
+
+Le Plan Grand Froid est activé au niveau de chaque département en fonction des prévisions de Météo France. Il regroupe toutes les mesures recommandées pour prévenir les risques sanitaires liés au froid. Il prévoit une vigilance accrue à l'égard des personnes vulnérables (personnes sans-abri, jeunes enfants, personnes âgées et fragiles, …).
+
+Les mesures sont mises en place selon trois niveaux de vigilance définis en fonction des températures diurnes et nocturnes :
+
+- -le niveau 1 est activé lorsque la température est positive dans la journée, mais comprise entre zéro et -5°C la nuit ;
+- -le niveau 2 est mis en place par les préfectures lorsque la température est négative le jour et comprise entre -5°C et -10°C la nuit ;
+- -le niveau 3 correspond à un froid extrême, lorsque la température est négative le jour et inférieure à -10°C la nuit. Un plan d'urgence hivernale est alors déclenché et les partenaires de l'urgence sociale sont appelés à renforcer les moyens d'intervention pour répondre à toute sollicitation et procéder à l'hébergement immédiat de toute personne sans abri.
+
+Pour plus d'informations : https://solidarites-sante.gouv.fr/sante-et-environnement/risquesclimatiques/article/risques-sanitaires-lies-au-froid
+
+##  En période de canicule
+
+Le plan canicule, élaboré à la suite de l'épisode caniculaire exceptionnel de 2003, a pour objectifs d'anticiper l'arrivée d'une canicule, de définir les actions à mettre en œuvre au niveau local et national pour prévenir et limiter les effets sanitaires de celle-ci et d'adapter au mieux les mesures de prévention et de gestion au niveau territorial, en portant une attention particulière aux personnes les plus vulnérables (personnes âgées, handicapées, …).
+
+Le plan comporte 3 niveaux :
+
+- le niveau 1 de veille saisonnière, activé du 1 er juin au 31 août ;
+- le niveau 2 de mise en garde, déclenché par les préfets des départements concernés lorsque les conditions météorologiques l'exigent ;
+- le niveau 3 de mobilisation maximale, déclenché au niveau national sur instruction du Premier ministre dans le cas où la canicule est aggravée par d'autres facteurs (rupture de l'alimentation électrique, pénurie d'eau potable, saturation des établissements de santé…).
+
+Pour plus d'informations : https://solidarites-sante.gouv.fr/sante-et-environnement/risquesclimatiques/canicule
+
+Par ailleurs, très souvent les périodes de canicule conduisent à des périodes de sécheresse. Lorsque la sécheresse survient, des restrictions d'usage de l'eau peuvent être décidées par le préfet. Chacun, par ses gestes quotidiens ou ses pratiques professionnelles, peut contribuer à préserver les ressources en eau potable.
+
+## LES CONSEILS DE COMPORTEMENT
+
+Les conseils de comportement varient en fonction des phénomènes climatiques considérés et de leur intensité.
+
+Source Météo France : http://vigilance.meteofrance.com/guide/consequence\_conseil.html
+
+| VENT VIOLENT | CONSEILS DE COMPORTEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|              | - Limitez vos déplacements. Limitez votre vitesse sur route et autoroute, en particulier si vous conduisez un véhicule ou attelage sensible aux effets du vent. - Ne vous promenez pas en forêt et sur le littoral. - En ville, soyez vigilants face aux chutes possibles d'objets divers. - N'intervenez pas sur les toitures et ne touchez en aucun cas à des fils électriques tombés au sol. - Rangez ou fixez les objets sensibles aux effets du vent ou susceptibles d'être endommagés. - Installez impérativement les groupes électrogènes à l'extérieur des bâtiments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|              | Dans la mesure du possible - Restez chez vous. - Mettez-vous à l'écoute de vos stations de radio locales. - Prenez contact avec vos voisins et organisez-vous. En cas d'obligation de déplacement - Limitez-vous au strict indispensable en évitant, de préférence, les secteurs forestiers. - Signalez votre départ et votre destination à vos proches. Pour protéger votre intégrité et votre environnement proche - Rangez ou fixez les objets sensibles aux effets du vent ou susceptibles d'être endommagés. - N'intervenez en aucun cas sur les toitures et ne touchez pas à des fils électriques tombés au sol. - Si vous êtes riverain d'un estuaire, prenez vos précautions face à des possibles inondations et surveillez la montée des eaux. - Prévoyez des moyens d'éclairages de secours et faites une réserve d'eau potable. - Si vous utilisez un dispositif d'assistance médicale (respiratoire ou autre) alimenté par électricité, prenez vos précautions en contactant l'organisme qui en assure la gestion. - Installez impérativement les groupes électrogènes à l'extérieur des bâtiments. |
+
+## Risque événements climatiques
+
+Source Météo France : http://vigilance.meteofrance.com/guide/consequence\_conseil.html
+
+| ORAGES | CONSEILS DE COMPORTEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | - Al'approche d'un orage, prenez les précautions d'usage pour mettre à l'abri les objets sensibles au vent. Abritez-vous hors des zones boisées. - Soyez prudents, en particulier dans vos déplacements et vos activités de loisirs. Evitez les promenades en forêt et les sorties en montagne. - Evitez d'utiliser le téléphone et les appareils électriques. - Signalez sans attendre les départs de feux dont vous pourriez être témoins. - Ne vous engagez en aucun cas, à pied ou en voiture, sur une voie immergée ou à proximité d'un cours d'eau. Un véhicule, même un 4x4, peut être emporté dans 30 centimètres d'eau. - En cas de pluies intenses, ne descendez en aucun cas dans les sous-sols.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Dans la mesure du possible - Evitez les déplacements. - Evitez les activités extérieures de loisirs. Les sorties en montagne sont particulièrement déconseillées. - Abritez-vous hors des zones boisées et mettez en sécurité vos biens. - Soyez très prudents, en particulier si vous devez vous déplacer, les conditions de circulation pouvant devenir soudainement dangereuses. Sur la route, arrêtez-vous en sécurité et ne quittez pas votre véhicule. - ne vous engager en aucun cas, à pied ou en voiture, sur une voie immergée ou à proximité d'un cours d'eau. Un véhicule, même un 4x4, peut être emporté dans 30 centimètres d'eau. - En cas de pluies intenses, ne descendez en aucun cas dans les sous-sols. Pour protéger votre intégrité et votre environnement proche - Evitez d'utiliser le téléphone et les appareils électriques. - Rangez ou fixez les objets sensibles aux effets du vent ou susceptibles d'être endommagés. - Si vous pratiquez le camping, vérifiez qu'aucun danger ne vous menace en cas de très fortes rafales de vent ou d'inondations torrentielles soudaines. En cas de doute, réfugiez- vous, jusqu'à l'annonce d'une amélioration, dans un endroit plus sûr. - Signalez sans attendre les départs de feux dont vous pourriez être témoins. - Si vous êtes dans une zone sensible aux crues torrentielles, prenez toutes les précautions nécessaires à la sauvegarde de vos biens face à la montée des eaux. |
+
+## Risque événements climatiques
+
+Source Météo France : http://vigilance.meteofrance.com/guide/consequence\_conseil.html
+
+| GRAND FROID | CONSEILS DE COMPORTEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             | - Evitez les expositions prolongées au froid et au vent , évitez les sorties le soir et la nuit. - Protégez-vous des courants d'air et des chocs thermiques brusques. - Habillez-vous chaudement, de plusieurs couches de vêtements, avec une couche extérieure imperméable au vent et à l'eau, couvrez-vous la tête et les mains ; ne gardez pas de vêtements humides. - De retour à l'intérieur, alimentez-vous convenablement et prenez une boisson chaude, pas de boisson alcoolisée. - Attention aux moyens utilisés pour vous chauffer : les chauffages d'appoint ne doivent pas fonctionner en continu ; ne jamais utiliser des cuisinières, braséros, etc. pour se chauffer. Ne bouchez pas les entrées d'air de votre logement. Par ailleurs, aérez votre logement quelques minutes même en hiver. - Evitez les efforts brusques. - Si vous devez prendre la route, informez-vous de l'état des routes. En cas de neige ou au verglas, ne prenez votre véhicule qu'en cas d'obligation forte. En tout cas, emmenez des boissons chaudes (thermos), des vêtements chauds et des couvertures, vos médicaments habituels, votre téléphone portable chargé. - Pour les personnes sensibles ou fragilisées : restez en contact avec votre médecin, évitez un isolement prolongé. Si vous remarquez une personne sans abri ou en difficulté, prévenez le " 115 ". - Pour en savoir plus, consultez les sites : www.sante.gouv.fr et www.invs.sante.fr sur les aspects sanitaires et www.bison-fute.equipement.gouv.fr pour les conditions de circulation.                                                                                                                      |
+|             | - Pour les personnes sensibles ou fragilisées : ne sortez qu'en cas de force majeure, évitez un isolement prolongé, restez en contact avec votre médecin. - Pour tous demeurez actifs, évitez les sorties surtout le soir, la nuit et en début de matinée. - Habillez-vous chaudement, de plusieurs couches de vêtements, avec une couche extérieure imperméable au vent et à l'eau, couvrez-vous la tête et les mains ; ne gardez pas de vêtements humides. - De retour à l'intérieur assurez vous un repos prolongé, avec douche ou bain chaud, alimentez-vous convenablement, prenez une boisson chaude, pas de boisson alcoolisée. - Attention aux moyens utilisés pour vous chauffer : les chauffages d'appoint ne doivent pas fonctionner en continu ; ne jamais utiliser des cuisinières, braséros, etc. pour se chauffer. Ne bouchez pas les entrées d'air de votre logement. Par ailleurs, aérez votre logement quelques minutes même en hiver. - Evitez les efforts brusques. - Si vous devez prendre la route , informez-vous de l'état des routes. Si le froid est associé à la neige ou au verglas, ne prenez votre véhicule qu'en cas d'obligation forte. En tout cas, prévoyez des boissons chaudes (thermos), des vêtements chauds et des couvertures, vos médicaments habituels, votre téléphone portable chargé. - Si vous remarquez une personne sans abri ou en difficulté, prévenez le " 115 ". - Restez en contact avec les personnes sensibles de votre entourage. - Pour en savoir plus, consultez les sites : www.sante.gouv.fr et www.invs.sante.fr sur les aspects sanitaires et www.bison-fute.equipement.gouv.fr pour les conditions de circulation. |
+
+## Risque événements climatiques
+
+Source Météo France : http://vigilance.meteofrance.com/guide/consequence\_conseil.html
+
+| CANICULE | CONSEILS DE COMPORTEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|          | - En cas de malaise ou de troubles du comportement, appelez un médecin. - Si vous avez besoin d'aide appelez la mairie. - Si vous avez des personnes âgées, souffrant de maladies chroniques ou isolées dans votre entourage, prenez de leurs nouvelles ou rendez leur visite deux fois par jour. Accompagnez les dans un endroit frais. - Pendant la journée, fermez volets, rideaux et fenêtres. Aérez la nuit - Utilisez ventilateur et/ou climatisation si vous en disposez. Sinon essayez de vous rendre dans un endroit frais ou climatisé (grandes surfaces, cinémas…) deux à trois heures par jour. - Mouillez vous le corps plusieurs fois par jour à l'aide d'un brumisateur, d'un gant de toilette ou en prenant des douches ou des bains. - Buvez beaucoup d'eau plusieurs fois par jour si vous êtes un adulte ou un enfant, et environ 1.5L d'eau par jour si vous êtes une personne âgée et mangez normalement. - Continuez à manger normalement. - Ne sortez pas aux heures les plus chaudes (11h-21h). - Si vous devez sortir portez un chapeau et des vêtements légers - Limitez vos activités physiques. - Pour en savoir plus, consultez le site http://www.sante.gouv.fr |
+|          | - En cas de malaise ou de troubles du comportement, appelez un médecin. - Si vous avez besoin d'aide appelez la mairie. - Si vous avez des personnes âgées, souffrant de maladies chroniques ou isolées dans votre entourage, prenez de leurs nouvelles ou rendez leur visite deux fois par jour. - Accompagnez les dans un endroit frais. - Pendant la journée, fermez volets, rideaux et fenêtres. Aérez la nuit. - Utilisez ventilateur et/ou climatisation si vous en disposez. Sinon essayez de vous rendre dans un dans un endroit frais ou climatisé (grandes surfaces, cinémas…) trois heures par jour. - Mouillez vous le corps plusieurs fois par jour à l'aide d'un brumisateur, d'un gant de toilette ou en prenant des douches ou des bains. - Buvez au moins 1,5 litre d'eau par jour, même sans soif. - Continuez à manger normalement. - Ne sortez pas aux heures les plus chaudes. - Si vous devez sortir portez un chapeau et des vêtements légers. - Limitez vos activités physiques. - Pour en savoir plus, consultez le site :www.sante.gouv.fr                                                                                                                          |
+
+## Risque événements climatiques
+
+Source Météo France : http://vigilance.meteofrance.com/guide/consequence\_conseil.html
+
+| NEIGE- VERGLAS | CONSEILS DE COMPORTEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                | - Soyez prudents et vigilants si vous devez absolument vous déplacer. - Privilégiez les transports en commun. - Renseignez-vous sur les conditions de circulation auprès du centre régional d'information et de circulation routière (CRICR). - Préparez votre déplacement et votre itinéraire. - Respectez les restrictions de circulation et déviations mises en place. - Facilitez le passage des engins de dégagement des routes et autoroutes, en particulier en stationnant votre véhicule en dehors des voies de circulation. - Protégez-vous des chutes et protégez les autres en dégageant la neige et en salant les trottoirs devant votre domicile, tout en évitant d'obstruer les regards d'écoulement des eaux. - Ne touchez en aucun cas à des fils électriques tombés au sol. - Installez impérativement les groupes électrogènes à l'extérieur des bâtiments. - N'utilisez pas pour vous chauffer : - des appareils non destinés à cet usage : cuisinière, brasero ; etc. - les chauffages d'appoint à combustion en continu.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | Ces appareils ne doivent fonctionner que par intermittence. Dans la mesure du possible -Restez chez vous. - N'entreprenez aucun déplacement autres que ceux absolument indispensables. - Mettez-vous à l'écoute de vos stations de radio locales. En cas d'obligation de déplacement - Renseignez-vous sur le site de Bison Futé. - Signalez votre départ et votre lieu de destination à vos proches. - Munissez-vous d'équipements spéciaux. - Respectez scrupuleusement les déviations et les consignes de circulation. - Prévoyez un équipement minimum au cas où vous seriez obligés d'attendre plusieurs heures sur la route à bord de votre véhicule. - Ne quittez celui-ci sous aucun prétexte autre que sur sollicitation des sauveteurs. Pour protéger votre intégrité et votre environnement proche - Protégez-vous des chutes et protégez les autres en dégageant la neige et en salant les trottoirs devant votre domicile, tout en évitant d'obstruer les regards d'écoulement des eaux. - Ne touchez en aucun cas à des fils électriques tombés au sol. - Protégez vos canalisations d'eau contre le gel. - Prévoyez des moyens d'éclairage de secours et faites une réserve d'eau potable. - Si vous utilisez un dispositif d'assistance médicale (respiratoire ou autre) alimenté par électricité, prenez vos précautions en contactant l'organisme qui en assure la gestion. - Installez impérativement les groupes électrogènes à l'extérieur des bâtiments. - N'utilisez pas pour vous chauffer : - des appareils non destinés à cet usage : cuisinière, brasero ; etc. - les chauffages d'appoint à combustion en continu. Ces appareils ne doivent fonctionner que par intermittence. |
+
+## Risque événements climatiques
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- DDCSPP (Direction Départementale de la Cohésion Sociale et de la Protection des Populations) 30 rue de l'Hôtel de Ville - BP 30560 - 79022 NIORT CEDEX
+- ARS (Agence Régionale de Santé - Délégation départementale des Deux-Sèvres) 6 rue de l'Abreuvoir - CS 18537 - 79025 NIORT Cedex tél : 09.69.37.00.33
+- SDIS (Service Départemental d'Incendie et de Secours)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+tél : 05.49.17.27.00
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+
+- Mairies
+-  Le risque événements climatiques (généralités) :
+
+Pour en savoir plus
+
+https://www.gouvernement.fr/risques/risquesnaturels
+
+-  Le site de la préfecture des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr
+
+-  Sur la vigilance météorologique (Météo France) :
+
+http://vigilance.meteofrance.com/
+
+-  Sur le risque canicule :
+
+https://solidarites-sante.gouv.fr/sante-etenvironnement/risques-climatiques/canicule https://solidarites-
+
+sante.gouv.fr/IMG/pdf/pnc_actualise_2017.pdf
+
+-  Sur le risque grand froid :
+
+https://solidarites-sante.gouv.fr/sante-etenvironnement/risques- climatiques/article/risques-sanitaires-lies-au-froid
+
+-  Sur les conseils de comportement à adopter (Météo France) :
+
+http://vigilance.meteofrance.com/guide/conse quence_conseil.html
+
+## 2.5 Le risque radon
+
+## Risque radon
+
+## Risque radon
+
+## GENERALITES
+
+## Qu'est-ce que le risque radon ?
+
+Le radon est un gaz radioactif d'origine naturelle présent dans la croûte terrestre, particulièrement dans les sous-sols granitiques et volcaniques. Il est indolore et incolore, et se diffuse dans l'air à très faible concentration.
+
+Depuis 1987, le Centre international de recherche sur le cancer de l'Organisation mondiale de la santé (OMS) reconnaît le radon comme cancérogène pulmonaire pour l'homme. En France, il constitue la principale source d'exposition aux rayonnements ionisants et le second facteur de risque de cancer du poumon après le tabagisme.
+
+## Comment se manifeste-t-il ?
+
+Le radon est produit par la désintégration de l'uranium et du plutonium présents dans les roches et les sols. A l'air libre, il se disperse et se dilue rapidement. En revanche, il peut s'accumuler et se concentrer dans les bâtiments.
+
+Son niveau de concentration dépend de nombreux paramètres, en particulier :
+
+- -des caractéristiques du sol (concentration naturelle, présence d'un sous-sol en terre battue, présence de fissures dans la roche) ;
+- -des caractéristiques du bâtiment (procédé de construction, étanchéité des menuiseries, fissuration de la surface en contact avec le sol, système d'aération, …) ;
+- -du mode de vie des occupants, notamment vis-àvis des habitudes d'aération des locaux.
+
+## Les conséquences humaines
+
+Le radon est reconnu comme un cancérogène pulmonaire pour l'homme et représente le second facteur de risque de cancer du poumon après le tabac. Selon les estimations de l'Institut de Veille Sanitaire, entre 1200 et 3000 décès par cancer du poumon seraient imputable, chaque année, à l'exposition domestique au radon. L'exposition simultanée au radon et à la fumée de cigarette augmente significativement le risque de décès.
+
+## LE RISQUE RADON DANS LE DEPARTEMENT
+
+## Le radon dans le département
+
+L'Institut de Radioprotection en Sûreté Nucléaire (IRSN) a identifié le potentiel d'exposition au radon de chaque commune selon 3 niveaux, définis en fonction des flux d'exhalation du radon des sols (voir décret 2018-434 de juin 2018) :
+
+- -Zone 1 : zone à potentiel radon faible ;
+- -Zone 2 : zone à potentiel radon faible mais pour lesquelles des facteurs géologiques particuliers peuvent faciliter le transfert du radon vers les bâtiments ;
+- -Zone 3 : zone à potentiel radon significatif.
+
+La liste des communes réparties entre ces trois zones est fixée par l'arrêté du 27 juin 2018 délimitant les zones à potentiel radon du territoire français.
+
+La carte ci-contre montre à l'échelle nationale les départements les plus concernés par le risque radon.
+
+Le département des Deux-Sèvres fait partie des 31 départements prioritaires au niveau national pour la gestion du radon.
+
+135 communes, soit plus de la moitié des communes du département, sont situées en zone 3 et 13 communes en zone 2 (voir carte page suivante) .
+
+Il s'agit des communes situées dans une grande moitié nord du département caractérisée par une formation géologique à dominante granitique, naturellement riche en uranium et propice aux concentrations de radon plus élevées.
+
+## Risque radon
+
+Carte des départements prioritaires pour la gestion du risque radon Source : Institut de Radioprotection et de Sûreté Nucléaire (IRSN)
+
+## Les actions préventives pour réduire le risque
+
+## La surveillance
+
+Se situer en zone 2 ou 3 n'implique pas systématiquement que le taux de radon dans le bâtiment sera élevé. Le seuil de référence qu'il convient de ne pas dépasser est de 300 Becquerels par mètre cube (Bq/m 3 ).
+
+Pour connaître le taux de radon, chacun peut, de manière simple et à un coût modeste, procéder à sa mesure en ayant recours à un dosimètre conforme aux normes NF ISO 11665-4. L'appareil doit être installé dans le local pendant 2 mois durant la période de chauffe (d'octobre à avril). Il est ensuite envoyé, dans l'enveloppe prévue à cet effet, à un laboratoire spécialisé pour analyse.
+
+Pour ce dépistage, Il est par ailleurs possible de recourir à un organisme spécialisé.
+
+## Les obligations réglementaires
+
+Si aucune contrainte réglementaire n'existe pour les habitations, il est cependant important de réduire au maximum le taux de radon pour qu'il se situe au-dessous du seuil de référence recommandé de 300 Bq/m 3 .
+
+En revanche, la réglementation en vigueur impose une surveillance aux propriétaires ou exploitants de certaines catégories d'immeubles bâtis situés dans les zones à potentiel radon où l'exposition au radon est susceptible de porter atteinte à la santé.
+
+Sont concernés par cette surveillance les établissements recevant du public (ERP) suivants situés dans la zone 3 à potentiel significatif et dans les zones 1 et 2 s'il y a déjà eu par le passé des résultats de mesures de radon dépassant le seuil de référence :
+
+- les établissements d'enseignement, y compris les bâtiments d'internat ;
+- les établissements d'accueil collectif d'enfants de moins de six ans ;
+- les établissements sanitaires, sociaux et médico-sociaux avec capacité d'hébergement ;
+- les établissements thermaux ;
+- les établissements pénitentiaires.
+
+Dans ces cas, le dépistage doit être réalisé par un organisme agréé. Il est renouvelé tous les dix ans ou bien chaque fois que sont réalisés des travaux modifiant les dispositifs de ventilation ou l'étanchéité du bâtiment.
+
+Le propriétaire ou l'exploitant doit afficher les résultats à l'entrée du bâtiment et tenir un registre relatif à la surveillance du radon dans l'établissement.
+
+## Les mesures visant à réduire le risque
+
+Lorsque la concentration du radon est élevée (supérieure à 300 Bq/m 3 ), le propriétaire ou l'exploitant de l'établissement doit mettre en œuvre des actions correctives pour réduire l'exposition des personnes. Ces actions correctives consistent à :
+
+- -ouvrir régulièrement les fenêtres pour aérer quotidiennement le bâtiment. Dans de nombreuses situations, cette mesure, si elle est mise en œuvre au moins 10 minutes par jour, suffit à abaisser ponctuellement le niveau de radon en dessous du seuil de référence. Elle doit toutefois être complétée par d'autres actions simples pour une efficacité plus pérenne ;
+- -vérifier l'état de la ventilation et supprimer les éventuels dysfonctionnements (obturation d'entrée ou de sortie d'air, encrassement, défaillance de ventilateurs, …) ;
+- -réaliser des étanchements de l'enveloppe du bâtiment en contact avec le terrain naturel, ainsi que des voies de transfert entre les sous-sols et les parties occupées du bâtiment.
+
+Dans l'hypothèse où la mise en œuvre de ces actions serait insuffisante, le propriétaire ou l'exploitant doit faire réaliser un diagnostic technique complémentaire de son bâtiment afin d'identifier les causes précises de la présence de radon, et mettre en œuvre les travaux nécessaires pour abaisser le niveau de radon en dessous du seuil de référence.
+
+Ces travaux consistent principalement à assurer l'étanchéité du bâtiment, à augmenter le renouvellement d'air à l'intérieur des pièces occupées, et à traiter le soubassement lorsqu'il existe, au niveau du vide sanitaire, de la cave, des dallages, …
+
+## Le dispositif d'information acquéreur-locataire
+
+Lors des transactions immobilières, en application des articles L.125-5 et R.125-23 à 27 du code de l'environnement, chaque vendeur ou bailleur d'un bien bâti ou non bâti, situé dans une zone à risque des communes dont le préfet arrête la liste, doit annexer au contrat de vente ou de location :
+
+- un « état des risques et pollutions » établi moins de 6 mois avant la date de conclusion du contrat de vente ou de location ;
+- la liste des sinistres subis par le bien ayant donné lieu à indemnisation au titre des effets d'une catastrophe naturelle.
+
+Sont concernés par cette double obligation à la charge des vendeurs et bailleurs, les biens immobiliers situés dans les communes concernées par une zone de sismicité, par une zone à potentiel radon de niveau 3 , ou couvertes par un Plan de Prévention des Risques naturels, technologiques ou miniers, prescrit ou approuvé.
+
+Pour le département des Deux-Sèvres, le lien pour accéder aux informations nécessaires à l'Information Acquéreur-Locataire est le suivant :
+
+http://www.deux-sevres.gouv.fr/Politiques-publiques/Amenagement-territoire-constructionlogement/Information-des-Acquereurs-et-des-Locataires-IAL
+
+## Risque radon
+
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile) 4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+- ARS (Agence Régionale de Santé - Délégation départementale des Deux-Sèvres) 6 rue de l'Abreuvoir - CS 18537 - 79025 NIORT Cedex tél : 09.69.37.00.33
+- Mairies
+-  Le site de l'Agence Régionale de Santé de Nouvelle Aquitaine :
+
+Pour en savoir plus
+
+https://www.nouvelle-aquitaine.ars.sante.fr/risqueradon
+
+-  Le site de la DREAL Nouvelle-Aquitaine :
+
+http://www.nouvelle-aquitaine.developpementdurable.gouv.fr/le-radon-dans-l-habitat-a643.html
+
+-  Le site de l'Institut de Radioprotection et de Sûreté Nucléaire (IRSN) :
+
+https://www.irsn.fr/FR/connaissances/Environnement /expertises-radioactivite-naturelle/radon/Pages/Leradon.aspx
+
+-  Le site de Radon France :
+
+https://www.radon-france.com/
+
+-  Le site du CSTB :
+
+https://www.radon-france.com/
+
+## 3. Les risques technologiques
+
+MR
+
+?
+
+Le risque industriel
+
+Le risque rupture de barrage
+
+Le risque transport de matières dangereuses
+
+Le risque minier
+
+## 3.1 Le risque industriel
+
+## Risque industriel
+
+## GENERALITES
+
+## Qu'est-ce que le risque industriel ?
+
+Un risque industriel majeur est un événement accidentel se produisant sur un site industriel et entraînant des conséquences immédiates graves pour le personnel, les populations avoisinantes, les biens et l'environnement.
+
+Les générateurs de risques sont principalement regroupés en deux familles :
+
+- -les industries chimiques qui fabriquent des produits chimiques de base, des produits destinés à l'agroalimentaire, les produits pharmaceutiques et de consommation courante ;
+- -les industries pétrochimiques qui produisent l'ensemble des produits dérivés du pétrole (essences, goudrons, gaz de pétrole liquéfié, …).
+
+Les installations sont classées en trois catégories :
+
+- -les installations soumises à déclaration sont celles qui ne présentent pas de graves dangers ou inconvénients et celles dont les dangers présentés peuvent être compensés par le respect de dispositions techniques simples ;
+- -les installations soumises à autorisation et devant faire l'objet d'études d'impact et de dangers sont celles qui présentent de graves dangers ou inconvénients ;
+- -les installations visées par la directive SEVESO. Elles se répartissent en deux catégories « seuil bas » et « seuil haut » selon la dangerosité et/ou la quantité des produits utilisés. Elles font l'objet de mesures particulières et d'un suivi des installations.
+
+Afin d'en limiter la survenue et les conséquences, les établissements les plus dangereux sont répertoriés et soumis à une réglementation stricte (réglementation relative aux installations classées pour la protection de l'environnement - ICPE) et à des contrôles réguliers.
+
+Dans la suite, on s'intéressera essentiellement aux sites classés SEVESO qui présentent les risques les plus importants.
+
+## Catastrophe de SEVESO du 10 juillet 1976 en Italie
+
+Le 10 juillet 1976, un nuage contenant de la dioxine s'échappe d'un réacteur en surchauffe de l'usine chimique Icmesa, située en Italie. Quatre communes, dont Seveso, sont touchées .
+
+Peu après l'accident, les feuilles des arbres jaunissent et les animaux meurent par dizaines. Il n'en faut pas plus pour faire basculer Seveso de « catastrophe environnementale » à « la plus grande catastrophe depuis Hiroshima ».
+
+193 personnes (essentiellement des enfants), soit 0,6 % des habitants de la zone concernée, ont été atteintes de chloracné. Un petit nombre seulement a gardé des séquelles.
+
+En revanche, sur le plan écologique, la catastrophe est tangible : outre les 3 300 animaux domestiques morts intoxiqués, il faut abattre près de 70 000 têtes de bétail. Par ailleurs, les sols agricoles et les maisons ont nécessité de lourds travaux de décontamination.
+
+Cet accident a depuis donné son nom à tous les sites de production classés à risques en Europe.
+
+La directive européenne SEVESO, crée en 1976 et mise à jour en 1996 avec SEVESO 2, puis sept ans plus tard avec la loi « risque » du 30 juillet 2003, concerne certaines installations classées pour la protection de l'environnement utilisant des substances ou des préparations dangereuses.
+
+Cette directive SEVESO 2 a été remplacée au 1 er juin 2015 par la directive SEVESO 3.
+
+## Comment se manifeste-t-il ?
+
+Les principales manifestations du risque industriel sont regroupées sous trois typologies d'effets qui peuvent se combiner :
+
+-  Les effets thermiques sont liés à une combustion d'un produit inflammable ou à une explosion.
+-  Les effets mécaniques sont liés à une surpression, résultant d'une onde de choc (déflagration ou détonation), provoquée par une explosion. Celle-ci peut être issue d'un explosif, d'une réaction chimique violente, d'une combustion violente (combustion d'un gaz), d'une décompression brutale d'un gaz sous pression (explosion d'une bouteille d'air comprimé par exemple) ou de l'inflammation d'un nuage de poussières ou de gaz combustibles.
+-  Les effets toxiques résultent de l'inhalation d'une substance chimique toxique (chlore, ammoniac, phosgène, …), suite par exemple à une fuite sur une installation ou à la combustion de produits dégageant des fumées toxiques. Les effets découlant de cette inhalation peuvent être, par exemple, un œdème du poumon ou une atteinte au système nerveux.
+
+## Les conséquences sur les personnes et les biens
+
+-  Les conséquences humaines : il s'agit des personnes physiques directement ou indirectement exposées aux conséquences de l'accident. Elles peuvent se trouver dans un lieu public, chez elles, sur leur lieu de travail, etc. Le risque peut aller de la blessure légère au décès. Le type d'accident influe sur le type des blessures.
+-  Les conséquences économiques : un accident industriel majeur peut altérer l'outil économique d'une zone. Les entreprises, les routes ou les voies de chemin de fer voisines du lieu de l'accident peuvent être détruites ou gravement endommagées. Dans ce cas, les conséquences économiques peuvent être désastreuses.
+-  Les conséquences environnementales : un accident industriel majeur peut avoir des répercussions importantes sur les écosystèmes. On peut assister à une destruction de la faune et de la flore, mais les conséquences d'un accident peuvent également avoir un impact sanitaire (pollution d'une nappe phréatique par exemple).
+
+## Risque industriel
+
+## Explosion de l'usine AZF du 21 septembre 2001 à Toulouse
+
+Le 21 septembre 2001, à 10h18, un stock de l'usine AZF de Toulouse d'environ 400 tonnes de nitrate d'ammonium explose, creusant un cratère de 70 mètres de long, 40 mètres de largeur et de 6 mètres de profondeur. Un séisme de magnitude 3,4 a même été enregistré.
+
+Le bilan officiel fait était de 31 morts, dont 21 employés sur le site, et environ 2 500 blessés.
+
+L'explosion a causé des destructions importantes dans la partie sud-ouest de la ville. Le site AZF luimême est soufflé. À proximité, les zones commerciales de Darty et Brossette sont totalement détruites. 150 bus stationnés à proximité du site sont également détruits.
+
+De très nombreux logements, plusieurs entreprises et quelques équipements ont également été touchés.
+
+On estime les dégâts matériels à environ 2 milliards d'euros, dont 33 millions d'euros pour des bâtiments publics.
+
+Cratère de l'explosion sur le site d'AZF - Source Grande Paroisse
+
+## LE RISQUE INDUSTRIEL DANS LE DEPARTEMENT
+
+## Le risque industriel au sein du département
+
+Dans le département des Deux-Sèvres, cinq établissements entrent dans la catégorie des établissements classés SEVESO « seuil haut » :
+
+| SEVESO 'Seuil Haut' | Commune          | Établissement    | Activité                                       |
+| ------------------- | ---------------- | ---------------- | ---------------------------------------------- |
+| SEVESO 'Seuil Haut' | THENEZAY         | MAXAM ATLANTIQUE | Fabrication et stockage d'explosifs            |
+| SEVESO 'Seuil Haut' | AMAILLOUX        | TITANOBEL        | Fabrication et stockage d'explosifs            |
+| SEVESO 'Seuil Haut' | MELLE            | RHODIA-SOLVAY    | Utilisation et production de produits toxiques |
+| SEVESO 'Seuil Haut' | NIORT            | ANTARGAZ         | Stockage de gaz de pétrole liquéfié (GPL)      |
+| SEVESO 'Seuil Haut' | SAINT-SYMPHORIEN | DE SANGOSSE      | Stockage de produits agro-pharmaceutiques      |
+
+## Risque industriel
+
+Il existe par ailleurs quatre établissements classés SEVESO « seuil bas » :
+
+|                      | Communes | Établissements  | Activité                                       |
+| -------------------- | -------- | --------------- | ---------------------------------------------- |
+| SAS                  | NIORT    | KRATON CHEMICAL | Production de résines pour l'industrie         |
+| SEVESO « Seuil Bas » | NIORT    | QUARON          | Distribution de produits chimiques             |
+|                      | MELLE    | DUPONT          | Production de gomme xanthane                   |
+| des                  |          | DANISCO         |                                                |
+|                      | AIRVAULT | SCORI           | Récupération et traitement déchets industriels |
+
+A ce jour, aucun accident industriel majeur dans le département n'est à déplorer.
+
+La carte ci-après présente la situation géographique des sites SEVESO dans le département des DeuxSèvres.
+
+## Les actions préventives
+
+## La concertation
+
+Elle s'articule autour de différentes instances et actions :
+
+-  Les Commission de Suivi de Site (CSS) relatives aux établissements classés SEVESO « seuil haut », créées en 2012 pour remplacer les anciens Comités Locaux d'Information et de Concertation (CLIC), se réunissent régulièrement pour permettre aux riverains et élus locaux d'être mieux informés. Ces comités associent les élus, les riverains, les exploitants des sites concernés et leurs salariés, ainsi que les services de l'Etat.
+-  Le Comité Social et Economique (CSE) est une instance représentative du personnel. Il fusionne l'ensemble des anciennes instances représentatives du personnel, délégués du personnel, comité d'entreprise et comité d'hygiène, de sécurité et des conditions de travail (CHSCT). Le CSE doit être mis en place, le 1 er janvier 2020 au plus tard, dans toutes les entreprises comportant au moins 11 salariés.
+-  La formation des salariés pour leur permettre de participer plus activement à l'élaboration et à la mise en œuvre de la politique de prévention des risques de l'établissement.
+-  L'organisation de réunion publique, si le maire en fait la demande, lors de l'enquête publique portant sur l'autorisation d'installation d'un établissement SEVESO.
+
+## L'étude d'impact
+
+Une étude d'impact est imposée à l'industriel afin de réduire au maximum les nuisances causées par le fonctionnement normal de son installation.
+
+## L'étude des dangers
+
+Dans cette étude révisée périodiquement, l'industriel identifie de façon précise les accidents les plus dangereux pouvant survenir dans son établissement et leurs conséquences. Cette étude conduit l'industriel à prendre des mesures de prévention nécessaires et à identifier les risques résiduels.
+
+Cette étude sert de base à l'élaboration des Plans de Prévention des Risques Technologiques (PPRT) par les services de l'Etat, pour les établissements classés SEVESO « Seuil Haut ».
+
+## Risque industriel
+
+## La prise en compte dans l'aménagement
+
+-  Le Code de l'Urbanisme impose la prise en compte des risques dans les documents d'urbanisme :
+- -Le Schéma de Cohérence Territoriale (SCoT) définit une stratégie d'aménagement à l'échelle d'un territoire intercommunal ;
+- -Les Plans Locaux d'Urbanisme permettent de maîtriser le développement de l'urbanisation en prenant en compte les zones à risque, et notamment de rendre inconstructibles les zones les plus dangereuses.
+-  L'article R111-2 du Code de l'Urbanisme donne également la capacité aux maires de refuser ou d'accepter sous réserve du respect de certaines prescriptions un permis de construire ou d'aménager qui comporterait un risque pour la sécurité publique.
+-  Le plan de prévention des risques technologiques (PPRT) constitue un outil réglementaire important pour la maîtrise du risque et la protection des personnes et des biens installés à proximité des installations à risque. Le code de l'environnement impose l'élaboration et la mise en œuvre de PPRT autour des établissements classés SEVESO « seuil haut » dont les effets sortent du site de l'établissement. Ce document établi par les services de l'Etat, en concertation avec les collectivités locales, a plusieurs objectifs :
+- -il délimite un périmètre d'exposition aux risques, autour de ces établissements, dans lequel il contrôle le développement de l'urbanisation future en fixant des règles d'utilisation des sols.
+- -il peut aussi agir sur les bâtiments existants dans le but de protéger ses occupants en prescrivant ou recommandant des mesures de protection et/ou de renforcement du bâti.
+- -dans les zones les plus dangereuses présentant un danger grave à très grave pour la vie humaine, il peut imposer des mesures foncières type délaissement et/ou expropriation.
+
+Le PPRT comporte une note de présentation, un zonage réglementaire et un règlement associé qui définit les règles d'aménagement. Une fois approuvé, le PPRT doit être annexé aux Plans Locaux d'Urbanisme en tant que servitude d'utilité publique. Ainsi, les règles du PPRT s'imposent à celles du Plan Local d'Urbanisme.
+
+Plan de Prévention des Risques Technologiques de l'établissement ANTARGAZ à Niort Extrait du zonage réglementaire.
+
+## Risque industriel
+
+Dans le département des Deux-Sèvres, les PPRT des cinq établissements classés SEVESO « seuil haut » sont tous approuvés (cf. tableau suivant et cartographie présentée à la fin de ce chapitre).
+
+| Établissements   | Communes concernées                  | Approbation du PPRT         |
+| ---------------- | ------------------------------------ | --------------------------- |
+| TITANOBEL        | AMAILLOUX et MAISONTIERS             | Approuvé le 7 décembre 2009 |
+| DE SANGOSSE      | SAINT-SYMPHORIEN                     | Approuvé le 7 décembre 2009 |
+| MAXAM ATLANTIQUE | THENEZAY et LA FERRIERE EN PARTHENAY | Approuvé le 5 août 2011     |
+| RHODIA-SOLVAY    | MELLE et MARCILLE                    | Approuvé le 25 février 2013 |
+| ANTARGAZ         | NIORT                                | Approuvé le 30 avril 2015   |
+
+Pour les établissements SEVESO « seuil bas », lorsque des zones d'effets sortent du site, un porter à connaissance est élaboré, suite à la mise à jour de l'étude des dangers, pour informer la collectivité locale compétente en matière d'urbanisme qui se doit de le prendre en compte dans les documents d'urbanisme.
+
+## Le contrôle et la surveillance
+
+Un contrôle régulier est effectué par le service d'inspection des installations classées de la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL NA).
+
+Ainsi, des visites d'inspection des établissements SEVESO sont organisées régulièrement. Elles permettent de vérifier le respect des normes ou des règles édictées par les arrêtés d'autorisation d'exploitation.
+
+## Les plans de secours
+
+Pour les sites classés SEVESO « Seuil haut », un Plan d'Opération Interne (POI) et un Plan Particulier d'Intervention (PPI) sont obligatoirement mis en place pour faire face à un risque grave susceptible de conduire à un accident majeur.
+
+Ces deux outils opérationnels peuvent aussi être imposés par le Préfet pour des installations classées SEVESO « Seuil Bas » pour lesquelles une planification des situations d'urgence est jugée nécessaire (établissements présentant des risques graves et très spécifiques pour leur environnement, environnement particulièrement vulnérables car très urbanisés, …).
+
+Le Plan d'Opération Interne (POI) est mis en place par l'industriel. Il a pour objectif de définir son organisation et les moyens propres adaptés permettant de maîtriser un accident circonscrit au site et ne menaçant pas les populations avoisinantes.
+
+Le Préfet établit le Plan Particulier d'intervention (PPI). Ce plan est déployé pour faire face à un sinistre sortant des limites de l'établissement afin de protéger les populations riveraines et les usagers.
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+| Avant                                                                                                                                                                                                                                                                                                                                                                                                             | Pendant                                                                                                                                                                                                                                                                                                                                                                                                                                          | Après                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Numéros de téléphone utiles : . 112 ou 18 pompiers . 15 SAMU . 17 gendarmerie, police - S'informer sur l'existence ou non d'un risque, ainsi que sur les consignes de sécurité et les comportement à adopter. - Estimer sa propre vulnérabilité par rapport au risque (distance par rapport à l'installation, nature des risques). - Bien connaître le signal d'alerte pour le reconnaître le jour de la crise. | - Si vous êtes témoin d'un accident, donner l'alerte en précisant si possible le lieu exact, la nature du sinistre (feu, fuite, nage, explosion, etc.) et le nombre de victimes. - S'il y a des victimes, ne pas les déplacer (sauf en cas incendie). - Si un nuage toxique vient vers vous, s'éloigner selon un axe perpendiculaire au vent pour trouver un local où se confiner. - Ne pas aller chercher les enfants à l'école. - Se confiner. | - Aérer le local de confinement dès la fin de l'alerte (la fin d'alerte est annoncée par la radio ou par une sirène émettant un signal continu. |
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- DREAL Nouvelle-Aquitaine (Direction Régionale de l'Environnement, de l'Aménagement et du Logement Nouvelle-Aquitaine)
+- SDIS (Service Départemental d'Incendie et de Secours)
+- Mairies
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+15 rue Arthur Ranc - BP 60539 - 86020 POITIERS CEDEX tél : 05.49.55.63.63
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+
+## Pour en savoir plus
+
+-  Le risque industriel (généralités) :
+
+https://www.gouvernement.fr/risques/accidentindustriel
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturelset-technologiques/Prevention-des-risquesnaturels-majeurs-et-technologiques
+
+-  Le site de la DREAL Nouvelle-Aquitaine :
+
+http://www.nouvelle-aquitaine.developpementdurable.gouv.fr/risques-accidentels-pprt-cssseveso-plan-de-r141.html
+
+-  Sur les retours d'expérience sur les accidents technologiques :
+
+https://www.aria.developpementdurable.gouv.fr/
+
+## 3.2 Le risque
+
+## rupture de barrage
+
+## Risque rupture de barrage
+
+## GENERALITES
+
+## Qu'est-ce qu'un barrage ?
+
+Un barrage est un ouvrage artificiel ou naturel (résultant de l'accumulation de matériaux à la suite de mouvements de terrain), établi le plus souvent en travers du lit mineur d'un cours d'eau, retenant ou pouvant retenir de l'eau.
+
+Les barrages ont plusieurs fonctions, qui peuvent s'associer : l'alimentation en eau potable des populations, la régulation de cours d'eau (écrêteur en période de crue, maintien d'un niveau minimum des eaux en période de sécheresse), l'irrigation des cultures, la production d'énergie électrique, la retenue de rejets de mines ou de chantiers, le tourisme et les loisirs, la lutte contre les incendies …
+
+## Classification des barrages
+
+Le code de l'environnement (article R.214-112) relatif à la sécurité des ouvrages hydrauliques a classifié les barrages de retenue et les barrages assimilés en 4 catégories en fonction de la hauteur de l'ouvrage (en mètres) et du volume d'eau retenue (en millions de mètres cubes) :
+
+- Classe A = Hauteur 20 m et Hauteur 2 x Volume 1500
+- Classe B = Hauteur 10 m et Hauteur 2 x Volume 200
+- Classe C = Hauteur 5 m et Hauteur 2 x Volume 20 ou
+
+Hauteur ≥ 2 m et Volume ≥ 0,05 et il existe une ou plusieurs habitations à l'aval du barrage, jusqu'à une distance de 400 mètres.
+
+On distingue deux types de barrages selon leur principe de stabilité :
+
+-  Le barrage poids , résistant à la poussée de l'eau par son seul poids. De profil triangulaire, il peut être en remblais (matériaux meubles ou semi-rigides) ou en béton.
+-  Le barrage voûte dans lequel la plus grande partie de la poussée de l'eau est reportée sur les rives par des effets d'arc. De courbure convexe tournée vers l'amont, il est constitué exclusivement de béton. Un barrage béton est découpé en plusieurs tranches verticales, appelées plots.
+
+## Comment se produit une rupture de barrage ?
+
+Le phénomène de rupture de barrage correspond à une destruction partielle ou totale d'un barrage. Les causes de rupture peuvent être diverses :
+
+-  technique : défaut de fonctionnement des vannes permettant l'évacuation des eaux, vices de conception, de construction ou de matériaux, vieillissement des installations.
+-  naturelle : séismes, crues exceptionnelles, glissements de terrain.
+-  humaine : insuffisance des études préalables et du contrôle d'exécution, erreurs d'exploitation, de surveillance et d'entretien, malveillance.
+
+Le phénomène de rupture dépend des caractéristiques propres du barrage. Ainsi, la rupture peut être :
+
+-  progressive dans le cas des barrages en remblais, par érosion régressive, suite à une submersion de l'ouvrage ou à une fuite à travers celui-ci.
+-  brutale dans le cas des barrage en béton, par reversement ou par glissement d'un ou plusieurs plots.
+
+Une rupture de barrage entraîne la formation d'une onde de submersion se traduisant par une élévation brutale du niveau de l'eau à l'aval.
+
+## Les conséquences sur les personnes et les biens
+
+## La catastrophe du barrage de Malpasset en 1959 à Fréjus
+
+Le barrage de Malpasset est un ancien barrage français situé au-dessus de Fréjus dans le Var. Il a été construit en 1954.
+
+Le 2 décembre 1959, le barrage se fissure et cède. Une vague de quarante mètres de haut déferle sur la vallée à 70km/h, dévastant campagnes et fermes. Elle atteindra la ville de Fréjus 20 minutes plus tard avant de se jeter dans la mer. Des blocs de pierre pesant jusqu'à six cents tonnes dévalent la colline et détruisent le quartier de Malpasset.
+
+On compte 423 morts et disparus, certaines familles sont décimées. Il s'agit de la plus grosse catastrophe de ce genre jamais survenue en France. Le barrage ne fut jamais reconstruit.
+
+Elles sont de trois ordres, humaines, économiques et environnementales. L'onde de submersion, l'inondation ainsi que les matériaux transportés issus du barrage et de l'érosion intense de la vallée, peuvent occasionner des dommages considérables :
+
+-  Sur les hommes : noyade, ensevelissement, personnes blessées, isolées ou déplacées.
+-  Sur les biens : destructions et détériorations aux habitations, aux entreprises, aux ouvrages (ponts, routes), aux réseaux d'eau, téléphonique et électrique, au bétail, aux cultures, paralysie des services publics…
+-  Sur l'environnement : endommagement, destruction de la flore et de la faune, disparition du sol cultivable, pollutions diverses, dépôts de déchets, boues et de débris, voire accidents technologiques dus à l'implantation d'industries dans la vallée (déchets toxiques ou explosion par réaction avec l'eau, …).
+
+## LE RISQUE RUPTURE DE BARRAGE DANS LE DEPARTEMENT
+
+## Les barrages dans le département des Deux-Sèvres
+
+Le département compte deux barrages de classe A (Hauteur ≥ 20 m et Hauteur 2 x √Volume ≥ 1500).
+
+Le barrage de la Touche Poupard est géré par la Société Publique Locale (SPL) des eaux de la Touche Poupard dans le cadre d'un contrat de concession avec le Département des Deux-Sèvres.
+
+Il est implanté sur 4 communes : SaintGeorges-de-Noisné, Clavé, Saivres et Exireuil.
+
+C'est un barrage poids rectiligne en béton compacté au rouleau. Cet ouvrage a une hauteur de 35 m, sa longueur de crête est de 200 m et sa capacité de stockage est de 15 millions de m 3 .
+
+Il a été mis en service en 1995 sur le cours d'eau Le Chambon, affluent de la Sèvre Niortaise. Les 15 millions de m 3 stockés sont répartis de la façon suivant : 7 millions de m 3 par an pour l'alimentation en eau potable, 3 millions de m 3 pour l'irrigation et 5 millions de m 3 pour le soutien d'étiage (augmentation du débit naturel de la Sèvre Niortaise en été).
+
+Source : Compagnie d'Aménagement des Eaux des Deux-Sèvres (CAEDS)
+
+## Risque rupture de barrage
+
+Le barrage du Puy Terrier , mis en service en 1982 sur le territoire des communes de SaintLoup Lamairé, Louin et Gourgé , sur le cours d'eau Le Cébron affluent du Thouet, est exploité par la Société Publique Locale (SPL) des eaux du Cébron.
+
+C'est un barrage poids en « terre et remblais », de hauteur 22 m et de longueur de crête de 245 m.
+
+Les usages de cette retenue, dont la capacité de stockage est de 11,5 millions de m 3 sont : 7,2 millions de m 3 réservés à l'eau potable, et 3,5 millions de m 3 au soutien d'étiage et à l'irrigation.
+
+Source : Compagnie d'Aménagement des Eaux des Deux-Sèvres (CAEDS)
+
+Aucun barrage de classe B n'a été recensé dans le département. Quant aux barrages de classe C, extrêmement nombreux, ils sont en cours de classement. Ce sont bien entendu les barrages de classe A qui entrent dans le cadre des risques majeurs.
+
+## Les actions préventives dans le département
+
+## L'examen préventif des projets de barrage
+
+L'examen préventif des projets de barrage est réalisé par le service de l'État en charge de la police de l'eau et par le Comité Technique Permanent des Barrages (CTPB). Le contrôle concerne toutes les mesures de sûreté prises, de la conception à la réalisation du projet.
+
+## L'étude des dangers
+
+Le propriétaire, l'exploitant ou le concessionnaire d'un barrage de classe A ou B doivent réaliser une étude des dangers précisant les niveaux de risques pris en compte, les mesures aptes à les réduire et les risques résiduels.
+
+Cette étude doit préciser la probabilité, la cinétique et les zones d'effets des accidents potentiels. Une cartographie des zones à risques significatifs doit être réalisée en définissant les zones menacées par l'onde de submersion qui résulterait d'une rupture totale de l'ouvrage.
+
+## La surveillance
+
+La surveillance constante des barrages s'effectue aussi bien pendant la période de mise en eau qu'au cours de la période d'exploitation. Toutes les informations recueillies par la surveillance permettent une analyse et une synthèse rendant compte de l'état du barrage, ainsi que l'établissement, tout au long de son existence, d'un « diagnostic de santé » permanent.
+
+Extrait de la cartographie des zones submergées susceptibles d'être générées par la rupture brutale du barrage de la Touche Poupard - Plan Particulier d'Intervention - Source : CAEDS
+
+## Risque rupture de barrage
+
+En fonction de la classe du barrage, un certain nombre d'études approfondies du barrage sont à réaliser périodiquement (visites techniques, rapport de surveillance et d'auscultation, revue de sûreté).
+
+## Le contrôle
+
+L'État assure un contrôle régulier, sous l'autorité des préfets, par l'intermédiaire des Directions Régionales de l'Environnement, de l'Aménagement et du Logement (DREAL).
+
+Un contrôle permanent de la structure de l'ouvrage, des niveaux, des débits et des évacuations est effectué par les exploitants respectifs de ces ouvrages.
+
+## Les mesures de sauvegarde et de secours
+
+Chaque barrage de plus de 20 m de hauteur et de capacité supérieure à 15 millions de m 3 , cas du barrage de la Touche Poupard, fait l'objet d'un Plan Particulier d'Intervention (PPI) qui constitue une disposition spécifique du plan ORSEC départemental. Il s'agit d'un plan d'urgence spécifique qui précise les mesures destinées à donner l'alerte aux autorités et aux populations, l'organisation des secours et la mise en place de plans d'évacuation. Le préfet est chargé de la mise en application des dispositions du PPI.
+
+Concernant le barrage de la Touche Poupard doté d'un PPI, plusieurs niveaux de vigilance et d'alerte sont prévus en fonction de l'évolution de l'événement. Deux stades de vigilance, « vigilance renforcée et préoccupations sérieuses » et un phase d'alerte « état de péril imminent » sont prévus en vue d'informer et de sauvegarder les populations situées à l'aval du réservoir :
+
+ cas de la vigilance « renforcée » : L'état de vigilance « renforcée » est prononcé pendant toute la mise en service du barrage, lors de crues représentant un danger pour la sécurité de l'installation, et en cas de constatation de faits anormaux susceptibles de compromettre la bonne tenue de l'ouvrage.
+
+ cas de la « préoccupation sérieuse » : L'état de « préoccupation sérieuse » est prononcé, soit lorsque les mesures techniques n'améliorent pas la tenue de l'édifice et que le comportement de celui-ci a tendance à s'aggraver, soit lorsque la probabilité de survenance d'un événement extérieur (crue exceptionnelle ou effondrement de terrain par exemple) se confirme.
+
+ cas de l'état de « péril imminent » : L'état de « péril imminent » est prononcé lorsque le contrôle du barrage n'est plus assuré. Dans ce cas, le réseau des sirènes de la zone de sécurité immédiate est déclenché.
+
+La cartographie des communes concernées par le risque rupture de barrage est présentée ci-après.
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+## Avant
+
+-  S'organiser et anticiper :
+- S'informer des risques, des modes d'alerte et des consignes en mairie ;
+- Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police) ;
+- S'organiser et élaborer les dispositions nécessaires à la mise en sûreté ;
+- se soucier des personnes proches (voisins et personnes vulnérables) ;
+- Prévoir le matériel nécessaire à l'obturation des ouvertures ;
+-  Et de façon plus spécifique (si le délai de propagation de l'onde de submersion le permet) :
+- Mettre hors d'eau les meubles, objets précieux (album de photos, papiers personnels, factures) ainsi que les matières et les produits dangereux ou polluants;
+- Couper l'eau, l'électricité, le gaz et le chauffage, laisser le téléphone branché ;
+- Protéger son habitation en obturant toutes les ouvertures basses du domicile. Face à une montée des eaux très importante, mieux vaut laisser pénétrer l'eau pour éviter la pression hydrostatique ;
+- Amarrer les cuves;
+- Repérer les stationnements hors zone inondable ;
+- Prévoir les équipements minimums (radio à piles, réserve d'eau potable et de produits alimentaires, papiers personnels, médicaments urgents, vêtements de rechange, couvertures…)
+
+## Pendant
+
+- Evacuer et gagner le plus rapidement possible les points hauts les plus proches ;
+- Ne pas s'engager sur une route inondée (à pied ou en voiture) ;
+- Ne pas descendre dans les sous-sols pour ne pas être piégé par la montée des eaux ;
+- Rester dans les étages supérieurs et s'installer en hauteur si cela est possible ;
+- Ne pas aller chercher les enfants à l'école, les enseignants s'occupent d'eux ;
+- Ne pas téléphoner de façon à libérer les lignes pour les secours ;
+- Ne pas utiliser les équipements électriques (ascenseurs, …) ;
+- Ne pas consommer l'eau du robinet sans l'avis de la mairie ;
+- En cas d'évacuation, préparer le strict minimum (papiers importants, médicaments) et se conformer aux directives des services de secours.
+
+## Après
+
+-  Respecter les consignes ;
+- Informer les autorités de tout danger ;
+- Aider les personnes sinistrées ou à besoins spécifiques ;
+-  Et de façon plus spécifique :
+- S'il y a eu évacuation, attendre les consignes des autorités avant de regagner son domicile ;
+- En cas de bien inondés :
+- . Nettoyer et désinfecter les lieux, aérer les lieux, chauffer les pièces de manière progressive dès que possible;
+- . Ne rétablir le courant électrique que si l'installation est sécurisée ;
+- . Contacter le plus rapidement possible l'assureur et les professionnels ;
+- Avant de boire l'eau du robinet, s'assurer auprès de la mairie qu'elle est potable ;
+
+## Risque rupture de barrage
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- DREAL Poitou-Charentes (Direction Régionale de l'Environnement, de l'Aménagement et du Logement Poitou-Charentes)
+- SPL (La Société Publique Locale des eaux de la Touche Poupard)
+
+15 rue Arthur Ranc - BP 60539 - 86020 POITIERS CEDEX tél : 05.49.55.63.63
+
+Maison du Département - Mail Lucie Aubrac CS 58 880 - 79 028 NIORT Cedex Tél : 05.49.06.77.71
+
+- SPL (La Société Publique Locale des eaux du Cébron) 1 barrage du Cébron - 79 600 LOUIN
+- SDIS (Service Départemental d'Incendie et de Secours) 100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+- Mairies
+
+Tél : 05.49.64.63.97
+
+Pour en savoir plus
+
+-  Le risque rupture de barrage (généralités) :
+
+https://www.gouvernement.fr/risques/rupture-debarrage https://www.georisques.gouv.fr/articles/le-risquede-rupture-de-barrage
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturels-ettechnologiques/Prevention-des-risques-naturelsmajeurs-et-technologiques
+
+## 3.3 Le risque transport de matières dangereuses
+
+## Le risque transport de matières dangereuses
+
+## GENERALITES
+
+## Qu'est-ce que le risque transport matières dangereuses (TMD) ?
+
+Une matière est considérée comme dangereuse lorsqu'elle est susceptible d'entraîner des conséquences graves pour la population, les biens et/ou l'environnement, en fonction de ses propriétés physiques et/ou chimiques, ou bien par la nature des réactions qu'elle peut engendrer.
+
+Le risque Transport de Matières Dangereuses (TMD) est consécutif à un accident se produisant lors du transport de ces matières par voie routière, ferroviaire, aérienne, fluviale ou par canalisation. Ces matières et produits peuvent être inflammables, toxiques, explosifs, corrosifs ou radioactifs.
+
+## Comment se manifeste-t-il ?
+
+En fonction de la nature des produits transportés, de leur quantité, de l'importance de l'accident et de la distance à laquelle se produit l'accident, les dangers sont plus ou moins importants. On peut distinguer quatre grands effets qui parfois se combinent :
+
+##  L'explosion
+
+Elle peut être provoquée par un choc avec production d'étincelles (notamment pour les citernes de gaz inflammable), par l'éventrement d'une canalisation par des engins de chantier, par l'échauffement d'une cuve de produits ou encore un allumage inopiné de munitions et d'artifices. L'explosion a des effets à la fois thermiques et mécaniques (effet de surpression lié à l'onde de choc) qui sont ressentis à proximité du sinistre et jusque dans un rayon de plusieurs centaines de mètres.
+
+##  Un incendie
+
+L'incendie peut être causé par l'échauffement anormal d'un organe du véhicule, un choc avec production d'étincelles, l'inflammation d'une fuite sur une citerne ou une canalisation, l'explosion au voisinage immédiat du véhicule ou encore un acte malveillant. Compte tenu du fait que 70 % des matières dangereuses transportées sont des combustibles ou des carburants, ce type d'accident est le plus probable. Un incendie de produits inflammables solides, liquides ou gazeux engendre des effets thermiques (brûlures), pouvant être aggravés par des problèmes d'asphyxie et d'intoxication, liés à l'émission de fumées toxiques.
+
+##  Un dégagement de nuage toxique
+
+Il peut provenir d'une fuite de produit toxique (cuve, citerne, canalisation de transport) ou résulter d'une combustion. En se propageant dans l'air, l'eau ou le sol, les matières dangereuses peuvent être toxiques par inhalation, par ingestion directe ou indirecte, par la consommation de produits contaminés, ou encore par simple contact.
+
+##  Une pollution du sol et/ou des eaux
+
+Elle peut survenir suite à une fuite de produit qui va ensuite s'infiltrer dans le sol et/ou se déverser dans le milieu aquatique proche, et constituer un danger pour l'environnement.
+
+## Les conséquences sur les personnes et les biens
+
+Hormis dans les cas très rares, les conséquences d'un accident impliquant des matières dangereuses sont généralement limitées dans l'espace, du fait des faibles quantités transportées :
+
+ Les conséquences humaines : il s'agit des personnes physiques directement ou indirectement exposées aux conséquences de l'accident. Elles peuvent se trouver dans un lieu public, à leur domicile ou sur leur lieu de travail. Le risque pour ces personnes peut aller de la blessure légère au décès.
+
+ Les conséquences économiques : les causes d'un accident de TMD peuvent mettre à mal l'outil économique d'une zone. Les entreprises voisines du lieu de l'accident, les routes, les réseaux, les voies de chemin de fer, etc peuvent être détruites ou gravement endommagées, d'où des conséquences économiques désastreuses.
+
+ Les conséquences environnementales : un accident de TMD peut avoir des répercussions importantes sur les écosystèmes. On peut assister à une destruction partielle ou totale de la faune et de la flore. Les conséquences d'un accident peuvent également avoir un impact sanitaire (pollution des nappes phréatiques par exemple) et, par voie de conséquence, un effet sur l'homme.
+
+## Quelques accidents marquants en France
+
+##  Le transport routier
+
+L'un des plus graves accidents routiers de TMD en France est celui de Saint-Amand-les-Eaux dans le Nord (1973) qui fît 9 morts et 45 blessés et au cours duquel 9 véhicules et 13 maisons furent détruits [source : base de données Aria-Barpi]. L'accident fût causé par un semi-remorque de vingt tonnes transportant du propane, qui s'était couché sur le trottoir en voulant doubler un cycliste. Le gaz liquéfié s'écoula en formant un brouillard dans la rue. Ce nuage de propane (état gazeux) trouva une source d'ignition et provoqua l'éclatement et l'éparpillement de la citerne, dans un rayon de 450 mètres.
+
+L'accident de Port-Sainte-Foy, en Dordogne, est le plus grave recensé depuis que les statistiques existent (la première brochure ayant été publiée en 1973). Le 8 septembre 1997, la collision d'un camion citerne transportant 31 tonnes de produits pétroliers (fioul, super sans plomb, gazole), avec un autorail sur un passage à niveau, eut pour bilan 12 morts et 43 blessés. Sans exploser, la citerne s'enflamma et communiqua l'incendie aux wagons de voyageurs, ainsi qu'à une maison.
+
+##  Le transport ferroviaire
+
+L'accident TMD par voie ferrée le plus marquant est celui qui a eu lieu à La Voulte (Ardèche) en 1993. À la suite d'une rupture d'essieu, un convoi de vingt wagons d'essence (20 000 litres par wagon) dérailla : trois citernes renversées s'enflammèrent et explosèrent. L'incendie se propagea aux habitations voisines. L'essence s'infiltra dans les sols et les égouts. Près de 500 personnes, dont six blessés, furent évacuées dans un périmètre de sécurité de 300 mètres. Cinq maisons furent détruites, cinq autres endommagées et des voitures calcinées. Des couvercles de bouches d'égout furent projetés à plusieurs mètres. À 800 mètres du lieu du sinistre, un bâtiment abritant une station de relevage des effluents fut détruit. Des puits agricoles furent pollués et 2,6 ha de terrains contaminés.
+
+## LE RISQUE TMD DANS LE DEPARTEMENT
+
+## Le risque dans le département des Deux-Sèvres
+
+Compte tenu des modes de transports présents sur le territoire du département des Deux-Sèvres, le risques de TMD se situe avant tout sur les parcours empruntés par voie routière et par voie ferroviaire. Plusieurs canalisations de gaz haute pression sont par ailleurs présentes dans le département.
+
+Concernant le réseau routier, le risque d'accident impliquant un transport de matières dangereuses est particulièrement diffus et concerne non seulement l'ensemble des axes desservant les entreprises exploitant des produits dangereux (industries classées, stations services, grandes surfaces, …), mais aussi les particuliers (livraisons de fioul domestique ou de gaz). Cependant, certains axes présentent une potentialité plus forte du fait de l'importance du trafic.
+
+Il est à noter qu'aucun accident grave impliquant des TMD n'a été recensé à ce jour dans le département.
+
+L'ensemble du réseau d'infrastructures de TMD présent dans le département (routes, rail, canalisations de gaz) figure sur la carte jointe à la fin de ce chapitre.
+
+## TMD par route
+
+Les flux de transit de matières dangereuses sont relativement importants dans le département avec le carrefour de grands axes routiers et autoroutiers.
+
+Le département est notamment traversé par deux autoroutes majeures, l'A10 et l'A83. Le réseau des routes nationales est composées de la RN11 (La Rochelle-RN248), la RN10 (Poitiers-Angioulême), les RN149 et 249 (Poitiers-Nantes) et la RN248 qui constitue un barreau de liaison entre la R N11 et l'A10.
+
+Par ailleurs, le département comprend un réseau dense de routes départementales qui supportent un flux de trafic important pour certaines d'entre elles (RD948, RD648, RD611, RD743, RD650, RD950, RD938).
+
+## TMD par rail
+
+Dans le département, selon les sources de la SNCF, le trafic ferroviaire de marchandises dangereuses concerne uniquement les lignes POITIERS-LA ROCHELLE et SAUMUR-THOUARS.
+
+## TMD par canalisation
+
+Le département compte environ 240 kilomètres de canalisations de transport de gaz haute pression exploitées par GRTgaz.
+
+## Les mesures préventives
+
+## La réglementation
+
+La diversité des modes de transport, des produits transportés et des dangers qu'ils présentent ont conduit à la mise en place de réglementations spécifiques.
+
+ Le transport par route est régi par l'accord européen ADR (Accord pour le transport de matières Dangereuses par Route), complété par un arrêté pour les transports effectués sur le territoire français .
+
+ Le transport par voie ferrée est régi par le règlement international RID, complété également par un arrêté pour les transports effectués sur le territoire français.
+
+ Le transport par canalisation fait l'objet de différentes réglementations qui fixent les règles de conception, de construction, d'exploitation et de surveillance des ouvrages pour permettre d'intégrer les zones de passage des canalisations dans les documents d'urbanisme des communes traversées et de limiter les risques en cas de travaux.
+
+## Le risque transport de matières dangereuses
+
+## L'étude des dangers ou de sécurité
+
+La législation impose au gestionnaire de certaines infrastructures de transport une étude de dangers lorsque le stationnement, le chargement ou le déchargement de véhicules contenant des matières dangereuses ou l'exploitation d'un ouvrage d'infrastructure de transport peuvent présenter de graves dangers.
+
+## Prescriptions sur les matériels
+
+Afin d'éviter la survenue d'accidents impliquant des marchandises dangereuses, les réglementations imposent des prescriptions concernant les points suivants : la formation des personnels, la documentation obligatoire, les équipements obligatoires, la construction des véhicules, des wagonsciternes et des bateaux, les modalités de contrôles, les modalités de chargement et déchargement, les restrictions de stationnement et de circulation.
+
+## Signalisation et balisage
+
+Une signalisation spécifique s'applique à tous les moyens de transport : véhicule routier, wagon, containers, etc. En fonction des quantités de matières dangereuses transportées, les véhicules doivent être signalés :
+
+ par une signalisation générale TMD , matérialisée par une plaque orange réfléchissante rectangulaire (dimensions 40 x 30 cm), indiquant le code matière et le code danger. Elle permet de connaître rapidement les principaux dangers présentés par la matière transportée.
+
+Le numero d'identification du danger (ou code danger) est situe dans la moitie superieure du panneau.
+
+Le numero didentification de la matiere （ou code ONU) est situe dans la moitie inferieure du panneau.
+
+-  par une plaque-étiquette de danger , si la quantité transportée est telle que le transporteur doit faire apparaître sur son véhicule le code matière et le code danger de la matière transportée, il doit alors apposer également les plaques-étiquettes représentant les pictogrammes des principaux dangers.
+
+De même, si le transport se fait en colis, une étiquette de danger matérialisée également par un losange et reproduisant le symbole du danger prépondérant de la matière, doit être apposée sur l'emballage.
+
+## Le risque transport de matières dangereuses
+
+Pour les canalisations, un balisage au sol est tracé à intervalles réguliers de part et d'autre des éléments traversés : route, autoroutes, voies ferrées, cours d'eau… Il permet de matérialiser la présence d'une canalisation et de faciliter les interventions en cas d'accident.
+
+## Règles de circulation
+
+Certaines restrictions de vitesse et d'utilisation du réseau routier sont mises en place. En effet les tunnels ou les centres villes sont souvent interdits à la circulation des camions transportant des matières dangereuses. De même, certains transports routiers sont interdits les week-ends et lors de grands départs en vacances.
+
+Sur certains axes, la circulation de matières dangereuses est totalement interdite et signalée par les trois panneaux suivants :
+
+## La prise en compte dans l'aménagement
+
+Pour prévenir tout accident lié à des travaux de terrassement, les plans de canalisations souterraines sont pris en compte par les communes traversées au travers d'un plan de zonage déposé et consultable en mairie et d'une inscription au document d'urbanisme de la commune (PLU). D'autre part, les communes doivent obligatoirement être consultées avant le début de travaux dans une zone définie autour de la canalisation.
+
+Concernant les canalisations de transport de gaz haute pression , les textes réglementaires prévoient la mise en place de Servitudes d'Utilité Publique (SUP) autour des dites-canalisations afin de limiter l'exposition des riverains aux risques résiduels occasionnés par une rupture de canalisation. Les arrêtés de SUP pris dans le département des Deux-Sèvres, le 6 janvier 2017, sont disponibles sur le site internet de l'Etat via le lien suivant :
+
+http://www.deux-sevres.gouv.fr/Politiques-publiques/Environnement-eau-risques-naturels-ettechnologiques/Prevention-des-risques-naturels-majeurs-et-technologiques/Canalisations-de-transportde-gaz-haute-pression-Mise-en-oeuvre-de-servitudes-d-utilite-publique
+
+En application du code de l'urbanisme, les arrêtés sont annexés aux documents d'urbanisme pour prise en compte dans l'aménagement du territoire et l'application du droit des sols.
+
+## Le dispositif spécifique ORSEC « transport de matières dangereuses »
+
+Dans le département des Deux-Sèvres, il existe un plan déployé en cas d'accident de TMD par le préfet, qui constitue une disposition spécifique du plan ORSEC départemental. Il a pour objectif de donner l'alerte et d'organiser les secours pour protéger les populations, les biens et l'environnement.
+
+## Le risque transport de matières dangereuses
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+| Avant                                                                                                                                                                                                                                                                                                      | Pendant                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Après                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| - Numéros de téléphone utiles : . 112 ou 18 pompiers . 15 SAMU . 17 gendarmerie, police - Savoir identifier un convoi de matières dangereuses : les panneaux et les pictogrammes apposés sur les unités de transport permettent d'identifier le ou les risques générés par la ou les matières dangereuses. | Si l'on est témoin d'un accident de TMD : - S'éloigner de la zone de l'accident et faire éloigner les personnes à proximité. Ne pas tenter d'intervenir soit même. - Donner l'alerte aux sapeurs- pompiers (18 ou 112), à la police ou la gendarmerie (17) en précisant si possible le lieu exact, le moyen de transport (poids-lourd, canalisation, train), la présence ou non de victimes, la nature du sinistre (feu, explosion, fuite, déversement…) et le cas échéant le numéro du produit et le code danger. En cas de fuite du produit : - Ne pas toucher ou entrer en contact avec le produit. - Quitter la zone de l'accident. S'éloigner si possible perpendiculairement à la direction du vent pour éviter un possible nuage toxique. - Rejoindre le bâtiment le plus proche et se confiner. | - Si vous êtes mis à l'abri, aérer le local à la fin de l'alerte. |
+
+## Le risque transport de matières dangereuses
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- DREAL Poitou-Charentes (Direction Régionale de l'Environnement, de l'Aménagement et du Logement Poitou-Charentes)
+- SDIS (Service Départemental d'Incendie et de Secours)
+- Mairies
+-  Le risque TMD (généralités)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+15 rue Arthur Ranc - BP 60539 - 86020 POITIERS CEDEX tél : 05.49.55.63.63
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+
+Pour en savoir plus
+
+https://www.gouvernement.fr/risques/transportde-matieres-dangereuses https://www.georisques.gouv.fr/articles/lerisque-de-transport-de-matieres-dangereuses
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturelset-technologiques/Prevention-des-risquesnaturels-majeurs-et-technologiques
+
+-  Le site de GRTgaz
+
+http://www.grtgaz.com
+
+## 3.4 Le risque minier
+
+## Risque minier
+
+## GENERALITES
+
+## Qu'est-ce que le risque minier ?
+
+Une mine est un gisement de matériaux (or, charbon, sel, uranium, plomb argentifère,…). De nombreuses concessions minières ont été octroyées au cours des siècles. La plupart des sites sont désormais fermés, abandonnés et laissés sans entretien du fait de l'arrêt de leur exploitation. Il en résulte la présence de nombreuses cavités souterraines artificielles plus ou moins profondes présentant des risques de mouvement de terrain potentiels pouvant induire des désordres en surface et affecter la sécurité des personnes et des biens.
+
+## On distingue :
+
+- -les mines, à ciel ouvert ou souterraines, dont l'exploitation est régie par le code minier, d'où l'on extrait des matériaux stratégiques (métaux tels le fer, l'or, le cuivre ou l'uranium ; combustibles tels le charbon, le pétrole et le gaz naturel, etc ;
+- -les carrières, à ciel ouvert ou souterraines, dont l'exploitation est régie par le code de l'environnement, qui exploitent des matériaux de construction tels que le calcaire, la craie, le sable, le gravier, l'argile, les roches massives, etc.
+
+Cette partie ne concerne que les mines, les carrières étant traitées dans la partie relative aux risques « mouvements de terrain » . Il nous est apparu important de présenter un chapitre spécifique dédié au risque minier correspondant aux anciens bassins miniers du département, car le risque minier ne se résume pas qu'à des risques de mouvements de terrain. En effet, il peut aussi se manifester par des problématiques environnementales (pollutions, dégagement de gaz, etc).
+
+## Comment se manifeste-t-il ?
+
+Les manifestations en surface du risque minier sont de plusieurs ordres en fonction des matériaux exploités, des gisements et des modes d'exploitations.
+
+## On distingue :
+
+- -les mouvements au niveau des fronts de taille des exploitations à ciel ouvert se caractérisant par des glissements de terrain ou des chutes de blocs.
+- -les effondrements localisés du toit d'une cavité souterraine proche de la surface se traduisant par la création d'un entonnoir de faible surface.
+- -les effondrements généralisés par dislocation rapide et chute des terrains sus-jacents à une cavité peu profonde et de grande dimension.
+- -les affaissements progressifs d'une succession de couches de terrain meuble avec formation en surface d'une cuvette d'affaissement et d'une zone de tassement.
+
+Principe de l'effondrement localisé - Source GEODERIS
+
+Principe de l'affaissement progressif - Source GEODERIS
+
+## Risque minier
+
+Par ailleurs, comme évoqué avant, selon leur nature, les anciennes exploitations minières peuvent générer d'autres risques : des pollutions des eaux et des sols, des inondations par remontée des eaux en zones affaissées, des explosions gazeuses (grisou), des émissions de gaz asphyxiant et toxiques (radon) ou de rayonnements ionisants résultant de l'exploitation de minerai radioactif (uranium).
+
+## Les conséquences sur les personnes et les biens
+
+Les mouvements de terrain rapides et discontinus (effondrements localisés ou généralisés), par leur caractère soudain, peuvent causer des dommages importantes et affecter les biens et les infrastructures (bâtiments, voies de communication, réseaux d'eau et de gaz).
+
+Les affaissements en surface provoquent des dégâts sur les bâtiments avec fissurations, compressions, mise en pente.
+
+Les travaux miniers peuvent perturber les circulations superficielles et souterraines des eaux : modifications du bassin versant, du débit des sources et des cours d'eau, apparition de zones détrempées, inondations en cours ou à l'arrêt du chantier (notamment à cause de l'arrêt du pompage ou de l'ennoyage des galeries).
+
+Enfin l'activité minière s'accompagne assez fréquemment de pollutions des eaux souterraines et superficielles et des sols du fait du lessivage des roches et des produits utilisés (métaux lourds tels mercure, plomb, nickel …).
+
+## LE RISQUE MINIER DANS LE DEPARTEMENT
+
+## Le risque minier au sein du département
+
+Le département des Deux-Sèvres compte trois sites présentant des risques miniers suite à l'exploitations d'anciennes concessions minières :
+
+##  L'ancien bassin minier de Mallièvre (production d'uranium)
+
+La concession de Mallièvre, située à la limite des départements des Deux-Sèvres et de la Vendée, s'étend sur une superficie de 107 km 2 . Ce gisement a produit 5 000 tonnes d'uranium de 1958 à 1990. Pendant cette période, quatre sites ont été exploités : celui de La Chapelle Largeau (commune de Mauléon dans les Deux-Sèvres), le site de la Commanderie sur la commune de Treize Vents en Vendée et la commune associée de Le Temple (commune de Mauléon), le site de la Dorgesière à Saint-Amand sur Sèvre (79) et, à moindre échelle, le site de la Roche Pied Rôti (commune de Mauléon).
+
+Ces sites, exploités par COGEMA devenue depuis AREVA, ont fait l'objet de nombreuses expertises par GEODERIS et le BRGM, entre 2005 à 2008, dans l'objectif d'évaluer le niveau de risque résiduel généré par les anciennes mines.
+
+Panneau d'information - Source AREVA
+
+Ces expertises, réalisées en plusieurs phases, ont porté sur les mouvements de terrains (risque d'effondrement, de tassement, d'éboulement et de glissement) et sur les impacts environnementaux (pollution des eaux et des sols, présence de radon et radioactivité, etc). Ces investigations ont montré que le site présentant le plus de risques est celui de La Chapelle Largeau dont une partie du bourg a été urbanisée dans le périmètre d'étude, notamment le lotissement de Bel Air.
+
+L'analyse de ces études a conduit à prescrire à AREVA la réalisation d'un bilan environnemental afin d'améliorer la connaissance de l'impact environnemental et sanitaire de ces sites et leur gestion. Ce bilan porte notamment sur les stériles miniers ou les résidus de traitement de minerai, sur les problématiques liées à la présence de radon et de radioactivité, etc. Le bilan présente les actions à
+
+## Risque minier
+
+mener et les mesures envisagées pour supprimer, limiter et réduire les éventuels impacts sur l'environnement.
+
+Pour le suivi de ce plan d'action et afin d'assurer l'information des représentants de la population, un Comité Interdépartemental de suivi des risques miniers de l'ancienne concession de Mallièvre (79 et 85) a été mis en place et s'est réuni à plusieurs reprises.
+
+##  L'ancien bassin minier de Faymoreau (exploitation de houille et de schistes bitumineux)
+
+Ce secteur concerne six anciennes concessions de houille et une concession de schistes bitumineux exploitées au cours d'une période s'étalant de 1827 à 1958. Il se situe principalement dans le département de la Vendée et partiellement dans le département des Deux-Sèvres (communes de Saint-Laurs et du Busseau).
+
+Comme pour le bassin minier de Mallièvre, le Groupement d'Intérêt Public GEODERIS a été mandaté par les services de l'Etat pour produire une étude d'évaluation des aléas sur les concessions du bassin minier de Faymoreau. Cette étude a porté sur les problématiques de mouvements de terrain, d'inondations, d'émanations de gaz dangereux, de pollutions des sols ou des eaux et d'émissions de rayonnements ionisants.
+
+Cette expertise n'a pas mis en évidence des niveaux de risques importants et de problématiques particulières sur le territoire des deux communes des Deux-Sèvres concernées.
+
+##  Les anciennes exploitations de plomb argentifère du secteur de Melle
+
+Le site de Melle a été exploité approximativement de l'an 600 à l'an 1000 afin d'extraire du minerai de plomb argentifère. Les quantités exploitées sont estimées à 750 000 tonnes de plomb et 14 000 tonnes d'argent réparties sur une surface d'environ 47 km 2 .
+
+GEODERIS a réalisé en 2010 des études sur le risque minier résiduel qui se concentre potentiellement essentiellement sur le territoire de la commune de Melle. Elle ont porté principalement sur les problématiques relatives aux mouvements de terrain et aux dépôts constitués par les résidus miniers issus de ces exploitations.
+
+Concernant les aléas relatifs aux mouvements de terrains, les études ont conclu à l'absence de problèmes et de désordres importants, et cette problématique ne présente pas de contrainte particulière au regard du développement de l'urbanisation.
+
+Concernant les résidus des anciens déchets de l'industrie extractive, des investigations complémentaires sont en cours pour évaluer leur impact potentiel sur l'environnement.
+
+Mines d'argent de Melle - Source INERIS et BRGM
+
+La carte ci-après mentionne les communes du département des Deux-Sèvres concernées par les risques résiduels dans les anciennes exploitations minières.
+
+## Les actions préventives
+
+Les mines, en activité ou arrêtées, relèvent du code minier. Il vise à prévenir les conséquences environnementales susceptibles de subsister à court, moyen ou long terme après des travaux miniers. Il a mis l'accent sur les mesures de prévention et de surveillance que l'Etat est habilité à prescrire à l'explorateur ou l'exploitant.
+
+## La connaissance du risque
+
+L'Etat a pris des dispositions pour évaluer les risques présentés par les anciennes exploitations minières, notamment par la création du Groupement d'Intérêt Public GEODERIS, partenariat entre le Bureau des Recherches Géologiques et Minières (BRGM) et l'Institut National de l'Environnement industriel et des Risques (INERIS). GEODERIS apporte à l'Etat, aux administrations centrales et aux services déconcentrés, en particulier aux DREAL, une assistance et expertise en matière d'après mine .
+
+C'est dans ce cadre que des expertises ont été confiées à cet organisme sur les trois sites miniers des Deux-Sèvres afin d'évaluer les risques potentiels et les impacts sur l'environnement.
+
+## La prise en compte dans l'aménagement
+
+Le Code de l'Urbanisme impose la prise en compte des risques dans les documents d'urbanisme :
+
+- -Le Schéma de Cohérence Territoriale (SCoT) définit une stratégie d'aménagement à l'échelle d'un territoire intercommunal ;
+- -Les Plans Locaux d'Urbanisme permettent de maîtriser le développement de l'urbanisation en fonction des zones à risque, et notamment de rendre inconstructibles les zones les plus dangereuses.
+-  L'article R111-2 du Code de l'Urbanisme donne également la capacité aux maires de refuser ou d'accepter sous réserve du respect de certaines prescriptions un permis de construire ou d'aménager qui comporterait un risque pour la sécurité publique.
+-  Le plan de prévention des risques miniers (PPRM) introduit par la loi 99-245 du 30 mars 1999 et établi par l'Etat :
+-  identifie les nuisances ou les risques susceptibles de perdurer à long terme (affaissement, effondrement, inondation, émanation de gaz dangereux, de rayonnements ionisants, pollution des sols ou de l'eau, ...) ;
+-  définit des zones d'interdiction de construire et des zones de prescription ou constructibles sous réserve ;
+-  peut imposer d'agir sur l'existant pour réduire la vulnérabilité des biens.
+
+Le règlement du PPRM rappelle les mesures de prévention et de surveillance édictées au titre de la police des mines, définit les mesures d'urbanisme à appliquer dans chaque zone (occupation du sol) et prescrit ou recommande des dispositions constructives telles que l'adaptation des projets et de leurs fondations, le renforcement des bâtiments, etc.
+
+Dans certains cas, l'article L.174-6 du code minier prévoit l'expropriation des biens soumis à un risque minier quand il y a menace grave pour la sécurité des personnes et que le coût des mesures de sauvegarde et de protection est supérieur au coût de l'expropriation.
+
+Dans le département des Deux-sèvres, il n'a pas été jugé pertinent de lancer des démarches de PPRM pour les trois sites miniers. En effet, compte tenu des principaux résultats des expertises GEODERIS sur les niveaux de risques résiduels pour les territoires concernés, des enjeux existants et de la connaissance des projets d'urbanisme des collectivités dans ces secteurs, la mise en œuvre d'une telle démarche n'est pas apparue opportune.
+
+## La surveillance et la prévision des phénomènes
+
+Différentes techniques de surveillance de signes précurseurs de désordres en surface peuvent être mises en œuvre : suivi topographique, par satellite, utilisation de capteurs (extensomètre, tassomètre, inclinomètre …), analyse de la sismicité.
+
+Ces techniques permettent de suivre l'évolution des déformations, de détecter une aggravation avec accélération des déplacements et de donner l'alerte si nécessaire. Ces dispositifs d'auscultation peuvent conduire à une veille permanente et à l'installation d'un système de transmission de l'alerte en temps réel.
+
+Lorsque les cavités souterraines sont accessibles, des contrôles visuels périodiques permettent d'apprécier l'évolution du toit, des parois et des piliers des travaux souterrains.
+
+## Risque minier
+
+## Risque minier
+
+Comme évoqué précédemment, le site de Mallièvre fait l'objet d'une surveillance particulière. La réalisation d'un bilan environnemental a été prescrite à la société AREVA par arrêté préfectoral du 17 mai 2010. Ce bilan porte notamment sur les stériles miniers ou les résidus de traitement de minerai, sur les problématiques liées à la présence de radon et de radioactivité, etc. Le bilan doit présenter les actions à mener et les mesures envisagées pour supprimer, limiter et réduire les éventuels impacts sur l'environnement. A la suite de ce bilan, l'exploitant proposera si nécessaire une mise à jour de son programme de surveillance environnementale des sites.
+
+## Les travaux pour réduire les risques
+
+Parmi les mesures prises ou à prendre pour réduire l'aléa minier ou la vulnérabilité des enjeux, on peut citer :
+
+-  Le renforcement des cavités visitables : renforcement des piliers existants par béton projeté, boulonnage, frettage ; construction de nouveaux piliers en maçonnerie ; boulonnage du toit ; remblayage avec comblement de divers matériaux.
+-  Le renforcement des cavités non visitables : mise en place de plots ou piliers en coulis ; remblayage par forage depuis la surface ; terrassement de la cavité ; injection par forage.
+-  Le renforcement des structures concernées afin de limiter leur sensibilité aux dégradations dues à l'évolution des phénomènes miniers : chaînage, fondations superficielles renforcées, radier, longrines …
+-  La mise en place de fondations profondes par micro pieux.
+-  L'adaptation des réseaux d'eau souterrains pour réduire le processus de dégradation des cavités souterraines.
+-  La mise en sécurité des ouvrages.
+
+## LES CONSIGNES INDIVIDUELLES DE SECURITE
+
+## Avant
+
+- S'informer des risques, des modes d'alerte et des consignes de sauvegarde.
+- Noter les numéros utiles (mairie, 112 ou 18 pompiers, 15 SAMU, 17 gendarmerie et police).
+- Ne pas pénétrer dans les anciens travaux miniers souterrains, ni même arpenter les anciennes installations de surface.
+
+## Contacts
+
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- BRGM (Bureau de Recherches Géologiques et Minières de Poitiers)
+- DREAL Poitou-Charentes (Direction Régionale de l'Environnement, de l'Aménagement et du Logement Poitou-Charentes)
+- SDIS (Service Départemental d'Incendie et de Secours)
+- Mairies
+
+5 rue de la Goélette - 86280 SAINT-BENOIT tél : 05.49.38.15.38
+
+15 rue Arthur Ranc - BP 60539 - 86020 POITIERS CEDEX tél : 05.49.55.63.63
+
+100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+
+## Après
+
+- Ne pas retourner dans les bâtiments sans l'accord des autorités.
+- Faire procéder par les autorités, s'il y a dommage aux biens, à la reconnaissance de sinistre minier en vue de la remise en état ou d'indemnisation.
+
+## Pour en savoir plus
+
+-  Le risque minier (généralités) :
+
+https://www.gouvernement.fr/risques/risqueminier
+
+-  Pour connaître les risques près de chez soi :
+
+http://www.georisques.gouv.fr/
+
+-  Pour obtenir des informations sur les risques dans le département des Deux-Sèvres :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-eau-risques-naturelset-technologiques/Prevention-des-risquesnaturels-majeurs-et-technologiques
+
+-  Le site de la DREAL Nouvelle-Aquitaine :
+
+http://www-maj.dreal.aquitaine-limousinpoitou-charentes.e2.rie.gouv.fr/mines-uraniumr3932.html
+
+-  Le site de GEODERIS :
+
+http://www.geoderis.fr
+
+-  Le site du BRGM :
+
+http://www.brgm.fr
+
+## Pendant
+
+- Même s'il est faible, l'apparition en surface de désordres miniers présente un risque pour la sécurité des personnes : ne pas s'approcher de la zone des phénomènes et respecter les consignes des autorités.
+- Si les bâtiments sont touchés par des désordres, une évacuation immédiate ou à terme des lieux est nécessaire.
+- Dans tous les cas, il convient de prévenir immédiatement les autorités.
+
+## 4. Annexes
+
+## Annexe n°1 : Information sur le risque incendie de cultures (céréales à paille)
+
+## Qu'est-ce qu'un incendie de culture ?
+
+On entend ici par incendie de culture, un incendie qui peut se déclencher dans les parcelles agricoles plantées de cultures facilement inflammables telles que les céréales à paille (blé, orge, …).
+
+Ces feux de champs se déclenchent en été. Ils peuvent se produire lorsque que :
+
+- -la culture est sur pieds,
+- -la culture a été moissonnée et qu'elle est en attente de pressage,
+- -la paille est pressée ou que la culture est à l'état de chaume.
+
+## Comment se manifeste-t-il ?
+
+Plusieurs facteurs favorisent le déclenchement d'un feu de cultures, tels que la maturité de la plante, les conditions météorologiques, et la réalisation de travaux agricoles dans le champs concerné.
+
+Les fortes chaleurs et l'extrême sécheresse, accompagnées d'un vent soutenu, font que la moindre étincelle peut s'avérer redoutable. L'inflammabilité des plantes et l'espacement des pieds sont aussi des facteurs favorables à une propagation rapide du feu.
+
+Les feux de champs peuvent être accidentels (ex : étincelle provenant d'un engin agricole), mais également provoqués par de l'imprudence (ex : mégot de cigarette jeté au sol) ou un acte de malveillance.
+
+D'importantes surfaces de cultures peuvent être anéanties par un seul feu. Ce type de sinistre peut présenter, par sa vitesse de propagation, un risque évident pour les personnes mais aussi pour les habitations, les massifs forestiers et les voies de circulations à proximité.
+
+## Quels sont les risques dans le département ?
+
+En 2006, le SDIS a dû faire face à un nombre conséquent d'incendies de culture dans le département, dont certains ont concerné plus de 100 hectares, voire 250 hectares pour un incendie survenu sur le secteur de Melle. Au cours de cette période, le SDIS a dû certains jours mobiliser des moyens importants pour combattre plusieurs incendies simultanés.
+
+En 2013, les surfaces agricoles représentent 72 % du territoire départemental. Environ 197 000 hectares ont été consacrés aux cultures de céréales dont 129 000 hectares de céréales à paille.
+
+La cartographie qui suit fait ressortir l'importance des cultures de céréales à paille dans les communes du département. Les grandes plaines du sud du département concentrent ce type de cultures, ainsi que l'Airvaudais et le Thouarsais.
+
+## Quelles sont les mesures prises dans le département ?
+
+## La réglementation
+
+L'arrêté préfectoral du 29 juin 2010 prescrit les mesures réglementaires relatives aux brûlages et à la prévention des incendies dans le département. Par ailleurs, les maires ont la possibilité, en vertu des pouvoirs de police qui leurs sont conférés, d'interdire, d'ajourner, ou de donner l'ordre d'arrêter le brûlage.
+
+## L'organisation des secours
+
+Ce sont les sapeurs-pompiers du SDIS qui procèdent aux opérations de lutte contre les feux de champs. Pour ces interventions, le SDIS est équipé de véhicules hors chemin afin de pouvoir circuler sur les terres agricoles.
+
+Par ailleurs, l'engagement des secours est dimensionné en fonction des conditions météorologiques qui déterminent le niveau de danger. En fonction de ce niveau de danger, qui varie de faible à exceptionnel, des moyens plus ou moins importants sont engagés pour lutter contre l'incendie.
+
+## Les consignes de sécurité
+
+Ces consignes s'adressent prioritairement aux exploitants agricoles.
+
+| Avant                                                                                                                                                                                                                                         | Pendant                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Limiter la surface des parcelles de cultures facilement inflammables et alterner avec des cultures qui le sont moins afin de créer des coupe- feux naturels.  Veiller au bon entretien du matériel agricole et à la présence d'extincteur. |  Lors de l'alerte, préciser au SDIS en plus des renseignements habituels (adresse, commune, numéro de téléphone …) le type de culture concerné, la surface de la parcelle concernée, quelles sont les autres parcelles ou les bâtiments menacés par le sinistre.  Procéder si possible à un déchaumage ou une humidification en avant du feu afin de couper et/ou freiner sa propagation.  Evacuer les engins de la parcelle concernée. |
+
+- Numéros de téléphone utiles :
+- . 112 ou 18 pompiers
+- . 15 SAMU
+- . 17 gendarmerie, police
+- Préfecture des Deux-Sèvres (Service Interministériel de Défense et de Protection Civile)
+- DDT (Direction Départementale des Territoires) 39 avenue de Paris - BP 526 - 79022 NIORT CEDEX 9 tél : 05.49.06.88.88
+- SDIS (Service Départemental d'Incendie et de Secours) 100 rue de la Gare - CS 40019 - 79185 CHAURAY tél : 05.49.08.18.18
+- Mairies
+
+4 rue Du Guesclin - BP 522 - 79099 NIORT CEDEX 9 tél : 05.49.08.68.68
+
+## Pour en savoir plus
+
+-  Pour consulter l'arrêté préfectoral du 29 juin 2010 concernant les mesures réglementaires relatives aux brûlages et à la prévention des incendies dans le département :
+
+http://www.deux-sevres.gouv.fr/Politiquespubliques/Environnement-risques-naturels-ettechnologiques/Prevention-desrisques/Arrete-portant-reglementationrelative-aux-brulages-a-la-prevention-desincendies-et-a-la-protection-de-l-air
+
+-  Le site du SDIS des Deux-Sèvres
+
+https://www.sdis79.fr/
+
+Annexe n°2 : Modèles réglementaires pour l'affichage des risques majeurs et des consignes de sécurité en application des articles R125-12 et R125-13 du code de l'environnement
+
+## Affiche communale
+
+## Affiche pour les consignes particulières à un immeuble
+
+&gt; sur internet :
+
+www. prim .net
+
+## Symboles pour l'affichage des risques naturels et technologiques
+
+Arrêté interministériel du 9 février 2005
+
+## Annexe n°3 : Tableau de synthèse des risques naturels et technologiques par commune présents dans le département
+
+Ce tableau récapitule, par commune, les risques naturels et technologiques identifiés dans le département.
+
+Il est actualisé chaque fois qu'intervient une modification significative en matière de réglementation ou d'évolution de la connaissance de tel ou tel risque.
+
+Il est accessible sur le site internet des services de l'Etat : www.deux-sevres.gouv.fr
+
+- (1) Communes avec un Atlas de Zones Inondables (réalisés en interne ou par un bureau d'études), et/ou communes avec 5 ou + de 5 arrêtés de catastrophes naturelles inondations sur leur territoire.
+- (2) Communes concernées par au moins 3 cavités souterraines répertoriées dans l'inventaire des cavités souterraines réalisé par le BRGM, en 2014, sur l'ensemble du département.
+- (3) Il s'agit de glissements de terrain, de coulées de boue, d'effondrements, de chutes de blocs et de pierres, de phénomènes d'érosion (hors cavités souterraines). Communes concernées par au moins 3 mouvements de terrain répertoriés dans l'inventaire départemental réalisé par le BRGM en 2009.
+- (4) Tout le département des Deux-Sèvres est classé en zone de sismicité modérée (niveau d'aléa 3 sur une échelle qui comporte 5 niveaux).
+- (5) Autoroutes, routes départementales importantes et canalisations de transport de gaz haute pression.
+- (6) Anciens bassins miniers de Mallièvre (uranium), de Faymoreau (houille et schistes bitumineux) et de Melle (plomb argentifère).
+- (7) Arrêté du 27 juin 2018 portant délimitation des zones à potentiel radon du territoire français :
+- zone 2 : zones à potentiel radon faible mais sur lesquelles des facteurs géologiques particuliers peuvent faciliter le transfert du radon vers les bâtiments
+- zone 3 : zones à potentiel radon significatif
+
+## M 5
+
+1
+
+CAFEBRR
+
+STOP
